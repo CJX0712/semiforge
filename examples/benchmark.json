@@ -1,0 +1,323 @@
+{
+  "config": {
+    "seed": 42,
+    "datasets": [
+      "moons",
+      "blobs",
+      "circle",
+      "spiral",
+      "highdim",
+      "digits"
+    ],
+    "strategies": [
+      "supervised",
+      "self_training",
+      "graph",
+      "co_training",
+      "cbcp_hybrid"
+    ],
+    "hpo": {
+      "status": "skipped",
+      "params": {},
+      "best_value": null
+    }
+  },
+  "rows": [
+    {
+      "dataset": "moons",
+      "strategy": "supervised",
+      "accuracy": 0.768421,
+      "macro_f1": 0.767387,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 0.0119
+    },
+    {
+      "dataset": "moons",
+      "strategy": "self_training",
+      "accuracy": 0.840351,
+      "macro_f1": 0.839437,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 0.7731,
+      "extra_n_pseudo": 160
+    },
+    {
+      "dataset": "moons",
+      "strategy": "graph",
+      "accuracy": 0.882456,
+      "macro_f1": 0.881845,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 0.0132,
+      "extra_backend": "sklearn"
+    },
+    {
+      "dataset": "moons",
+      "strategy": "co_training",
+      "accuracy": 0.754386,
+      "macro_f1": 0.749195,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 1.099
+    },
+    {
+      "dataset": "moons",
+      "strategy": "cbcp_hybrid",
+      "accuracy": 0.849123,
+      "macro_f1": 0.847953,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 2.5014,
+      "extra_n_pseudo": 20
+    },
+    {
+      "dataset": "blobs",
+      "strategy": "supervised",
+      "accuracy": 0.919298,
+      "macro_f1": 0.919005,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 0.0036
+    },
+    {
+      "dataset": "blobs",
+      "strategy": "self_training",
+      "accuracy": 0.894737,
+      "macro_f1": 0.893106,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 0.7712,
+      "extra_n_pseudo": 240
+    },
+    {
+      "dataset": "blobs",
+      "strategy": "graph",
+      "accuracy": 0.908772,
+      "macro_f1": 0.908454,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 0.0066,
+      "extra_backend": "sklearn"
+    },
+    {
+      "dataset": "blobs",
+      "strategy": "co_training",
+      "accuracy": 0.698246,
+      "macro_f1": 0.695826,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 1.082
+    },
+    {
+      "dataset": "blobs",
+      "strategy": "cbcp_hybrid",
+      "accuracy": 0.905263,
+      "macro_f1": 0.904263,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 3.6405,
+      "extra_n_pseudo": 180
+    },
+    {
+      "dataset": "circle",
+      "strategy": "supervised",
+      "accuracy": 0.535088,
+      "macro_f1": 0.533524,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 0.0015
+    },
+    {
+      "dataset": "circle",
+      "strategy": "self_training",
+      "accuracy": 0.801754,
+      "macro_f1": 0.801485,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 0.6935,
+      "extra_n_pseudo": 160
+    },
+    {
+      "dataset": "circle",
+      "strategy": "graph",
+      "accuracy": 0.84386,
+      "macro_f1": 0.843509,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 0.0065,
+      "extra_backend": "sklearn"
+    },
+    {
+      "dataset": "circle",
+      "strategy": "co_training",
+      "accuracy": 0.708772,
+      "macro_f1": 0.708768,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 1.1435
+    },
+    {
+      "dataset": "circle",
+      "strategy": "cbcp_hybrid",
+      "accuracy": 0.822807,
+      "macro_f1": 0.822684,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 3.7392,
+      "extra_n_pseudo": 120
+    },
+    {
+      "dataset": "spiral",
+      "strategy": "supervised",
+      "accuracy": 0.407018,
+      "macro_f1": 0.407018,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 0.0016
+    },
+    {
+      "dataset": "spiral",
+      "strategy": "self_training",
+      "accuracy": 0.491228,
+      "macro_f1": 0.491128,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 0.7236,
+      "extra_n_pseudo": 160
+    },
+    {
+      "dataset": "spiral",
+      "strategy": "graph",
+      "accuracy": 0.501754,
+      "macro_f1": 0.501656,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 0.0065,
+      "extra_backend": "sklearn"
+    },
+    {
+      "dataset": "spiral",
+      "strategy": "co_training",
+      "accuracy": 0.505263,
+      "macro_f1": 0.500087,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 1.0846
+    },
+    {
+      "dataset": "spiral",
+      "strategy": "cbcp_hybrid",
+      "accuracy": 0.515789,
+      "macro_f1": 0.515694,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 1.8702,
+      "extra_n_pseudo": 0
+    },
+    {
+      "dataset": "highdim",
+      "strategy": "supervised",
+      "accuracy": 0.989474,
+      "macro_f1": 0.989421,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 0.0038
+    },
+    {
+      "dataset": "highdim",
+      "strategy": "self_training",
+      "accuracy": 0.95614,
+      "macro_f1": 0.955898,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 0.8476,
+      "extra_n_pseudo": 240
+    },
+    {
+      "dataset": "highdim",
+      "strategy": "graph",
+      "accuracy": 0.991228,
+      "macro_f1": 0.991226,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 0.0545,
+      "extra_backend": "sklearn"
+    },
+    {
+      "dataset": "highdim",
+      "strategy": "co_training",
+      "accuracy": 0.973684,
+      "macro_f1": 0.973445,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 1.1208
+    },
+    {
+      "dataset": "highdim",
+      "strategy": "cbcp_hybrid",
+      "accuracy": 0.985965,
+      "macro_f1": 0.985892,
+      "n_labeled": 30,
+      "n_unlabeled": 570,
+      "fit_seconds": 2.0504,
+      "extra_n_pseudo": 0
+    },
+    {
+      "dataset": "digits",
+      "strategy": "supervised",
+      "accuracy": 0.857778,
+      "macro_f1": 0.855289,
+      "n_labeled": 50,
+      "n_unlabeled": 450,
+      "fit_seconds": 0.0163
+    },
+    {
+      "dataset": "digits",
+      "strategy": "self_training",
+      "accuracy": 0.824444,
+      "macro_f1": 0.817975,
+      "n_labeled": 50,
+      "n_unlabeled": 450,
+      "fit_seconds": 0.1705,
+      "extra_n_pseudo": 0
+    },
+    {
+      "dataset": "digits",
+      "strategy": "graph",
+      "accuracy": 0.937778,
+      "macro_f1": 0.937139,
+      "n_labeled": 50,
+      "n_unlabeled": 450,
+      "fit_seconds": 0.0183,
+      "extra_backend": "sklearn"
+    },
+    {
+      "dataset": "digits",
+      "strategy": "co_training",
+      "accuracy": 0.84,
+      "macro_f1": 0.843486,
+      "n_labeled": 50,
+      "n_unlabeled": 450,
+      "fit_seconds": 1.5062
+    },
+    {
+      "dataset": "digits",
+      "strategy": "cbcp_hybrid",
+      "accuracy": 0.935556,
+      "macro_f1": 0.934818,
+      "n_labeled": 50,
+      "n_unlabeled": 450,
+      "fit_seconds": 1.7306,
+      "extra_n_pseudo": 0
+    }
+  ],
+  "flagship_gain_vs_supervised": {
+    "moons": 0.0807,
+    "blobs": -0.014,
+    "circle": 0.2877,
+    "spiral": 0.1088,
+    "highdim": -0.0035,
+    "digits": 0.0778
+  }
+}
