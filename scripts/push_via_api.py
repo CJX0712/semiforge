@@ -4,6 +4,7 @@ by the local proxy with 502; gh api works). Idempotent, retry with backoff.
 Bootstrap: repo is EMPTY -> first PUT one file via Contents API to create the
 initial commit, then blobs -> tree -> commit(parent=bootstrap) -> PATCH main.
 """
+
 from __future__ import annotations
 
 import base64
@@ -38,14 +39,15 @@ def gh(args: list[str], retries: int = 6) -> dict:
     flags = list(args[k:])
     cmd = ["gh", "api", path, *flags]
     for attempt in range(1, retries + 1):
-        p = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8")
+        p = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", check=False)
         out, err, code = p.stdout, p.stderr, p.returncode
         transient = code != 0 and any(
-            k in (err + out).lower() for k in ("502", "503", "bad gateway", "reset"))
+            k in (err + out).lower() for k in ("502", "503", "bad gateway", "reset")
+        )
         if code == 0:
             return json.loads(out) if out.strip() else {}
         if transient or (code != 0 and attempt < retries and not _permanent(err)):
-            wait = min(2 ** attempt, 30)
+            wait = min(2**attempt, 30)
             print(f"  retry {attempt} ({err.strip()[:80]}) sleep {wait}s")
             time.sleep(wait)
             continue
@@ -73,8 +75,15 @@ def ensure_blob(sha_cache: dict[str, str], rel: str, path: Path) -> str:
     key = hashlib.sha1(data).hexdigest()
     if key in sha_cache:
         return sha_cache[key]
-    r = gh([f"repos/{REPO}/git/blobs", "-f", "content=" +
-            base64.b64encode(data).decode(), "-f", "encoding=base64"])
+    r = gh(
+        [
+            f"repos/{REPO}/git/blobs",
+            "-f",
+            "content=" + base64.b64encode(data).decode(),
+            "-f",
+            "encoding=base64",
+        ]
+    )
     sha_cache[key] = r["sha"]
     return r["sha"]
 
@@ -105,9 +114,17 @@ def main() -> None:
     if base_sha is None:
         print("empty repo -> bootstrap via Contents API (README.md)")
         content = (ROOT / "README.md").read_bytes()
-        r = gh(["repos/{REPO}/contents/README.md".format(REPO=REPO), "-X", "PUT",
-                "-f", "message=bootstrap",
-                "-f", "content=" + base64.b64encode(content).decode()])
+        r = gh(
+            [
+                f"repos/{REPO}/contents/README.md",
+                "-X",
+                "PUT",
+                "-f",
+                "message=bootstrap",
+                "-f",
+                "content=" + base64.b64encode(content).decode(),
+            ]
+        )
         base_sha = r["commit"]["sha"]
         print(f"bootstrap commit {base_sha[:12]}")
 
@@ -127,16 +144,34 @@ def main() -> None:
 
     # 3) commit (nested JSON via --input payload)
     payload2 = Path(ROOT) / ".git" / "commit_payload.json"
-    payload2.write_text(json.dumps({
-        "message": COMMIT_MSG, "tree": tree_sha, "parents": [base_sha],
-        "author": AUTHOR, "committer": AUTHOR}), encoding="utf-8")
+    payload2.write_text(
+        json.dumps(
+            {
+                "message": COMMIT_MSG,
+                "tree": tree_sha,
+                "parents": [base_sha],
+                "author": AUTHOR,
+                "committer": AUTHOR,
+            }
+        ),
+        encoding="utf-8",
+    )
     commit = gh([f"repos/{REPO}/git/commits", "--input", str(payload2)])
     payload2.unlink(missing_ok=True)
     print(f"commit {commit['sha'][:12]}")
 
     # 4) PATCH ref
-    gh([f"repos/{REPO}/git/refs/heads/main", "-X", "PATCH",
-        "-f", f"sha={commit['sha']}", "-F", "force=true"])
+    gh(
+        [
+            f"repos/{REPO}/git/refs/heads/main",
+            "-X",
+            "PATCH",
+            "-f",
+            f"sha={commit['sha']}",
+            "-F",
+            "force=true",
+        ]
+    )
     print("refs/heads/main updated")
 
     # 5) verify
