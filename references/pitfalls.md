@@ -1,1 +1,56 @@
-IyBTZW1pRm9yZ2Ug6Lip5Z2R5LiO5pWZ6K6tIChQaXRmYWxscykKCj4g5L2c6ICF77ya5pmo5pifIChDSlgwNzEyKSDigJTigJQg5pys5qyh5p6E5bu66L+H56iL55yf5a6e6Lip6L+H55qE5Z2R77yM5L6b5aSN55uY5LiO5aSN55So44CCCgojIyAxLiDnoa7lrprmgKfmnYDmiYvvvJpgaGFzaCgpYCDlj5cgUFlUSE9OSEFTSFNFRUQg5b2x5ZONCi0gKirnjrDosaEqKu+8mmBtYWtlX3NlbWlfc3ludGhldGljYCDnlKggYFNlZWRTZXF1ZW5jZShbc2VlZCwgLi4uLCBoYXNoKGRncCklMTAwMF0pYCDmtL7nlJ/np43lrZDvvIwKICDkuKTmrKHni6znq4vov5vnqIvov5DooYwgYmVuY2htYXJrICoq5pWw5a2X5a6M5YWo5LiN5ZCMKirvvIjlsL3nrqHljZXov5vnqIvlhoUgZGV0ZXJtaW5pc21fY2hlY2sg6YCa6L+H77yJ44CCCi0gKirmoLnlm6AqKu+8mlB5dGhvbiDlhoXnva4gYGhhc2goc3RyKWAg6buY6K6k5Y+XIGBQWVRIT05IQVNIU0VFRGAg6ZqP5py655uQ5YyW77yM6Leo6L+b56iL5LiN5LiA6Ie044CCCi0gKirkv67lpI0qKu+8muaUueeUqOeos+Wumue8lueggSBgaW50LmZyb21fYnl0ZXMoZGdwLmVuY29kZSgidXRmLTgiKSwgImxpdHRsZSIpYOOAggotICoq5pWZ6K6tKirvvJrlh6HmmK/lj4LkuI7pmo/mnLrnp43lrZDmtL7nlJ/nmoTlrZfnrKbkuLLvvIznu53kuI3og73nlKjlhoXnva4gYGhhc2goKWDvvJvnlKggaGFzaGxpYiAvIGZyb21fYnl0ZXMgLyDnm7TmjqXkvKDlrZfnrKbkuLLnu5kgU2VlZFNlcXVlbmNl77yI5YW25YaF6YOo6Zeo56aB55SoIGhhc2hsaWIg56iz5a6a5ZOI5biM77yJ44CCCgojIyAyLiBSQkYg5YWo6L+e5o6l5Zu+5Zyo5rWB5b2i5Lqk6ZSZ5Yy65aSx5pWICi0gKirnjrDosaEqKu+8mkxhYmVsU3ByZWFkaW5nIOeUqCBga2VybmVsPSJyYmYiYCDlnKggbW9vbnMg5LiK5Lqk6ZSZ5Yy65oqK5LiN5ZCM57CH54K56ZSZ6K+v6ZO+5o6l77yM57K+5bqm5LuFIDAuNeKAkzAuNjfjgIIKLSAqKuS/ruWkjSoq77ya5pS555SoIGBrZXJuZWw9ImtubiJg77yIaz0177yJ77yM5Y+q6L+e6L+R6YK777yM5L+d55WZ5rWB5b2i57uT5p6EIOKGkiDnqLPlrpogMC43NeOAggoKIyMgMy4gU3RhbmRhcmRTY2FsZXIg56C05Z2P6Led56a75bqm6YePCi0gKirnjrDosaEqKu+8muWvuSAyMCDnu7TmlbDmja7lgZogU3RhbmRhcmRTY2FsZXLvvIzlhpfkvZnnu7TluqbvvIjljp/mlrnlt64gMC4wMe+8ieiiq+aUvuWkp+WIsOaWueW3riAx77yM5Y+N5a6i5Li65Li777yMCiAg5Li75a+85qyn5rCP6Led56a777yM5Zu+5pa55rOV5LiOIExQIOWdh+mAgOWMluOAggotICoq5L+u5aSNKirvvJrlm77mlrnms5XvvIhMYWJlbFNwcmVhZGluZ++8ieS4jiBMUC1OdW1QeSDlnYcqKuebtOaOpeS9v+eUqOWOn+Wni+eJueW+gSoq77yM6K6pIGluZm9ybSDnu7TkuLvlr7zot53nprvjgIIKICDvvIjku4UgU3VwZXJ2aXNlZE9ubHkg55qEIExSIOeUqCBTdGFuZGFyZFNjYWxlciDigJTigJQg6YKj5piv5a6D55qE5q2j56Gu55So5rOV44CC77yJCgojIyA0LiBtZWRpYW4gaGV1cmlzdGljIOiHqumAguW6lCBnYW1tYQotICoq546w6LGhKirvvJrlm7rlrpogYGdhbW1hPTEwYCDlnKggMjAg57u05a+86Ie0IFJCRiDkurLlkoznn6npmLXpgIDljJbkuLrov5Hpm7bvvIxMUCDmlLbmlZvliLAgMC4144CCCi0gKirkv67lpI0qKu+8mmBnYW1tYSA9IDEvKDIqbWVkaWFuKEQyKSlg77yM5a+55bC65bqm6Ieq6YCC5bqU44CCCgojIyA1LiDlr7nnp7DlvZLkuIDljJYgKyDOsT0wLjk5IOWvvOiHtOS8oOaSreWPkeaVowotICoq546w6LGhKirvvJrnlKjlr7nnp7DlvZLkuIDljJYgUCDkuI4gzrE9MC45Oe+8iOaOpei/kSAx77yJ6L+t5Luj5LiN5pS25pWb77yMYExhYmVsUHJvcGFnYXRpb25OdW1weWAg6ZW/5pyf5LiN5Yqo44CCCi0gKirkv67lpI0qKu+8muaUueeUqCoq6KGM5b2S5LiA5YyW6L2s56e755+p6Zi1IFcqKu+8iOihjOWSjD0x77yJKyDnm7jlkIwgzrHvvJvmlLbmlZvnqLPlrprvvIxJMu+8iOWNleiwg+mdnuWinu+8ieaIkOeri+OAggoKIyMgNi4gc2tsZWFybiAxLjkg5oqKIGBiYXNlX2VzdGltYXRvcmAg5pS55ZCN5Li6IGBlc3RpbWF0b3JgCi0gKirnjrDosaEqKu+8mmBTZWxmVHJhaW5pbmdDbGFzc2lmaWVyKGJhc2VfZXN0aW1hdG9yPS4uLilgIOaKmyBgdW5leHBlY3RlZCBrZXl3b3JkYOOAggotICoq5L+u5aSNKirvvJrmlLnnlKggYGVzdGltYXRvcj1g77yI5bey5YW85a65IDEuOe+8ieOAggoKIyMgNy4g5YCZ6YCJ5qih5Z6L5pyq5Zyo5Li7IGZpdCDot6/lvoQgZml0IOKGkiBOb3RGaXR0ZWRFcnJvcgotICoq546w6LGhKirvvJpTZW1pRnVzZSDkuLsgZml0IOa8j+e7meWAmemAiSBmaXTvvIzpooTmtYvml7blgJnpgInmnKrorq3nu4PjgIIKLSAqKuS/ruWkjSoq77yaZml0IOW8gOWktCBgZm9yIGMgaW4gc2VsZi5jYW5kaWRhdGVzXzogYy5maXQoWCwgeV9sYWJlbGVkKWDjgIIKCiMjIDguIOWwkeagt+acrCBPT0Yg6Lev55Sx5aSx55yfCi0gKirnjrDosaEqKu+8muagh+azqOaegeWwkeaXtu+8jOebkeedo+Wfuue6v+eahCBLLWZvbGQgT09GIOWcqOaKmOWGheagh+azqOWFqOmakOiXj+WQjuWPquWJqSAxfjIg5Liq5qCH5rOo54K577yMT09GIOiZmumrmAogIO+8iOWmgiBPT0Y9MS4wIOS9huecn+WuniB0ZXN0PTAuMzPvvInvvIzmja7mraTot6/nlLHkvJror6/pgInjgIIKLSAqKuS/ruWkjSoq77ya5bqf5byDIE9PRiDlhrPnrZbvvIzmlLnkuLoqKuagh+azqOmihOeul+iHqumAguW6lOi3r+eUsSoq77yI56iA57y64oaS5Zu+5Y2K55uR552j77yM5YWF6Laz4oaS57qv55uR552j77yJ44CCCgojIyA5LiDnu5PorrrogZrlkIggYnVn77ya5pyq6ZmQ5a6a5pa55rOV6L+H5rukCi0gKirnjrDosaEqKu+8mmBkZXJpdmVfZmFpbHVyZXNgIOiuoeeulyBgZnVzZV9hID0gbWVhbijmiYDmnIkgYWJ1bmRhbnQg6KGMKWDvvIzor6/miorlhajmlrnms5XlnYflgLzvvIgwLjc0Nu+8iQogIOW9k+S9nCBTZW1pRnVzZSDlnYflgLzvvIzlvpflh7rplJnor68iZGlmZj0wLjA5OCDop4bkuLrkuIDoh7Qi44CCCi0gKirkv67lpI0qKu+8muaYvuW8j+i/h+a7pCBgbWV0aG9kPT0iU2VtaUZ1c2UiYO+8m+W5tue7n+S4gOS7peWOn+Wni+ihjOWAvOaguOWvue+8jOmBv+WFjeiBmuWQiOWPo+W+hOS4jeS4gOiHtOOAggoKIyMgMTAuICLog5zln7rnur8i5b+F6aG75piv6K+a5a6e55qECi0gKirnjrDosaEqKu+8muacgOWIneacn+acmyBTZW1pRnVzZSDlhajpnaLnor7ljovnuq/nm5HnnaPvvIzkvYblm7rlrprnp43lrZDlkI7lj5HnjrDmraPliJnljJYgTFIg5ZyoIG1vb25zIOS4iuW3siB+MC43M++8jAogIOWNiuebkeedo+W5tuacquWFqOmdouiDnOWHuuOAggotICoq5L+u5aSNKirvvJrlvJXlhaUqKuW8uumdnue6v+aAp+ebkeedo+Wfuue6vyoq77yIWEdCL1JGIOe6r+ebkeedo++8ie+8jOivmuWunuWxleekuiBTZW1pRnVzZSDog5zlroPku6zjgIHkuI4gTFIg5oyB5bmz77ybCiAg5bm25Yqg5YWl5YWF6Laz5qCH5rOoIHJlZ2ltZSDlsZXnpLoqKuivmuWunuWbnumAgOmbtui0n+Winuebiioq44CC57uT6K665LiN5aS45aSn77yM5Y+N6ICM5pu05Y+v5L+h44CCCgojIyAxMS4g546v5aKD77yacGlwIGluZGV4IC8gNDI5IOi1hOa6kOWMhemUmeivrwotICoq546w6LGhKirvvJpgcGlwIGluZGV4IHZlcnNpb25zYCDop6blj5EgNDI5IOS9memineS4jei2s+OAggotICoq6KeE6YG/KirvvJrot7Pov4cgcGlwIGluZGV477yM55u05o6l55So5bey5bCx57uq55qEIG51bXB5L3NjaXB5L3NrbGVhcm4veGdib29zdC9vcHR1bmHvvIhwcmVmbGlnaHQg5bey56Gu6K6k5pyJIHdoZWVs77yJ44CCCg==
+# SemiForge 踩坑与教训 (Pitfalls)
+
+> 作者：晨星 (CJX0712) —— 本次构建过程真实踩过的坑，供复盘与复用。
+
+## 1. 确定性杀手：`hash()` 受 PYTHONHASHSEED 影响
+- **现象**：`make_semi_synthetic` 用 `SeedSequence([seed, ..., hash(dgp)%1000])` 派生种子，
+  两次独立进程运行 benchmark **数字完全不同**（尽管单进程内 determinism_check 通过）。
+- **根因**：Python 内置 `hash(str)` 默认受 `PYTHONHASHSEED` 随机盐化，跨进程不一致。
+- **修复**：改用稳定编码 `int.from_bytes(dgp.encode("utf-8"), "little")`。
+- **教训**：凡是参与随机种子派生的字符串，绝不能用内置 `hash()`；用 hashlib / from_bytes / 直接传字符串给 SeedSequence（其内部门禁用 hashlib 稳定哈希）。
+
+## 2. RBF 全连接图在流形交错区失效
+- **现象**：LabelSpreading 用 `kernel="rbf"` 在 moons 上交错区把不同簇点错误链接，精度仅 0.5–0.67。
+- **修复**：改用 `kernel="knn"`（k=5），只连近邻，保留流形结构 → 稳定 0.75。
+
+## 3. StandardScaler 破坏距离度量
+- **现象**：对 20 维数据做 StandardScaler，冗余维度（原方差 0.01）被放大到方差 1，反客为主，
+  主导欧氏距离，图方法与 LP 均退化。
+- **修复**：图方法（LabelSpreading）与 LP-NumPy 均**直接使用原始特征**，让 inform 维主导距离。
+  （仅 SupervisedOnly 的 LR 用 StandardScaler —— 那是它的正确用法。）
+
+## 4. median heuristic 自适应 gamma
+- **现象**：固定 `gamma=10` 在 20 维导致 RBF 亲和矩阵退化为近零，LP 收敛到 0.5。
+- **修复**：`gamma = 1/(2*median(D2))`，对尺度自适应。
+
+## 5. 对称归一化 + α=0.99 导致传播发散
+- **现象**：用对称归一化 P 与 α=0.99（接近 1）迭代不收敛，`LabelPropagationNumpy` 长期不动。
+- **修复**：改用**行归一化转移矩阵 W**（行和=1）+ 相同 α；收敛稳定，I2（单调非增）成立。
+
+## 6. sklearn 1.9 把 `base_estimator` 改名为 `estimator`
+- **现象**：`SelfTrainingClassifier(base_estimator=...)` 抛 `unexpected keyword`。
+- **修复**：改用 `estimator=`（已兼容 1.9）。
+
+## 7. 候选模型未在主 fit 路径 fit → NotFittedError
+- **现象**：SemiFuse 主 fit 漏给候选 fit，预测时候选未训练。
+- **修复**：fit 开头 `for c in self.candidates_: c.fit(X, y_labeled)`。
+
+## 8. 少样本 OOF 路由失真
+- **现象**：标注极少时，监督基线的 K-fold OOF 在折内标注全隐藏后只剩 1~2 个标注点，OOF 虚高
+  （如 OOF=1.0 但真实 test=0.33），据此路由会误选。
+- **修复**：废弃 OOF 决策，改为**标注预算自适应路由**（稀缺→图半监督，充足→纯监督）。
+
+## 9. 结论聚合 bug：未限定方法过滤
+- **现象**：`derive_failures` 计算 `fuse_a = mean(所有 abundant 行)`，误把全方法均值（0.746）
+  当作 SemiFuse 均值，得出错误"diff=0.098 视为一致"。
+- **修复**：显式过滤 `method=="SemiFuse"`；并统一以原始行值核对，避免聚合口径不一致。
+
+## 10. "胜基线"必须是诚实的
+- **现象**：最初期望 SemiFuse 全面碾压纯监督，但固定种子后发现正则化 LR 在 moons 上已 ~0.73，
+  半监督并未全面胜出。
+- **修复**：引入**强非线性监督基线**（XGB/RF 纯监督），诚实展示 SemiFuse 胜它们、与 LR 持平；
+  并加入充足标注 regime 展示**诚实回退零负增益**。结论不夸大，反而更可信。
+
+## 11. 环境：pip index / 429 资源包错误
+- **现象**：`pip index versions` 触发 429 余额不足。
+- **规避**：跳过 pip index，直接用已就绪的 numpy/scipy/sklearn/xgboost/optuna（preflight 已确认有 wheel）。

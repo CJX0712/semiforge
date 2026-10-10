@@ -1,1 +1,140 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCiIiIlNlbWlGb3JnZSDkuInnuqfpmY3nuqfmjqjpgIHohJrmnKwgKOS9nOiAhTog5pmo5pifLCBDSlgwNzEyKeOAggoK55So5rOVOgogIHB5dGhvbiBzY3JpcHRzL2doX3B1c2gucHkgWy0tcmVwbyBDSlgwNzEyL3NlbWlmb3JnZV0gWy0tYnJhbmNoIG1haW5dIFstLXRhZyB2MC4xLjBdCgrkuInnuqfpmY3nuqc6CiAgMS4g6Iul5bey6YWN572uIHJlbW90ZSBvcmlnaW4g5LiU5Y+v5o6o6YCBIC0+IOebtOaOpSBwdXNoICgrIHRhZyArIHJlbGVhc2Up44CCCiAgMi4g6IulIHJlbW90ZSDkuI3lrZjlnKggLT4g55SoIGBnaCByZXBvIGNyZWF0ZWAg5bu65LuT5bqT5bm25o6o44CCCiAgMy4g6IulIGdoIOS4jeWPr+eUqCAvIOe9kee7nOWksei0pSAtPiDmiZPljbDmiYvliqjmjqjpgIHlkb3ku6QsIOmAgOWHuumdnumbtuOAggoiIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBhcmdwYXJzZQppbXBvcnQgb3MKaW1wb3J0IHN1YnByb2Nlc3MKaW1wb3J0IHN5cwoKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQpST09UID0gb3MucGF0aC5kaXJuYW1lKEhFUkUpClJFUE9fREVGQVVMVCA9ICJDSlgwNzEyL3NlbWlmb3JnZSIKQlJBTkNIX0RFRkFVTFQgPSAibWFpbiIKCgpkZWYgX3J1bihjbWQsIGNoZWNrPVRydWUsIGNhcHR1cmU9VHJ1ZSk6CiAgICBwcmludChmIiQgeycgJy5qb2luKGNtZCl9IikKICAgIHJldHVybiBzdWJwcm9jZXNzLnJ1bihjbWQsIGN3ZD1ST09ULCBjaGVjaz1jaGVjaywKICAgICAgICAgICAgICAgICAgICAgICAgICBjYXB0dXJlX291dHB1dD1jYXB0dXJlLCB0ZXh0PVRydWUpCgoKZGVmIF9oYXZlX2doKCkgLT4gYm9vbDoKICAgIHRyeToKICAgICAgICBfcnVuKFsiZ2giLCAiLS12ZXJzaW9uIl0sIGNoZWNrPVRydWUpCiAgICAgICAgcmV0dXJuIFRydWUKICAgIGV4Y2VwdCAoRmlsZU5vdEZvdW5kRXJyb3IsIHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yKToKICAgICAgICByZXR1cm4gRmFsc2UKCgpkZWYgX2V4aXN0aW5nX3JlbW90ZSgpIC0+IHN0ciB8IE5vbmU6CiAgICB0cnk6CiAgICAgICAgciA9IF9ydW4oWyJnaXQiLCAicmVtb3RlIiwgImdldC11cmwiLCAib3JpZ2luIl0sIGNoZWNrPVRydWUpCiAgICAgICAgcmV0dXJuIHIuc3Rkb3V0LnN0cmlwKCkgb3IgTm9uZQogICAgZXhjZXB0IHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yOgogICAgICAgIHJldHVybiBOb25lCgoKZGVmIF9naXRfcHVzaChicmFuY2g6IHN0cikgLT4gYm9vbDoKICAgIHRyeToKICAgICAgICBfcnVuKFsiZ2l0IiwgInB1c2giLCAiLXUiLCAib3JpZ2luIiwgYnJhbmNoXSwgY2hlY2s9VHJ1ZSkKICAgICAgICByZXR1cm4gVHJ1ZQogICAgZXhjZXB0IHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yIGFzIGU6CiAgICAgICAgaWYgZS5zdGRvdXQ6CiAgICAgICAgICAgIHByaW50KGUuc3Rkb3V0KQogICAgICAgIGlmIGUuc3RkZXJyOgogICAgICAgICAgICBwcmludChlLnN0ZGVyciwgZmlsZT1zeXMuc3RkZXJyKQogICAgICAgIHJldHVybiBGYWxzZQoKCmRlZiBfY3JlYXRlX2FuZF9wdXNoKHJlcG86IHN0ciwgYnJhbmNoOiBzdHIpIC0+IGJvb2w6CiAgICBpZiBub3QgX2hhdmVfZ2goKToKICAgICAgICByZXR1cm4gRmFsc2UKICAgIHRyeToKICAgICAgICBfcnVuKFsiZ2giLCAicmVwbyIsICJjcmVhdGUiLCByZXBvLCAiLS1wdWJsaWMiLCAiLS1zb3VyY2UiLCAiLiIsCiAgICAgICAgICAgICAgIi0tcmVtb3RlIiwgIm9yaWdpbiIsICItLXB1c2giLCAiLS1icmFuY2giLCBicmFuY2hdLCBjaGVjaz1UcnVlKQogICAgICAgIHJldHVybiBUcnVlCiAgICBleGNlcHQgc3VicHJvY2Vzcy5DYWxsZWRQcm9jZXNzRXJyb3IgYXMgZToKICAgICAgICBpZiBlLnN0ZGVycjoKICAgICAgICAgICAgcHJpbnQoZS5zdGRlcnIsIGZpbGU9c3lzLnN0ZGVycikKICAgICAgICByZXR1cm4gRmFsc2UKCgpkZWYgX3RhZ19hbmRfcmVsZWFzZSh0YWc6IHN0ciwgcmVwbzogc3RyKToKICAgIGlmIG5vdCB0YWc6CiAgICAgICAgcmV0dXJuCiAgICB0cnk6CiAgICAgICAgX3J1bihbImdpdCIsICJ0YWciLCAiLWYiLCB0YWddLCBjaGVjaz1UcnVlKQogICAgICAgIF9ydW4oWyJnaXQiLCAicHVzaCIsICItZiIsICJvcmlnaW4iLCB0YWddLCBjaGVjaz1UcnVlKQogICAgICAgIHByaW50KGYicHVzaGVkIHRhZyB7dGFnfSIpCiAgICBleGNlcHQgc3VicHJvY2Vzcy5DYWxsZWRQcm9jZXNzRXJyb3IgYXMgZToKICAgICAgICBwcmludCgidGFnIHB1c2ggZmFpbGVkOiIsIGUuc3RkZXJyLCBmaWxlPXN5cy5zdGRlcnIpCiAgICAgICAgcmV0dXJuCiAgICBpZiBfaGF2ZV9naCgpOgogICAgICAgIHRyeToKICAgICAgICAgICAgX3J1bihbImdoIiwgInJlbGVhc2UiLCAiY3JlYXRlIiwgdGFnLCAiLS1yZXBvIiwgcmVwbywKICAgICAgICAgICAgICAgICAgIi0tdGl0bGUiLCBmIlNlbWlGb3JnZSB7dGFnfSIsCiAgICAgICAgICAgICAgICAgICItLW5vdGVzIiwgIuS4lueVjOmhtue6p+WNiuebkeedo+WtpuS5oOezu+e7nyAo5L2c6ICFOiDmmajmmJ8pLiDop4EgUkVBRE1F44CCIiwKICAgICAgICAgICAgICAgICAgIi0tbGF0ZXN0Il0sIGNoZWNrPVRydWUpCiAgICAgICAgICAgIHByaW50KGYicmVsZWFzZSB7dGFnfSBjcmVhdGVkIikKICAgICAgICBleGNlcHQgc3VicHJvY2Vzcy5DYWxsZWRQcm9jZXNzRXJyb3IgYXMgZToKICAgICAgICAgICAgcHJpbnQoInJlbGVhc2UgY3JlYXRlIGZhaWxlZDoiLCBlLnN0ZGVyciwgZmlsZT1zeXMuc3RkZXJyKQoKCmRlZiBtYWluKGFyZ3Y9Tm9uZSkgLT4gaW50OgogICAgcCA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKGRlc2NyaXB0aW9uPSJTZW1pRm9yZ2Ug5LiJ57qn6ZmN57qn5o6o6YCBIikKICAgIHAuYWRkX2FyZ3VtZW50KCItLXJlcG8iLCBkZWZhdWx0PVJFUE9fREVGQVVMVCkKICAgIHAuYWRkX2FyZ3VtZW50KCItLWJyYW5jaCIsIGRlZmF1bHQ9QlJBTkNIX0RFRkFVTFQpCiAgICBwLmFkZF9hcmd1bWVudCgiLS10YWciLCBkZWZhdWx0PSJ2MC4xLjAiKQogICAgYXJncyA9IHAucGFyc2VfYXJncyhhcmd2KQoKICAgICMg56Gu5L+d5pivIGdpdCDku5PlupMKICAgIHRyeToKICAgICAgICBfcnVuKFsiZ2l0IiwgInJldi1wYXJzZSIsICItLWlzLWluc2lkZS13b3JrLXRyZWUiXSwgY2hlY2s9VHJ1ZSkKICAgIGV4Y2VwdCBzdWJwcm9jZXNzLkNhbGxlZFByb2Nlc3NFcnJvcjoKICAgICAgICBwcmludCgi5LiN5pivIGdpdCDku5PlupMsIOWIneWni+WMluS4rS4uLiIpCiAgICAgICAgX3J1bihbImdpdCIsICJpbml0IiwgIi1iIiwgYXJncy5icmFuY2hdLCBjaGVjaz1UcnVlKQoKICAgICMg5o+Q5Lqk77yI6Iul5pyJ5b6F5o+Q5Lqk77yJCiAgICBzdGF0dXMgPSBfcnVuKFsiZ2l0IiwgInN0YXR1cyIsICItLXBvcmNlbGFpbiJdLCBjaGVjaz1UcnVlKS5zdGRvdXQuc3RyaXAoKQogICAgaWYgc3RhdHVzOgogICAgICAgIF9ydW4oWyJnaXQiLCAiYWRkIiwgIi1BIl0sIGNoZWNrPVRydWUpCiAgICAgICAgX3J1bihbImdpdCIsICJjb21taXQiLCAiLW0iLCAiU2VtaUZvcmdlIHYwLjEuMCAo5L2c6ICFOiDmmajmmJ8pIl0sIGNoZWNrPVRydWUpCiAgICBlbHNlOgogICAgICAgIHByaW50KCLml6DlvoXmj5DkuqTmlLnliqgsIOi3s+i/hyBjb21taXTjgIIiKQoKICAgICMgMSkg5bey5a2Y5Zyo5Y+v55SoIHJlbW90ZSAtPiDnm7TmjqXmjqgKICAgIHJlbW90ZSA9IF9leGlzdGluZ19yZW1vdGUoKQogICAgaWYgcmVtb3RlOgogICAgICAgIHByaW50KGYi5bey5pyJIHJlbW90ZToge3JlbW90ZX0sIOebtOaOpeaOqOmAgS4uLiIpCiAgICAgICAgaWYgX2dpdF9wdXNoKGFyZ3MuYnJhbmNoKToKICAgICAgICAgICAgX3RhZ19hbmRfcmVsZWFzZShhcmdzLnRhZywgYXJncy5yZXBvKQogICAgICAgICAgICByZXR1cm4gMAoKICAgICMgMikg55SoIGdoIOW7uuS7k+W6k+W5tuaOqAogICAgcHJpbnQoIuWwneivlSBnaCByZXBvIGNyZWF0ZSAuLi4iKQogICAgaWYgX2NyZWF0ZV9hbmRfcHVzaChhcmdzLnJlcG8sIGFyZ3MuYnJhbmNoKToKICAgICAgICBfdGFnX2FuZF9yZWxlYXNlKGFyZ3MudGFnLCBhcmdzLnJlcG8pCiAgICAgICAgcmV0dXJuIDAKCiAgICAjIDMpIOWksei0pSAtPiDmiZPljbDmiYvliqjlkb3ku6QKICAgIHByaW50KCJcblvpmY3nuqddIOiHquWKqOaOqOmAgeWksei0peOAguivt+aJi+WKqOaJp+ihjDoiKQogICAgcHJpbnQoZiIgIGdpdCByZW1vdGUgYWRkIG9yaWdpbiBodHRwczovL2dpdGh1Yi5jb20ve2FyZ3MucmVwb30uZ2l0IikKICAgIHByaW50KGYiICBnaXQgcHVzaCAtdSBvcmlnaW4ge2FyZ3MuYnJhbmNofSIpCiAgICBpZiBhcmdzLnRhZzoKICAgICAgICBwcmludChmIiAgZ2l0IHRhZyAtZiB7YXJncy50YWd9ICYmIGdpdCBwdXNoIC1mIG9yaWdpbiB7YXJncy50YWd9IikKICAgIHJldHVybiAxCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHN5cy5leGl0KG1haW4oKSkK
+#!/usr/bin/env python
+"""SemiForge 三级降级推送脚本 (作者: 晨星, CJX0712)。
+
+用法:
+  python scripts/gh_push.py [--repo CJX0712/semiforge] [--branch main] [--tag v0.1.0]
+
+三级降级:
+  1. 若已配置 remote origin 且可推送 -> 直接 push (+ tag + release)。
+  2. 若 remote 不存在 -> 用 `gh repo create` 建仓库并推。
+  3. 若 gh 不可用 / 网络失败 -> 打印手动推送命令, 退出非零。
+"""
+
+from __future__ import annotations
+
+import argparse
+import os
+import subprocess
+import sys
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(HERE)
+REPO_DEFAULT = "CJX0712/semiforge"
+BRANCH_DEFAULT = "main"
+
+
+def _run(cmd, check=True, capture=True):
+    print(f"$ {' '.join(cmd)}")
+    return subprocess.run(cmd, cwd=ROOT, check=check,
+                          capture_output=capture, text=True)
+
+
+def _have_gh() -> bool:
+    try:
+        _run(["gh", "--version"], check=True)
+        return True
+    except (FileNotFoundError, subprocess.CalledProcessError):
+        return False
+
+
+def _existing_remote() -> str | None:
+    try:
+        r = _run(["git", "remote", "get-url", "origin"], check=True)
+        return r.stdout.strip() or None
+    except subprocess.CalledProcessError:
+        return None
+
+
+def _git_push(branch: str) -> bool:
+    try:
+        _run(["git", "push", "-u", "origin", branch], check=True)
+        return True
+    except subprocess.CalledProcessError as e:
+        if e.stdout:
+            print(e.stdout)
+        if e.stderr:
+            print(e.stderr, file=sys.stderr)
+        return False
+
+
+def _create_and_push(repo: str, branch: str) -> bool:
+    if not _have_gh():
+        return False
+    try:
+        _run(["gh", "repo", "create", repo, "--public", "--source", ".",
+              "--remote", "origin", "--push", "--branch", branch], check=True)
+        return True
+    except subprocess.CalledProcessError as e:
+        if e.stderr:
+            print(e.stderr, file=sys.stderr)
+        return False
+
+
+def _tag_and_release(tag: str, repo: str):
+    if not tag:
+        return
+    try:
+        _run(["git", "tag", "-f", tag], check=True)
+        _run(["git", "push", "-f", "origin", tag], check=True)
+        print(f"pushed tag {tag}")
+    except subprocess.CalledProcessError as e:
+        print("tag push failed:", e.stderr, file=sys.stderr)
+        return
+    if _have_gh():
+        try:
+            _run(["gh", "release", "create", tag, "--repo", repo,
+                  "--title", f"SemiForge {tag}",
+                  "--notes", "世界顶级半监督学习系统 (作者: 晨星). 见 README。",
+                  "--latest"], check=True)
+            print(f"release {tag} created")
+        except subprocess.CalledProcessError as e:
+            print("release create failed:", e.stderr, file=sys.stderr)
+
+
+def main(argv=None) -> int:
+    p = argparse.ArgumentParser(description="SemiForge 三级降级推送")
+    p.add_argument("--repo", default=REPO_DEFAULT)
+    p.add_argument("--branch", default=BRANCH_DEFAULT)
+    p.add_argument("--tag", default="v0.1.0")
+    args = p.parse_args(argv)
+
+    # 确保是 git 仓库
+    try:
+        _run(["git", "rev-parse", "--is-inside-work-tree"], check=True)
+    except subprocess.CalledProcessError:
+        print("不是 git 仓库, 初始化中...")
+        _run(["git", "init", "-b", args.branch], check=True)
+
+    # 提交（若有待提交）
+    status = _run(["git", "status", "--porcelain"], check=True).stdout.strip()
+    if status:
+        _run(["git", "add", "-A"], check=True)
+        _run(["git", "commit", "-m", "SemiForge v0.1.0 (作者: 晨星)"], check=True)
+    else:
+        print("无待提交改动, 跳过 commit。")
+
+    # 1) 已存在可用 remote -> 直接推
+    remote = _existing_remote()
+    if remote:
+        print(f"已有 remote: {remote}, 直接推送...")
+        if _git_push(args.branch):
+            _tag_and_release(args.tag, args.repo)
+            return 0
+
+    # 2) 用 gh 建仓库并推
+    print("尝试 gh repo create ...")
+    if _create_and_push(args.repo, args.branch):
+        _tag_and_release(args.tag, args.repo)
+        return 0
+
+    # 3) 失败 -> 打印手动命令
+    print("\n[降级] 自动推送失败。请手动执行:")
+    print(f"  git remote add origin https://github.com/{args.repo}.git")
+    print(f"  git push -u origin {args.branch}")
+    if args.tag:
+        print(f"  git tag -f {args.tag} && git push -f origin {args.tag}")
+    return 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())

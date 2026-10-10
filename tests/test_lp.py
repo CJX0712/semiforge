@@ -1,1 +1,80 @@
-IiIiTFAtTnVtUHkg5LiN5Y+Y6YePIEkxLUk0IOa1i+ivlSAo5L2c6ICFOiDmmajmmJ8p44CCCgrnuq8gbnVtcHkg5qCH562+5Lyg5pKtLCDpm7bnrKzkuInmlrnkvp3otZYsIOaYr+ezu+e7n+eahOemu+e6v+WFnOW6leOAggoiIiIKCmltcG9ydCBudW1weSBhcyBucAoKZnJvbSBjb3JlLmNvbmZpZyBpbXBvcnQgZ2V0X2NvbmZpZwpmcm9tIGNvcmUuc2VlZCBpbXBvcnQgc2V0X2FsbApmcm9tIGRhdGEubG9hZGVycyBpbXBvcnQgdHJhaW5fdGVzdF9zcGxpdF9zZW1pCmZyb20gZGF0YS5zeW50aGV0aWMgaW1wb3J0IG1ha2Vfc2VtaV9zeW50aGV0aWMKZnJvbSBzZW1pLmxwX251bXB5IGltcG9ydCBMYWJlbFByb3BhZ2F0aW9uTnVtcHkKCmNmZyA9IGdldF9jb25maWcoKQpzZXRfYWxsKGNmZy5kZWZhdWx0X3NlZWQpCgoKZGVmIF9maXRfbHAoKToKICAgIGQgPSBtYWtlX3NlbWlfc3ludGhldGljKG5fdG90YWw9MjAwLCBuX2xhYmVsZWQ9MTIsIG5fZmVhdHVyZXM9OCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5fY2xhc3Nlcz0yLCBvdmVybGFwPTAuMywgZGdwPSJtb29ucyIsIHNlZWQ9MykKICAgIHRyYWluLCB0ZXN0ID0gdHJhaW5fdGVzdF9zcGxpdF9zZW1pKGQsIHRlc3Rfc2l6ZT0wLjMsIHNlZWQ9Y2ZnLmRlZmF1bHRfc2VlZCkKICAgIGxwID0gTGFiZWxQcm9wYWdhdGlvbk51bXB5KGNmZykKICAgIGxwLmZpdCh0cmFpbi5YLCB0cmFpbi55X2xhYmVsZWQpCiAgICByZXR1cm4gbHAsIHRyYWluLCB0ZXN0CgoKZGVmIHRlc3RfSTFfbGFiZWxlZF9sYWJlbHNfdW5jaGFuZ2VkKCk6CiAgICBscCwgdHJhaW4sIF90ZXN0ID0gX2ZpdF9scCgpCiAgICBtYXNrID0gdHJhaW4ueV9sYWJlbGVkICE9IC0xCiAgICAjIOW3suagh+azqOeCueeahOiuree7g+i9r+agh+etviBGIOiiqyBoYXJkIGNsYW1wIOS4uiBZLCBhcmdtYXgg5b+F6aG7562J5LqO5qCH5rOo57G7IChJMSkKICAgIHNvZnQgPSBscC5GX3RyYWluX1ttYXNrXQogICAgYXNzZXJ0IG5wLmFsbChucC5hcmdtYXgoc29mdCwgYXhpcz0xKSA9PSB0cmFpbi55X2xhYmVsZWRbbWFza10pCgoKZGVmIHRlc3RfSTJfZGlmZl9tb25vdG9uaWNfbm9uaW5jcmVhc2luZygpOgogICAgbHAsIF8sIF8gPSBfZml0X2xwKCkKICAgIGRpZmZzID0gbnAuYXJyYXkobHAuZGlmZl9oaXN0b3J5XykKICAgIGFzc2VydCBucC5hbGwobnAuZGlmZihkaWZmcykgPD0gMWUtOSkKCgpkZWYgdGVzdF9JM19zeW1tZXRyaWNfYWZmaW5pdHlfYW5kX3Jvd19zdG9jaGFzdGljKCk6CiAgICBscCwgXywgXyA9IF9maXRfbHAoKQogICAgUyA9IGxwLlNfCiAgICBhc3NlcnQgbnAuYWxsY2xvc2UoUywgUy5ULCBhdG9sPTFlLTkpICAgICAgICAgICAgIyBTIOWvueensAogICAgVyA9IGxwLlBfCiAgICBhc3NlcnQgbnAuYWxsY2xvc2UoVy5zdW0oYXhpcz0xKSwgMS4wLCBhdG9sPTFlLTkpICAjIOihjOW9kuS4gOWMluihjOWSjD0xCgoKZGVmIHRlc3RfSTRfcHJvYmFfc3Vtc190b19vbmUoKToKICAgIGxwLCBfLCB0ZXN0ID0gX2ZpdF9scCgpCiAgICBwID0gbHAucHJlZGljdF9wcm9iYSh0ZXN0LlgpCiAgICBhc3NlcnQgbnAuYWxsY2xvc2UocC5zdW0oYXhpcz0xKSwgMS4wLCBhdG9sPTFlLTYpCiAgICAjIOmihOa1i+exu+WIq+S4jui9r+agh+etviBhcmdtYXgg5LiA6Ie0CiAgICBhc3NlcnQgbnAuYWxsKGxwLnByZWRpY3QodGVzdC5YKSA9PSBscC5jbGFzc2VzX1tucC5hcmdtYXgocCwgYXhpcz0xKV0pCgoKZGVmIHRlc3RfbHBfZGV0ZXJtaW5pc3RpYygpOgogICAgZCA9IG1ha2Vfc2VtaV9zeW50aGV0aWMobl90b3RhbD0xNTAsIG5fbGFiZWxlZD0xMCwgbl9mZWF0dXJlcz02LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbl9jbGFzc2VzPTIsIG92ZXJsYXA9MC4zLCBkZ3A9Im1vb25zIiwgc2VlZD01KQogICAgdHJhaW4sIHRlc3QgPSB0cmFpbl90ZXN0X3NwbGl0X3NlbWkoZCwgdGVzdF9zaXplPTAuMywgc2VlZD1jZmcuZGVmYXVsdF9zZWVkKQogICAgYSA9IExhYmVsUHJvcGFnYXRpb25OdW1weShjZmcpOyBhLmZpdCh0cmFpbi5YLCB0cmFpbi55X2xhYmVsZWQpCiAgICBiID0gTGFiZWxQcm9wYWdhdGlvbk51bXB5KGNmZyk7IGIuZml0KHRyYWluLlgsIHRyYWluLnlfbGFiZWxlZCkKICAgIGFzc2VydCBhLnNjb3JlKHRlc3QuWCwgdGVzdC55X3RydWUpID09IGIuc2NvcmUodGVzdC5YLCB0ZXN0LnlfdHJ1ZSkKCgpkZWYgdGVzdF9scF9ub19za2xlYXJuX2RlcGVuZGVuY3koKToKICAgICMg5qih5Z2X57qn5LiN5a+85YWlIHNrbGVhcm4gKOemu+e6v+WFnOW6leeahOehrOS/neivgSkKICAgIGltcG9ydCBpbXBvcnRsaWIKICAgIGltcG9ydCBzeXMKICAgIG1vZCA9IGltcG9ydGxpYi5pbXBvcnRfbW9kdWxlKCJzZW1pLmxwX251bXB5IikKICAgIGZvciBtb2RuYW1lIGluIGxpc3Qoc3lzLm1vZHVsZXMpOgogICAgICAgIGlmIG1vZG5hbWUuc3RhcnRzd2l0aCgic2tsZWFybiIpOgogICAgICAgICAgICBkZWwgc3lzLm1vZHVsZXNbbW9kbmFtZV0KICAgICMg6YeN5paw5a+85YWl5bm26L+Q6KGMLCDmnJ/pl7TkuI3op6bnorAgc2tsZWFybgogICAgZCA9IG1ha2Vfc2VtaV9zeW50aGV0aWMobl90b3RhbD0xMjAsIG5fbGFiZWxlZD04LCBuX2ZlYXR1cmVzPTUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBuX2NsYXNzZXM9Miwgb3ZlcmxhcD0wLjMsIGRncD0ibW9vbnMiLCBzZWVkPTExKQogICAgdHIsIHRlID0gdHJhaW5fdGVzdF9zcGxpdF9zZW1pKGQsIHRlc3Rfc2l6ZT0wLjMsIHNlZWQ9Y2ZnLmRlZmF1bHRfc2VlZCkKICAgIGxwID0gbW9kLkxhYmVsUHJvcGFnYXRpb25OdW1weShjZmcpCiAgICBscC5maXQodHIuWCwgdHIueV9sYWJlbGVkKQogICAgYXNzZXJ0IGxwLnNjb3JlKHRlLlgsIHRlLnlfdHJ1ZSkgPj0gMC4wCg==
+"""LP-NumPy 不变量 I1-I4 测试 (作者: 晨星)。
+
+纯 numpy 标签传播, 零第三方依赖, 是系统的离线兜底。
+"""
+
+import numpy as np
+
+from core.config import get_config
+from core.seed import set_all
+from data.loaders import train_test_split_semi
+from data.synthetic import make_semi_synthetic
+from semi.lp_numpy import LabelPropagationNumpy
+
+cfg = get_config()
+set_all(cfg.default_seed)
+
+
+def _fit_lp():
+    d = make_semi_synthetic(n_total=200, n_labeled=12, n_features=8,
+                            n_classes=2, overlap=0.3, dgp="moons", seed=3)
+    train, test = train_test_split_semi(d, test_size=0.3, seed=cfg.default_seed)
+    lp = LabelPropagationNumpy(cfg)
+    lp.fit(train.X, train.y_labeled)
+    return lp, train, test
+
+
+def test_I1_labeled_labels_unchanged():
+    lp, train, _test = _fit_lp()
+    mask = train.y_labeled != -1
+    # 已标注点的训练软标签 F 被 hard clamp 为 Y, argmax 必须等于标注类 (I1)
+    soft = lp.F_train_[mask]
+    assert np.all(np.argmax(soft, axis=1) == train.y_labeled[mask])
+
+
+def test_I2_diff_monotonic_nonincreasing():
+    lp, _, _ = _fit_lp()
+    diffs = np.array(lp.diff_history_)
+    assert np.all(np.diff(diffs) <= 1e-9)
+
+
+def test_I3_symmetric_affinity_and_row_stochastic():
+    lp, _, _ = _fit_lp()
+    S = lp.S_
+    assert np.allclose(S, S.T, atol=1e-9)            # S 对称
+    W = lp.P_
+    assert np.allclose(W.sum(axis=1), 1.0, atol=1e-9)  # 行归一化行和=1
+
+
+def test_I4_proba_sums_to_one():
+    lp, _, test = _fit_lp()
+    p = lp.predict_proba(test.X)
+    assert np.allclose(p.sum(axis=1), 1.0, atol=1e-6)
+    # 预测类别与软标签 argmax 一致
+    assert np.all(lp.predict(test.X) == lp.classes_[np.argmax(p, axis=1)])
+
+
+def test_lp_deterministic():
+    d = make_semi_synthetic(n_total=150, n_labeled=10, n_features=6,
+                            n_classes=2, overlap=0.3, dgp="moons", seed=5)
+    train, test = train_test_split_semi(d, test_size=0.3, seed=cfg.default_seed)
+    a = LabelPropagationNumpy(cfg); a.fit(train.X, train.y_labeled)
+    b = LabelPropagationNumpy(cfg); b.fit(train.X, train.y_labeled)
+    assert a.score(test.X, test.y_true) == b.score(test.X, test.y_true)
+
+
+def test_lp_no_sklearn_dependency():
+    # 模块级不导入 sklearn (离线兜底的硬保证)
+    import importlib
+    import sys
+    mod = importlib.import_module("semi.lp_numpy")
+    for modname in list(sys.modules):
+        if modname.startswith("sklearn"):
+            del sys.modules[modname]
+    # 重新导入并运行, 期间不触碰 sklearn
+    d = make_semi_synthetic(n_total=120, n_labeled=8, n_features=5,
+                            n_classes=2, overlap=0.3, dgp="moons", seed=11)
+    tr, te = train_test_split_semi(d, test_size=0.3, seed=cfg.default_seed)
+    lp = mod.LabelPropagationNumpy(cfg)
+    lp.fit(tr.X, tr.y_labeled)
+    assert lp.score(te.X, te.y_true) >= 0.0

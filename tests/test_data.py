@@ -1,1 +1,98 @@
-IiIi5pWw5o2u5LiO5YiH5YiG5LiN5Y+Y6YeP5rWL6K+VICjkvZzogIU6IOaZqOaYnynjgIIKCuimhuebliBzeW50aGV0aWMubWFrZV9zZW1pX3N5bnRoZXRpYyDnmoTkuInmnaHkuI3lj5jph48gKyDlj6/lpI3njrDmgKcsIOS7peWPigpsb2FkZXJzLnRyYWluX3Rlc3Rfc3BsaXRfc2VtaSDnmoTpmLLms4TmvI/kv53or4HjgIIKIiIiCgppbXBvcnQgbnVtcHkgYXMgbnAKaW1wb3J0IHB5dGVzdAoKZnJvbSBjb3JlLmNvbmZpZyBpbXBvcnQgZ2V0X2NvbmZpZwpmcm9tIGNvcmUuZXJyb3JzIGltcG9ydCBEYXRhRXJyb3IKZnJvbSBjb3JlLnNlZWQgaW1wb3J0IHNldF9hbGwKZnJvbSBkYXRhLmxvYWRlcnMgaW1wb3J0IHRyYWluX3Rlc3Rfc3BsaXRfc2VtaQpmcm9tIGRhdGEuc3ludGhldGljIGltcG9ydCBtYWtlX3NlbWlfc3ludGhldGljCgpjZmcgPSBnZXRfY29uZmlnKCkKc2V0X2FsbChjZmcuZGVmYXVsdF9zZWVkKQoKCmRlZiBfZ2F1c3NpYW4oKToKICAgIHJldHVybiBtYWtlX3NlbWlfc3ludGhldGljKAogICAgICAgIG5fdG90YWw9MzAwLCBuX2xhYmVsZWQ9MzAsIG5fZmVhdHVyZXM9MTAsIG5fY2xhc3Nlcz0zLAogICAgICAgIG92ZXJsYXA9MC4zLCBkZ3A9ImdhdXNzaWFuIiwgc2VlZD03LAogICAgKQoKCmRlZiBfbW9vbnMoKToKICAgIHJldHVybiBtYWtlX3NlbWlfc3ludGhldGljKAogICAgICAgIG5fdG90YWw9MzAwLCBuX2xhYmVsZWQ9MTIsIG5fZmVhdHVyZXM9MTIsIG5fY2xhc3Nlcz0yLAogICAgICAgIG92ZXJsYXA9MC4yNSwgZGdwPSJtb29ucyIsIHNlZWQ9NywKICAgICkKCgpkZWYgdGVzdF9pbnZhcmlhbnRfbGFiZWxfY291bnQoKToKICAgIGZvciBkIGluIChfZ2F1c3NpYW4oKSwgX21vb25zKCkpOgogICAgICAgIG5fdW5sYWJlbGVkID0gaW50KG5wLnN1bShkLnlfbGFiZWxlZCA9PSAtMSkpCiAgICAgICAgYXNzZXJ0IG5fdW5sYWJlbGVkID09IGQubl9zYW1wbGVzIC0gZC5uX2xhYmVsZWQKICAgICAgICAjIOavj+exu+iHs+Wwkeagh+azqOaVsAogICAgICAgIGZvciBjIGluIHJhbmdlKGQubl9jbGFzc2VzKToKICAgICAgICAgICAgYXNzZXJ0IG5wLnN1bShkLnlfbGFiZWxlZCA9PSBjKSA+PSAzCgoKZGVmIHRlc3RfaW52YXJpYW50X2NsYXNzX2NvdmVyYWdlKCk6CiAgICBmb3IgZCBpbiAoX2dhdXNzaWFuKCksIF9tb29ucygpKToKICAgICAgICBhc3NlcnQgc2V0KG5wLnVuaXF1ZShkLnlfdHJ1ZSkudG9saXN0KCkpID09IHNldChyYW5nZShkLm5fY2xhc3NlcykpCgoKZGVmIHRlc3RfbWFrZV9zZW1pX3JlcHJvZHVjaWJsZSgpOgogICAgYSA9IG1ha2Vfc2VtaV9zeW50aGV0aWMobl90b3RhbD0yMDAsIG5fbGFiZWxlZD0yMCwgbl9mZWF0dXJlcz04LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbl9jbGFzc2VzPTIsIG92ZXJsYXA9MC40LCBkZ3A9Im1vb25zIiwgc2VlZD05OSkKICAgIGIgPSBtYWtlX3NlbWlfc3ludGhldGljKG5fdG90YWw9MjAwLCBuX2xhYmVsZWQ9MjAsIG5fZmVhdHVyZXM9OCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5fY2xhc3Nlcz0yLCBvdmVybGFwPTAuNCwgZGdwPSJtb29ucyIsIHNlZWQ9OTkpCiAgICBhc3NlcnQgbnAuYXJyYXlfZXF1YWwoYS5YLCBiLlgpCiAgICBhc3NlcnQgbnAuYXJyYXlfZXF1YWwoYS55X3RydWUsIGIueV90cnVlKQogICAgYXNzZXJ0IG5wLmFycmF5X2VxdWFsKGEueV9sYWJlbGVkLCBiLnlfbGFiZWxlZCkKCgpkZWYgdGVzdF9tYWtlX3NlbWlfZGlmZmVyZW50X3NlZWRfZGlmZmVycygpOgogICAgYSA9IG1ha2Vfc2VtaV9zeW50aGV0aWMoc2VlZD0xLCBuX3RvdGFsPTIwMCwgbl9sYWJlbGVkPTIwLCBkZ3A9Im1vb25zIikKICAgIGIgPSBtYWtlX3NlbWlfc3ludGhldGljKHNlZWQ9Miwgbl90b3RhbD0yMDAsIG5fbGFiZWxlZD0yMCwgZGdwPSJtb29ucyIpCiAgICBhc3NlcnQgbm90IG5wLmFycmF5X2VxdWFsKGEuWCwgYi5YKQoKCmRlZiB0ZXN0X3NwbGl0X25vX2xlYWthZ2UoKToKICAgIGQgPSBfbW9vbnMoKQogICAgdHJhaW4sIHRlc3QgPSB0cmFpbl90ZXN0X3NwbGl0X3NlbWkoZCwgdGVzdF9zaXplPTAuMywgc2VlZD1jZmcuZGVmYXVsdF9zZWVkKQogICAgbiA9IGQubl9zYW1wbGVzCiAgICAjIOa1i+ivlembhuWFqOagh+azqAogICAgYXNzZXJ0IG5wLmFsbCh0ZXN0LnlfbGFiZWxlZCA9PSB0ZXN0LnlfdHJ1ZSkKICAgICMg6K6t57uD6ZuG5YyF5ZCr5peg5qCH5rOoICjpmLLms4TmvI8pCiAgICBhc3NlcnQgbnAuYW55KHRyYWluLnlfbGFiZWxlZCA9PSAtMSkKICAgICMg6K6t57uDL+a1i+ivleagt+acrOaVsOS5i+WSjOetieS6juaAu+aVsCAoc2V0ZGlmZjFkIOS/neivgeS4jeS6pCkKICAgIGFzc2VydCB0cmFpbi5uX3NhbXBsZXMgKyB0ZXN0Lm5fc2FtcGxlcyA9PSBuCiAgICAjIOa1i+ivlembhuaXoCAtMQogICAgYXNzZXJ0IG5vdCBucC5hbnkodGVzdC55X2xhYmVsZWQgPT0gLTEpCgoKZGVmIHRlc3Rfc3BsaXRfcmVwcm9kdWNpYmxlKCk6CiAgICBkID0gX21vb25zKCkKICAgIHQxLCBfID0gdHJhaW5fdGVzdF9zcGxpdF9zZW1pKGQsIHRlc3Rfc2l6ZT0wLjMsIHNlZWQ9Y2ZnLmRlZmF1bHRfc2VlZCkKICAgIHQyLCBfID0gdHJhaW5fdGVzdF9zcGxpdF9zZW1pKGQsIHRlc3Rfc2l6ZT0wLjMsIHNlZWQ9Y2ZnLmRlZmF1bHRfc2VlZCkKICAgIGFzc2VydCBucC5hcnJheV9lcXVhbCh0MS5YLCB0Mi5YKQogICAgYXNzZXJ0IG5wLmFycmF5X2VxdWFsKHQxLnlfbGFiZWxlZCwgdDIueV9sYWJlbGVkKQoKCkBweXRlc3QubWFyay5wYXJhbWV0cml6ZSgiYmFkIiwgWwogICAgeyJuX2xhYmVsZWQiOiAxMDAwfSwgICMg6LaF6L+HIG5fdG90YWwKICAgIHsib3ZlcmxhcCI6IC0xLjB9LCAgICAjIOmdnuazlSBvdmVybGFwCiAgICB7ImRncCI6ICJ1bmtub3duIn0sICAgIyDpnZ7ms5UgZGdwCl0pCmRlZiB0ZXN0X21ha2Vfc2VtaV9yZWplY3RzX2ludmFsaWQoYmFkKToKICAgIGt3YXJncyA9IHsKICAgICAgICAibl90b3RhbCI6IDEwMCwgIm5fbGFiZWxlZCI6IDEwLCAibl9mZWF0dXJlcyI6IDUsICJuX2NsYXNzZXMiOiAyLAogICAgICAgICJvdmVybGFwIjogMC41LCAiZGdwIjogImdhdXNzaWFuIiwgInNlZWQiOiAxLAogICAgfQogICAga3dhcmdzLnVwZGF0ZShiYWQpCiAgICB3aXRoIHB5dGVzdC5yYWlzZXMoRGF0YUVycm9yKToKICAgICAgICBtYWtlX3NlbWlfc3ludGhldGljKCoqa3dhcmdzKQo=
+"""数据与切分不变量测试 (作者: 晨星)。
+
+覆盖 synthetic.make_semi_synthetic 的三条不变量 + 可复现性, 以及
+loaders.train_test_split_semi 的防泄漏保证。
+"""
+
+import numpy as np
+import pytest
+
+from core.config import get_config
+from core.errors import DataError
+from core.seed import set_all
+from data.loaders import train_test_split_semi
+from data.synthetic import make_semi_synthetic
+
+cfg = get_config()
+set_all(cfg.default_seed)
+
+
+def _gaussian():
+    return make_semi_synthetic(
+        n_total=300, n_labeled=30, n_features=10, n_classes=3,
+        overlap=0.3, dgp="gaussian", seed=7,
+    )
+
+
+def _moons():
+    return make_semi_synthetic(
+        n_total=300, n_labeled=12, n_features=12, n_classes=2,
+        overlap=0.25, dgp="moons", seed=7,
+    )
+
+
+def test_invariant_label_count():
+    for d in (_gaussian(), _moons()):
+        n_unlabeled = int(np.sum(d.y_labeled == -1))
+        assert n_unlabeled == d.n_samples - d.n_labeled
+        # 每类至少标注数
+        for c in range(d.n_classes):
+            assert np.sum(d.y_labeled == c) >= 3
+
+
+def test_invariant_class_coverage():
+    for d in (_gaussian(), _moons()):
+        assert set(np.unique(d.y_true).tolist()) == set(range(d.n_classes))
+
+
+def test_make_semi_reproducible():
+    a = make_semi_synthetic(n_total=200, n_labeled=20, n_features=8,
+                            n_classes=2, overlap=0.4, dgp="moons", seed=99)
+    b = make_semi_synthetic(n_total=200, n_labeled=20, n_features=8,
+                            n_classes=2, overlap=0.4, dgp="moons", seed=99)
+    assert np.array_equal(a.X, b.X)
+    assert np.array_equal(a.y_true, b.y_true)
+    assert np.array_equal(a.y_labeled, b.y_labeled)
+
+
+def test_make_semi_different_seed_differs():
+    a = make_semi_synthetic(seed=1, n_total=200, n_labeled=20, dgp="moons")
+    b = make_semi_synthetic(seed=2, n_total=200, n_labeled=20, dgp="moons")
+    assert not np.array_equal(a.X, b.X)
+
+
+def test_split_no_leakage():
+    d = _moons()
+    train, test = train_test_split_semi(d, test_size=0.3, seed=cfg.default_seed)
+    n = d.n_samples
+    # 测试集全标注
+    assert np.all(test.y_labeled == test.y_true)
+    # 训练集包含无标注 (防泄漏)
+    assert np.any(train.y_labeled == -1)
+    # 训练/测试样本数之和等于总数 (setdiff1d 保证不交)
+    assert train.n_samples + test.n_samples == n
+    # 测试集无 -1
+    assert not np.any(test.y_labeled == -1)
+
+
+def test_split_reproducible():
+    d = _moons()
+    t1, _ = train_test_split_semi(d, test_size=0.3, seed=cfg.default_seed)
+    t2, _ = train_test_split_semi(d, test_size=0.3, seed=cfg.default_seed)
+    assert np.array_equal(t1.X, t2.X)
+    assert np.array_equal(t1.y_labeled, t2.y_labeled)
+
+
+@pytest.mark.parametrize("bad", [
+    {"n_labeled": 1000},  # 超过 n_total
+    {"overlap": -1.0},    # 非法 overlap
+    {"dgp": "unknown"},   # 非法 dgp
+])
+def test_make_semi_rejects_invalid(bad):
+    kwargs = {
+        "n_total": 100, "n_labeled": 10, "n_features": 5, "n_classes": 2,
+        "overlap": 0.5, "dgp": "gaussian", "seed": 1,
+    }
+    kwargs.update(bad)
+    with pytest.raises(DataError):
+        make_semi_synthetic(**kwargs)

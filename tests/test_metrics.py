@@ -1,1 +1,36 @@
-IiIi6K+E5Lyw5oyH5qCH5rWL6K+VICjkvZzogIU6IOaZqOaYnynjgIIKCumqjOivgeaJi+WGmSBhY2N1cmFjeV9zY29yZSDkuI4gc2tsZWFybiDkuIDoh7QsIOS7peWPiiBtZWFuX3N0ZCDnmoTmraPnoa7mgKfjgIIKIiIiCgppbXBvcnQgbnVtcHkgYXMgbnAKZnJvbSBza2xlYXJuLm1ldHJpY3MgaW1wb3J0IGFjY3VyYWN5X3Njb3JlIGFzIHNrX2FjYwoKZnJvbSBjb3JlLnNlZWQgaW1wb3J0IHNldF9hbGwKZnJvbSBldmFsLm1ldHJpY3MgaW1wb3J0IGFjY3VyYWN5X3Njb3JlLCBtZWFuX3N0ZAoKc2V0X2FsbCgwKQoKCmRlZiB0ZXN0X2FjY3VyYWN5X21hdGNoZXNfc2tsZWFybigpOgogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDApCiAgICB5X3RydWUgPSBybmcuaW50ZWdlcnMoMCwgMywgc2l6ZT0yMDApCiAgICB5X3ByZWQgPSBybmcuaW50ZWdlcnMoMCwgMywgc2l6ZT0yMDApCiAgICBhc3NlcnQgYWJzKGFjY3VyYWN5X3Njb3JlKHlfdHJ1ZSwgeV9wcmVkKSAtIHNrX2FjYyh5X3RydWUsIHlfcHJlZCkpIDwgMWUtMTIKCgpkZWYgdGVzdF9hY2N1cmFjeV9wZXJmZWN0KCk6CiAgICB5ID0gbnAuYXJyYXkoWzAsIDEsIDIsIDAsIDFdKQogICAgYXNzZXJ0IGFjY3VyYWN5X3Njb3JlKHksIHkpID09IDEuMAoKCmRlZiB0ZXN0X21lYW5fc3RkKCk6CiAgICB2YWxzID0gWzAuNSwgMC42LCAwLjcsIDAuOF0KICAgIG0sIHMgPSBtZWFuX3N0ZCh2YWxzKQogICAgYXNzZXJ0IGFicyhtIC0gMC42NSkgPCAxZS05CiAgICBhc3NlcnQgYWJzKHMgLSBucC5zdGQodmFscywgZGRvZj0wKSkgPCAxZS05CgoKZGVmIHRlc3RfbWVhbl9zdGRfZW1wdHkoKToKICAgIG0sIHMgPSBtZWFuX3N0ZChbXSkKICAgIGFzc2VydCBtID09IDAuMCBhbmQgcyA9PSAwLjAK
+"""评估指标测试 (作者: 晨星)。
+
+验证手写 accuracy_score 与 sklearn 一致, 以及 mean_std 的正确性。
+"""
+
+import numpy as np
+from sklearn.metrics import accuracy_score as sk_acc
+
+from core.seed import set_all
+from eval.metrics import accuracy_score, mean_std
+
+set_all(0)
+
+
+def test_accuracy_matches_sklearn():
+    rng = np.random.default_rng(0)
+    y_true = rng.integers(0, 3, size=200)
+    y_pred = rng.integers(0, 3, size=200)
+    assert abs(accuracy_score(y_true, y_pred) - sk_acc(y_true, y_pred)) < 1e-12
+
+
+def test_accuracy_perfect():
+    y = np.array([0, 1, 2, 0, 1])
+    assert accuracy_score(y, y) == 1.0
+
+
+def test_mean_std():
+    vals = [0.5, 0.6, 0.7, 0.8]
+    m, s = mean_std(vals)
+    assert abs(m - 0.65) < 1e-9
+    assert abs(s - np.std(vals, ddof=0)) < 1e-9
+
+
+def test_mean_std_empty():
+    m, s = mean_std([])
+    assert m == 0.0 and s == 0.0

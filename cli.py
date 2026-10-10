@@ -1,1 +1,78 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCiIiIlNlbWlGb3JnZSDlkb3ku6TooYzlhaXlj6PjgIIKCuS9nOiAhTog5pmo5pifIChDSlgwNzEyKQoK55So5rOVOgogIHB5dGhvbiBjbGkucHkgZGVtbyAgICAgICAgICMg6LeR56uv5Yiw56uv5Z+65YeGIChiZW5jaG1hcmsuanNvbikKICBweXRob24gY2xpLnB5IHJ1biAtLWhlbHAgICAjIOiHquWumuS5ieWfuuWHhuWPguaVsAoiIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBhcmdwYXJzZQppbXBvcnQgb3MKaW1wb3J0IHN5cwoKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQppZiBIRVJFIG5vdCBpbiBzeXMucGF0aDoKICAgIHN5cy5wYXRoLmluc2VydCgwLCBIRVJFKQpzeXMuc3Rkb3V0LnJlY29uZmlndXJlKGVuY29kaW5nPSJ1dGYtOCIpCgpmcm9tIGNvcmUuY29uZmlnIGltcG9ydCBnZXRfY29uZmlnCmZyb20gY29yZS5zZWVkIGltcG9ydCBzZXRfYWxsCmZyb20gcGlwZWxpbmUucGlwZWxpbmUgaW1wb3J0IFNlbWlQaXBlbGluZQpmcm9tIHNlbWkuYmFzZSBpbXBvcnQgYXZhaWxhYmxlX3hnYm9vc3QKCgpkZWYgY21kX2RlbW8oYXJncykgLT4gaW50OgogICAgZnJvbSBleGFtcGxlcy5ydW5fZGVtbyBpbXBvcnQgbWFpbgoKICAgIG1haW4oKQogICAgcmV0dXJuIDAKCgpkZWYgY21kX3J1bihhcmdzKSAtPiBpbnQ6CiAgICBjZmcgPSBnZXRfY29uZmlnKG92ZXJyaWRlcz17ImRlZmF1bHRfc2VlZCI6IGFyZ3Muc2VlZH0pCiAgICBzZXRfYWxsKGFyZ3Muc2VlZCkKICAgIHBpcGUgPSBTZW1pUGlwZWxpbmUoY2ZnKQogICAgcmVnaW1lcyA9IFsKICAgICAgICB7Im92ZXJsYXAiOiBhcmdzLm92ZXJsYXAsICJuX2xhYmVsZWQiOiBhcmdzLm5fbGFiZWxlZCwKICAgICAgICAgIm5fdG90YWwiOiBhcmdzLm5fdG90YWwsICJuX2ZlYXR1cmVzIjogMjAsICJsYWJlbF9ub2lzZSI6IDAuMCwgIm5fY2xhc3NlcyI6IDJ9CiAgICBdCiAgICBiZW5jaCA9IHBpcGUuYmVuY2htYXJrKHJlZ2ltZXMsIGxpc3QocmFuZ2UoMSwgYXJncy5zZWVkcyArIDEpKSkKICAgIHByaW50KGYieGdib29zdF9hdmFpbGFibGU9e2F2YWlsYWJsZV94Z2Jvb3N0KCl9IikKICAgIHByaW50KGYieydtZXRob2QnOjwxNn17J21lYW4nOj44fXsnc3RkJzo+OH0iKQogICAgZm9yIG5hbWUsIGEgaW4gYmVuY2hbImFnZ3JlZ2F0ZSJdLml0ZW1zKCk6CiAgICAgICAgcHJpbnQoZiJ7bmFtZTo8MTZ9e2FbJ21lYW4nXTo+OC40Zn17YVsnc3RkJ106PjguNGZ9IikKICAgIHJldHVybiAwCgoKZGVmIGJ1aWxkX3BhcnNlcigpIC0+IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyOgogICAgcCA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKHByb2c9InNlbWlmb3JnZSIsIGRlc2NyaXB0aW9uPSJTZW1pRm9yZ2Ug5Y2K55uR552j5a2m5Lmg57O757ufICjkvZzogIU6IOaZqOaYnykiKQogICAgc3ViID0gcC5hZGRfc3VicGFyc2VycyhkZXN0PSJjbWQiKQoKICAgIGQgPSBzdWIuYWRkX3BhcnNlcigiZGVtbyIsIGhlbHA9Iui3keerr+WIsOerr+WfuuWHhiIpCiAgICBkLnNldF9kZWZhdWx0cyhmdW5jPWNtZF9kZW1vKQoKICAgIHIgPSBzdWIuYWRkX3BhcnNlcigicnVuIiwgaGVscD0i6Ieq5a6a5LmJ5Y2VIHJlZ2ltZSDln7rlh4YiKQogICAgci5hZGRfYXJndW1lbnQoIi0tb3ZlcmxhcCIsIHR5cGU9ZmxvYXQsIGRlZmF1bHQ9MC41KQogICAgci5hZGRfYXJndW1lbnQoIi0tbl9sYWJlbGVkIiwgdHlwZT1pbnQsIGRlZmF1bHQ9MjApCiAgICByLmFkZF9hcmd1bWVudCgiLS1uX3RvdGFsIiwgdHlwZT1pbnQsIGRlZmF1bHQ9NTAwKQogICAgci5hZGRfYXJndW1lbnQoIi0tc2VlZHMiLCB0eXBlPWludCwgZGVmYXVsdD0zKQogICAgci5hZGRfYXJndW1lbnQoIi0tc2VlZCIsIHR5cGU9aW50LCBkZWZhdWx0PTIwMjYxMDEwKQogICAgci5zZXRfZGVmYXVsdHMoZnVuYz1jbWRfcnVuKQogICAgcmV0dXJuIHAKCgpkZWYgbWFpbihhcmd2PU5vbmUpIC0+IGludDoKICAgIHBhcnNlciA9IGJ1aWxkX3BhcnNlcigpCiAgICBhcmdzID0gcGFyc2VyLnBhcnNlX2FyZ3MoYXJndikKICAgIGlmIG5vdCBnZXRhdHRyKGFyZ3MsICJmdW5jIiwgTm9uZSk6CiAgICAgICAgcGFyc2VyLnByaW50X2hlbHAoKQogICAgICAgIHJldHVybiAxCiAgICByZXR1cm4gYXJncy5mdW5jKGFyZ3MpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHN5cy5leGl0KG1haW4oKSkK
+#!/usr/bin/env python
+"""SemiForge 命令行入口。
+
+作者: 晨星 (CJX0712)
+
+用法:
+  python cli.py demo         # 跑端到端基准 (benchmark.json)
+  python cli.py run --help   # 自定义基准参数
+"""
+
+from __future__ import annotations
+
+import argparse
+import os
+import sys
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+if HERE not in sys.path:
+    sys.path.insert(0, HERE)
+sys.stdout.reconfigure(encoding="utf-8")
+
+from core.config import get_config
+from core.seed import set_all
+from pipeline.pipeline import SemiPipeline
+from semi.base import available_xgboost
+
+
+def cmd_demo(args) -> int:
+    from examples.run_demo import main
+
+    main()
+    return 0
+
+
+def cmd_run(args) -> int:
+    cfg = get_config(overrides={"default_seed": args.seed})
+    set_all(args.seed)
+    pipe = SemiPipeline(cfg)
+    regimes = [
+        {"overlap": args.overlap, "n_labeled": args.n_labeled,
+         "n_total": args.n_total, "n_features": 20, "label_noise": 0.0, "n_classes": 2}
+    ]
+    bench = pipe.benchmark(regimes, list(range(1, args.seeds + 1)))
+    print(f"xgboost_available={available_xgboost()}")
+    print(f"{'method':<16}{'mean':>8}{'std':>8}")
+    for name, a in bench["aggregate"].items():
+        print(f"{name:<16}{a['mean']:>8.4f}{a['std']:>8.4f}")
+    return 0
+
+
+def build_parser() -> argparse.ArgumentParser:
+    p = argparse.ArgumentParser(prog="semiforge", description="SemiForge 半监督学习系统 (作者: 晨星)")
+    sub = p.add_subparsers(dest="cmd")
+
+    d = sub.add_parser("demo", help="跑端到端基准")
+    d.set_defaults(func=cmd_demo)
+
+    r = sub.add_parser("run", help="自定义单 regime 基准")
+    r.add_argument("--overlap", type=float, default=0.5)
+    r.add_argument("--n_labeled", type=int, default=20)
+    r.add_argument("--n_total", type=int, default=500)
+    r.add_argument("--seeds", type=int, default=3)
+    r.add_argument("--seed", type=int, default=20261010)
+    r.set_defaults(func=cmd_run)
+    return p
+
+
+def main(argv=None) -> int:
+    parser = build_parser()
+    args = parser.parse_args(argv)
+    if not getattr(args, "func", None):
+        parser.print_help()
+        return 1
+    return args.func(args)
+
+
+if __name__ == "__main__":
+    sys.exit(main())

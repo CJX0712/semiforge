@@ -1,1 +1,77 @@
-IyBTZW1pRm9yZ2Ug5p625p6E6K6+6K6hCgo+IOS9nOiAhe+8muaZqOaYnyAoQ0pYMDcxMikKCiMjIDEuIOiuvuiuoeWOn+WImQoKMS4gKirmlbDlraYv566X5rOV5q2j56Gu5oCn5LyY5YWIKirvvJrmr4/kuKrmqKHlnZfpg73mnInlj6/ooqvni6znq4vpqozor4HnmoTjgIzkuI3lj5jph4/jgI3vvIzlubbphY3ljZXmtYvnoazpl6jnpoHjgIIKMi4gKirnoa7lrprmgKflj6/lpI3njrAqKu+8muWQjCBzZWVkIOS4pOasoei/kOihjOaguOW/g+aMh+agh+mAkOS9jeS4gOiHtO+8iOW3sumqjOivgei3qOi/m+eoiyBieXRlLWlkZW50aWNhbO+8ieOAggozLiAqKumYsuaVsOaNruazhOa8jyoq77ya5rWL6K+V6ZuG5YWo5qCH5rOo44CB6K6t57uD6ZuG5peg5qCH5rOo77yIYHlfbGFiZWxlZD0tMWDvvInvvIzml6DmoIfms6jkv6Hmga/msLjkuI3ov5vlhaXorq3nu4PjgIIKNC4gKiror5rlrp7pmY3nuqcqKu+8muagh+azqOWFhei2s+aXtuS4jee8lumAoOWinuebiu+8jOW8uuWItuWbnumAgOe6r+ebkeedo++8m+e7neS4jei+k+WHuui0n+WinuebiuOAggo1LiAqKuWkjeeUqOS4lueVjOmhtue6p+W8gOa6kCArIOmbtuS+nei1luWFnOW6lSoq77yaVGllci0wIOeUqCBzY2lraXQtbGVhcm4gLyBYR0Jvb3N077ybVGllci0xIOe6ryBudW1weSDlhZzlupXmsLjlj6/ov5DooYzjgIIKCiMjIDIuIOiwg+eUqOmTvu+8iOWNleWQkeaXoOeOr++8iQoKYGBgCnBpcGVsaW5lIOKUgOKUgOKWuiBkYXRhIOKUgOKUgOKWuiBzZW1pIOKUgOKUgOKWuiBldmFsCiAgICDilIIgICAgICAgICAg4pSCICAgICAgICDilIIgICAgICAgIOKUggogICAg4pSU4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pS04pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pS04pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pS04pSA4pSA4pa6IGNvcmUgKOW6leW6pzogc2VlZC9jb25maWcvdHlwZXMvZXJyb3JzKQpgYGAKCmBwaXBlbGluZWAg57yW5o6S6K6t57uDL+ivhOa1iy/ogZrlkIjvvJtgZGF0YWAg55Sf5oiQ5LiO5YiH5YiG77ybYHNlbWlgIOWunueOsOaooeWei++8m2BldmFsYCDorqHnrpfmjIfmoIfvvJsK5omA5pyJ5qih5Z2X5pyA57uI5L6d6LWWIGBjb3JlYOOAggoKIyMgMy4g5qih5Z2X6IGM6LSjCgojIyMgY29yZS8KLSBgc2VlZC5weWDvvJpgc2V0X2FsbChzZWVkKWAg5LiA5qyh5oCn6K6+6b2QIGByYW5kb21gIC8gYG51bXB5YO+8m2BybmcoKWAg6L+U5Zue56Gu5a6a5oCnIEdlbmVyYXRvcuOAggotIGBjb25maWcucHlg77yaYENvbmZpZ2AgZGF0YWNsYXNzICsgYGdldF9jb25maWcoKWDvvIzmlK/mjIEgYFNFTUlGT1JHRV9gIOeOr+Wig+WPmOmHj+imhuebluS4jiBzY2hlbWEg5qCh6aqM44CCCi0gYHR5cGVzLnB5YO+8mmBTZW1pRGF0YWAgLyBgQmVuY2htYXJrUm93YCAvIGBCZW5jaG1hcmtSZXN1bHRgIC8gYEFibGF0aW9uUmVzdWx0YCDmlbDmja7nu5PmnoTjgIIKLSBgZXJyb3JzLnB5YO+8mumUmeivr+eggSBFMTAw4oCTRTUwMO+8iENvbmZpZ0Vycm9yL0RhdGFFcnJvci9Nb2RlbEVycm9yL0V2YWxFcnJvci8uLi7vvInjgIIKLSBgaW50ZXJmYWNlcy5weWDvvJpgU2VtaVN1cGVydmlzZWRNb2RlbGAgUHJvdG9jb2zvvIhmaXQvcHJlZGljdC9wcmVkaWN0X3Byb2JhL3Njb3Jl77yJ44CCCgojIyMgZGF0YS8KLSBgc3ludGhldGljLnB5YO+8muS4pOenjSBER1Ag4oCU4oCUIGBnYXVzc2lhbmDvvIjpq5jmlq/mt7flkIjvvInkuI4gYG1vb25zYO+8iFR3byBNb29ucyDpnZ7nur/mgKfmtYHlvaIgKwogIOmrmOe7tOWGl+S9meWZquWjsOeJueW+ge+8ieOAguWFs+mUru+8mmBtYWtlX3NlbWlfc3ludGhldGljYCDnlKggYFNlZWRTZXF1ZW5jZShbc2VlZCwgbl9mZWF0dXJlcywgbl9jbGFzc2VzLCBkZ3Bfc2FsdF0pYAogIOa0vueUn+eLrOeriyBHZW5lcmF0b3LvvIwqKuS4jeS9v+eUqOWPlyBgUFlUSE9OSEFTSFNFRURgIOW9seWTjeeahCBgaGFzaCgpYCoq77yM5L+d6K+B6Leo6L+b56iL5Y+v5aSN546w44CCCiAg5LiN5Y+Y6YeP77ya4pGgIGBzdW0oeV9sYWJlbGVkPT0tMSk9PW5fdG90YWwtbl9sYWJlbGVkYO+8m+KRoSDmr4/nsbvoh7PlsJEgYG1pbl9wZXJfY2xhc3NgIOagh+azqO+8m+KRoiDnsbvopobnm5blrozmlbTjgIIKLSBgbG9hZGVycy5weWDvvJpgdHJhaW5fdGVzdF9zcGxpdF9zZW1pYCDigJTigJQg5rWL6K+V6ZuG5YWo5qCH5rOo44CB6K6t57uD6ZuG5peg5qCH5rOo44CB5oyJ57G75YiG5bGC5oq95qC377ybCiAgYGxvYWRfc2VtaV9ucHpgIC8gYHNhdmVfc2VtaV9ucHpgIOacrOWcsOaMgeS5heWMluOAggoKIyMjIHNlbWkvCi0gYGJhc2UucHlg77ya5aSN55So5LiW55WM6aG257qn5byA5rqQ55qE5bCB6KOF77yaCiAgLSBgU3VwZXJ2aXNlZE9ubHlg77yaTG9naXN0aWNSZWdyZXNzaW9uICsgU3RhbmRhcmRTY2FsZXLvvIjnuq/nm5HnnaPmnIDlvLrln7rnur/vvInjgIIKICAtIGBTdXBlcnZpc2VkWEdCYCAvIGBTdXBlcnZpc2VkUkZg77ya57qv55uR552j5by66Z2e57q/5oCn5Z+657q/77yIWEdCIOS4jeWPr+eUqOaXtuiHquWKqOmZjSBSRu+8ieOAggogIC0gYFNlbGZUcmFpbmluZ1hHQmDvvJpTZWxmVHJhaW5pbmdDbGFzc2lmaWVyKFhHQinjgIIKICAtIGBMYWJlbFNwcmVhZGluZ1NLYO+8mkxhYmVsU3ByZWFkaW5nICoqa05OIOWbvioq77yI6Z2eIFJCRiDlhajov57mjqXvvInjgIIKICAtIGBhdmFpbGFibGVfeGdib29zdCgpYO+8muaOoua1i+mZjee6p+OAggotIGBscF9udW1weS5weWDvvJoqKue6ryBudW1weSDov63ku6PlvI/moIfnrb7kvKDmkq0qKu+8iFpob3UgMjAwNCAvIEJlbmdpbyAyMDA277yJ44CCUkJGIOS6suWSjCArIOihjOW9kuS4gOWMlui9rOenu+efqemYtQogICsgaGFyZCBjbGFtcGluZ++8m21lZGlhbiBoZXVyaXN0aWMg6Ieq6YCC5bqUIGdhbW1h77yb5LiN5YGaIFN0YW5kYXJkU2NhbGVy44CC5LiN5Y+Y6YePIEkx4oCTSTTvvIjop4EgbW9kZWxfY2FyZO+8ieOAggotIGBzZW1pZnVzZS5weWDvvJrml5foiLAgYFNlbWlGdXNlYCDigJTigJQg5qCH5rOo6aKE566X6Ieq6YCC5bqU6Lev55SxICsg6K+a5a6e5Zue6YCA44CCCgojIyMgZXZhbC8KLSBgbWV0cmljcy5weWDvvJrmiYvlhpkgYGFjY3VyYWN5X3Njb3JlYO+8iOS4jiBza2xlYXJuIOS4gOiHtOaAp+W3sumqjOivge+8ieOAgWBtZWFuX3N0ZGDjgIIKCiMjIyBwaXBlbGluZS8KLSBgcGlwZWxpbmUucHlg77yaYFNlbWlQaXBlbGluZS5ydW5g77yI5Y2V5pWw5o2u5YWo5pa55rOV6K+E5rWL77yJKyBgYmVuY2htYXJrYO+8iOWkmiByZWdpbWUgw5cg5aSaIHNlZWQg6IGa5ZCI77yJ44CCCgojIyA0LiBTZW1pRnVzZSDot6/nlLHpgLvovpEKCmBgYApmaXQoWCwgeV9sYWJlbGVkKToKICAxLiDlgJnpgInmsaDlhajpg6ggZml0IChTdXBlcnZpc2VkT25seS9TZWxmVHJhaW5pbmcvTGFiZWxTcHJlYWRpbmcvTFAtTnVtUHkpCiAgMi4gaWYg5YWo6YOo5qCH5rOoIChucC5hbGwoeV9sYWJlbGVkIT0tMSkpOiDlvLrliLbnuq/nm5HnnaMKICAzLiBpZiDmoIfms6jnqIDnvLogKG5fbGFiZWxlZCA8PSBsYWJlbF9idWRnZXQpOiDpgIkgTGFiZWxTcHJlYWRpbmcgKGtOTiDlm74pCiAgNC4gaWYg5qCH5rOo5YWF6LazIChuX2xhYmVsZWQgPiAgbGFiZWxfYnVkZ2V0KSAmIHVzZV9mYWxsYmFjazog5by65Yi2IFN1cGVydmlzZWRPbmx5CmBgYAoK5raI6J6N5byA5YWz77yaYHVzZV9yb3V0aW5nPUZhbHNlYCDihpIg5Zu65a6aIFNlbGZUcmFpbmluZ++8iOmHj+WMlui3r+eUseWinuebiu+8ie+8mwpgdXNlX2ZhbGxiYWNrPUZhbHNlYCDihpIg6LWw56iA57y66Lev55Sx77yI6YeP5YyW5Zue6YCA5Lu35YC877yJ44CCCgojIyA1LiDlpI3njrDkv53or4EKCi0g5pWw5o2u77yaYG1ha2Vfc2VtaV9zeW50aGV0aWMoc2VlZD1zKWAg5LiOIGB0cmFpbl90ZXN0X3NwbGl0X3NlbWkoc2VlZD3lm7rlrpopYCDlkIToh6rmtL7nlJ/ni6znq4sgUk5H77yMCiAg5LiO5YWo5bGA54q25oCB6ZqU56a777yb5LiN5L2/55SoIGBoYXNoKClg44CCCi0g5qih5Z6L77yaWEdCb29zdCAvIExhYmVsU3ByZWFkaW5nIC8gTG9naXN0aWNSZWdyZXNzaW9uIOWdh+S8oOWFpeWbuuWumiBgcmFuZG9tX3N0YXRlYO+8mwogIExQLU51bVB5IOe6ryBudW1weSDml6AgUk5H44CCCi0g6aqM6K+B77yaYGRldGVybWluaXNtX2NoZWNrYCDkuI4gQ0kg55qEIGRlbW8g6YeN6LeR5Z2H56Gu6K6kIGFjY3VyYWN5IOmAkOS9jeS4gOiHtOOAggo=
+# SemiForge 架构设计
+
+> 作者：晨星 (CJX0712)
+
+## 1. 设计原则
+
+1. **数学/算法正确性优先**：每个模块都有可被独立验证的「不变量」，并配单测硬门禁。
+2. **确定性可复现**：同 seed 两次运行核心指标逐位一致（已验证跨进程 byte-identical）。
+3. **防数据泄漏**：测试集全标注、训练集无标注（`y_labeled=-1`），无标注信息永不进入训练。
+4. **诚实降级**：标注充足时不编造增益，强制回退纯监督；绝不输出负增益。
+5. **复用世界顶级开源 + 零依赖兜底**：Tier-0 用 scikit-learn / XGBoost；Tier-1 纯 numpy 兜底永可运行。
+
+## 2. 调用链（单向无环）
+
+```
+pipeline ──► data ──► semi ──► eval
+    │          │        │        │
+    └──────────┴────────┴────────┴──► core (底座: seed/config/types/errors)
+```
+
+`pipeline` 编排训练/评测/聚合；`data` 生成与切分；`semi` 实现模型；`eval` 计算指标；
+所有模块最终依赖 `core`。
+
+## 3. 模块职责
+
+### core/
+- `seed.py`：`set_all(seed)` 一次性设齐 `random` / `numpy`；`rng()` 返回确定性 Generator。
+- `config.py`：`Config` dataclass + `get_config()`，支持 `SEMIFORGE_` 环境变量覆盖与 schema 校验。
+- `types.py`：`SemiData` / `BenchmarkRow` / `BenchmarkResult` / `AblationResult` 数据结构。
+- `errors.py`：错误码 E100–E500（ConfigError/DataError/ModelError/EvalError/...）。
+- `interfaces.py`：`SemiSupervisedModel` Protocol（fit/predict/predict_proba/score）。
+
+### data/
+- `synthetic.py`：两种 DGP —— `gaussian`（高斯混合）与 `moons`（Two Moons 非线性流形 +
+  高维冗余噪声特征）。关键：`make_semi_synthetic` 用 `SeedSequence([seed, n_features, n_classes, dgp_salt])`
+  派生独立 Generator，**不使用受 `PYTHONHASHSEED` 影响的 `hash()`**，保证跨进程可复现。
+  不变量：① `sum(y_labeled==-1)==n_total-n_labeled`；② 每类至少 `min_per_class` 标注；③ 类覆盖完整。
+- `loaders.py`：`train_test_split_semi` —— 测试集全标注、训练集无标注、按类分层抽样；
+  `load_semi_npz` / `save_semi_npz` 本地持久化。
+
+### semi/
+- `base.py`：复用世界顶级开源的封装：
+  - `SupervisedOnly`：LogisticRegression + StandardScaler（纯监督最强基线）。
+  - `SupervisedXGB` / `SupervisedRF`：纯监督强非线性基线（XGB 不可用时自动降 RF）。
+  - `SelfTrainingXGB`：SelfTrainingClassifier(XGB)。
+  - `LabelSpreadingSK`：LabelSpreading **kNN 图**（非 RBF 全连接）。
+  - `available_xgboost()`：探测降级。
+- `lp_numpy.py`：**纯 numpy 迭代式标签传播**（Zhou 2004 / Bengio 2006）。RBF 亲和 + 行归一化转移矩阵
+  + hard clamping；median heuristic 自适应 gamma；不做 StandardScaler。不变量 I1–I4（见 model_card）。
+- `semifuse.py`：旗舰 `SemiFuse` —— 标注预算自适应路由 + 诚实回退。
+
+### eval/
+- `metrics.py`：手写 `accuracy_score`（与 sklearn 一致性已验证）、`mean_std`。
+
+### pipeline/
+- `pipeline.py`：`SemiPipeline.run`（单数据全方法评测）+ `benchmark`（多 regime × 多 seed 聚合）。
+
+## 4. SemiFuse 路由逻辑
+
+```
+fit(X, y_labeled):
+  1. 候选池全部 fit (SupervisedOnly/SelfTraining/LabelSpreading/LP-NumPy)
+  2. if 全部标注 (np.all(y_labeled!=-1)): 强制纯监督
+  3. if 标注稀缺 (n_labeled <= label_budget): 选 LabelSpreading (kNN 图)
+  4. if 标注充足 (n_labeled >  label_budget) & use_fallback: 强制 SupervisedOnly
+```
+
+消融开关：`use_routing=False` → 固定 SelfTraining（量化路由增益）；
+`use_fallback=False` → 走稀缺路由（量化回退价值）。
+
+## 5. 复现保证
+
+- 数据：`make_semi_synthetic(seed=s)` 与 `train_test_split_semi(seed=固定)` 各自派生独立 RNG，
+  与全局状态隔离；不使用 `hash()`。
+- 模型：XGBoost / LabelSpreading / LogisticRegression 均传入固定 `random_state`；
+  LP-NumPy 纯 numpy 无 RNG。
+- 验证：`determinism_check` 与 CI 的 demo 重跑均确认 accuracy 逐位一致。

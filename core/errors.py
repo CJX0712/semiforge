@@ -1,1 +1,57 @@
-IiIiU2VtaUZvcmdlIOmUmeivr+eggeWumuS5ieOAggoK5L2c6ICFOiDmmajmmJ8gKENKWDA3MTIpCgrplJnor6/kvZPns7s6IEUxeHgg6YWN572uIC8gRTJ4eCDmlbDmja4gLyBFM3h4IOaooeWeiyAvIEU0eHgg6K+E5rWLIC8gRTV4eCDns7vnu5/jgIIK5omA5pyJ6Ieq5a6a5LmJ5byC5bi457uf5LiA57un5om/6IeqIFNlbWlGb3JnZUVycm9y44CCCiIiIgoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKCmNsYXNzIFNlbWlGb3JnZUVycm9yKEV4Y2VwdGlvbik6CiAgICAiIiLmiYDmnIkgU2VtaUZvcmdlIOW8guW4uOeahOWfuuexu+OAgiIiIgoKICAgIGNvZGUgPSAiRTAwMCIKICAgIG1lc3NhZ2UgPSAi5pyq5YiG57G76ZSZ6K+vIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBkZXRhaWw6IHN0ciA9ICIiKToKICAgICAgICBzZWxmLmRldGFpbCA9IGRldGFpbAogICAgICAgIHN1cGVyKCkuX19pbml0X18oZiJbe3NlbGYuY29kZX1dIHtzZWxmLm1lc3NhZ2V9eygnOiAnICsgZGV0YWlsKSBpZiBkZXRhaWwgZWxzZSAnJ30iKQoKCmNsYXNzIENvbmZpZ0Vycm9yKFNlbWlGb3JnZUVycm9yKToKICAgIGNvZGUgPSAiRTEwMCIKICAgIG1lc3NhZ2UgPSAi6YWN572u6ZSZ6K+vIgoKCmNsYXNzIERhdGFFcnJvcihTZW1pRm9yZ2VFcnJvcik6CiAgICBjb2RlID0gIkUyMDAiCiAgICBtZXNzYWdlID0gIuaVsOaNrumUmeivryIKCgpjbGFzcyBNb2RlbEVycm9yKFNlbWlGb3JnZUVycm9yKToKICAgIGNvZGUgPSAiRTMwMCIKICAgIG1lc3NhZ2UgPSAi5qih5Z6L6ZSZ6K+vIgoKCmNsYXNzIEV2YWxFcnJvcihTZW1pRm9yZ2VFcnJvcik6CiAgICBjb2RlID0gIkU0MDAiCiAgICBtZXNzYWdlID0gIuivhOa1i+mUmeivryIKCgpjbGFzcyBTeXN0ZW1FcnJvcihTZW1pRm9yZ2VFcnJvcik6CiAgICBjb2RlID0gIkU1MDAiCiAgICBtZXNzYWdlID0gIuezu+e7n+mUmeivryIKCgpjbGFzcyBDb252ZXJnZW5jZUVycm9yKE1vZGVsRXJyb3IpOgogICAgY29kZSA9ICJFMzEwIgogICAgbWVzc2FnZSA9ICLov63ku6PmnKrmlLbmlZsiCgoKY2xhc3MgTGVha2FnZUVycm9yKERhdGFFcnJvcik6CiAgICAiIiLmo4DmtYvkvKrmoIfnrb7ms4TmvI/liLDmtYvor5Xpm4bml7bmipvlh7rvvIjnoazmgKfkuI3lj5jph4/vvInjgIIiIiIKCiAgICBjb2RlID0gIkUyMTAiCiAgICBtZXNzYWdlID0gIuaVsOaNruazhOa8jzog5rWL6K+V6ZuG5Y+C5LiO5LqG5Lyq5qCH562+55Sf5oiQIgo=
+"""SemiForge 错误码定义。
+
+作者: 晨星 (CJX0712)
+
+错误体系: E1xx 配置 / E2xx 数据 / E3xx 模型 / E4xx 评测 / E5xx 系统。
+所有自定义异常统一继承自 SemiForgeError。
+"""
+
+from __future__ import annotations
+
+
+class SemiForgeError(Exception):
+    """所有 SemiForge 异常的基类。"""
+
+    code = "E000"
+    message = "未分类错误"
+
+    def __init__(self, detail: str = ""):
+        self.detail = detail
+        super().__init__(f"[{self.code}] {self.message}{(': ' + detail) if detail else ''}")
+
+
+class ConfigError(SemiForgeError):
+    code = "E100"
+    message = "配置错误"
+
+
+class DataError(SemiForgeError):
+    code = "E200"
+    message = "数据错误"
+
+
+class ModelError(SemiForgeError):
+    code = "E300"
+    message = "模型错误"
+
+
+class EvalError(SemiForgeError):
+    code = "E400"
+    message = "评测错误"
+
+
+class SystemError(SemiForgeError):
+    code = "E500"
+    message = "系统错误"
+
+
+class ConvergenceError(ModelError):
+    code = "E310"
+    message = "迭代未收敛"
+
+
+class LeakageError(DataError):
+    """检测伪标签泄漏到测试集时抛出（硬性不变量）。"""
+
+    code = "E210"
+    message = "数据泄漏: 测试集参与了伪标签生成"

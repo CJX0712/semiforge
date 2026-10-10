@@ -1,1 +1,49 @@
-bmFtZTogQ0kKCm9uOgogIHB1c2g6CiAgICBicmFuY2hlczogW21haW4sIG1hc3Rlcl0KICBwdWxsX3JlcXVlc3Q6CiAgd29ya2Zsb3dfZGlzcGF0Y2g6Cgpqb2JzOgogIHRlc3Q6CiAgICBydW5zLW9uOiB1YnVudHUtbGF0ZXN0CiAgICBzdHJhdGVneToKICAgICAgbWF0cml4OgogICAgICAgIHB5dGhvbi12ZXJzaW9uOiBbIjMuMTMiXQogICAgc3RlcHM6CiAgICAgIC0gdXNlczogYWN0aW9ucy9jaGVja291dEB2NAoKICAgICAgLSBuYW1lOiBTZXQgdXAgUHl0aG9uICR7eyBtYXRyaXgucHl0aG9uLXZlcnNpb24gfX0KICAgICAgICB1c2VzOiBhY3Rpb25zL3NldHVwLXB5dGhvbkB2NQogICAgICAgIHdpdGg6CiAgICAgICAgICBweXRob24tdmVyc2lvbjogJHt7IG1hdHJpeC5weXRob24tdmVyc2lvbiB9fQoKICAgICAgLSBuYW1lOiBJbnN0YWxsIGRlcGVuZGVuY2llcwogICAgICAgIHJ1bjogfAogICAgICAgICAgcHl0aG9uIC1tIHBpcCBpbnN0YWxsIC0tdXBncmFkZSBwaXAKICAgICAgICAgIHBpcCBpbnN0YWxsIC1yIHJlcXVpcmVtZW50cy50eHQKICAgICAgICAgIHBpcCBpbnN0YWxsIHB5dGVzdCBweXRlc3QtY292IHJ1ZmYKCiAgICAgIC0gbmFtZTogUnVmZiAobGludCkKICAgICAgICBydW46IHJ1ZmYgY2hlY2sgLgoKICAgICAgLSBuYW1lOiBTZWNyZXRzIHNlbGYtc2NhbgogICAgICAgIHJ1bjogfAogICAgICAgICAgaWYgZ3JlcCAtckVJICJhcGlfa2V5fHNlY3JldHxwYXNzd29yZHx0b2tlblxzKj1ccypbJ1wiXVtBLVphLXowLTldezEyLH0iIC0taW5jbHVkZT0iKi5weSIgLS1pbmNsdWRlPSIqLmpzb24iIC47IHRoZW4KICAgICAgICAgICAgZWNobyAiOjplcnJvcjo6UE9TU0lCTEUgU0VDUkVUIEZPVU5EIjsgZXhpdCAxCiAgICAgICAgICBmaQoKICAgICAgLSBuYW1lOiBQeXRlc3QKICAgICAgICBydW46IHB5dGVzdCAtcQoKICAgICAgLSBuYW1lOiBEZW1vIHNtb2tlIChyZXByb2R1Y2liaWxpdHkpCiAgICAgICAgcnVuOiBweXRob24gY2xpLnB5IGRlbW8KCiAgICAgIC0gbmFtZTogVXBsb2FkIGJlbmNobWFyayBhcnRpZmFjdAogICAgICAgIGlmOiBhbHdheXMoKQogICAgICAgIHVzZXM6IGFjdGlvbnMvdXBsb2FkLWFydGlmYWN0QHY0CiAgICAgICAgd2l0aDoKICAgICAgICAgIG5hbWU6IGJlbmNobWFyay1qc29uCiAgICAgICAgICBwYXRoOiBiZW5jaG1hcmsuanNvbgo=
+name: CI
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.13"]
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install pytest pytest-cov ruff
+
+      - name: Ruff (lint)
+        run: ruff check .
+
+      - name: Secrets self-scan
+        run: |
+          if grep -rEI "api_key|secret|password|token\s*=\s*['\"][A-Za-z0-9]{12,}" --include="*.py" --include="*.json" .; then
+            echo "::error::POSSIBLE SECRET FOUND"; exit 1
+          fi
+
+      - name: Pytest
+        run: pytest -q
+
+      - name: Demo smoke (reproducibility)
+        run: python cli.py demo
+
+      - name: Upload benchmark artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: benchmark-json
+          path: benchmark.json

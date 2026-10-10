@@ -1,1 +1,40 @@
-IiIiU2VtaUZvcmdlIOaOpeWPo+Wlkee6piAoUHJvdG9jb2wp44CCCgrkvZzogIU6IOaZqOaYnyAoQ0pYMDcxMikKCuaJgOacieWNiuebkeedo+aooeWei+WunueOsOe7n+S4gOivreS5iToKICAtIGZpdChYLCB5X2xhYmVsZWQpOiB5X2xhYmVsZWQg5LitIC0xIOihqOekuuaXoOagh+azqAogIC0gcHJlZGljdChYKTog6L+U5Zue57G75YirCiAgLSBzY29yZShYLCB5KTog6L+U5ZueIGFjY3VyYWN5ICh5IOS4uuWujOaVtOecn+agh+etvikKICAtIOWIhuaVsOivreS5iTog6LaK5aSn6LaK5aW9IChhY2N1cmFjeSkK5Y2V5ZCR5peg546vOiDpoobln5/mqKHlnZfkvp3otZYgY29yZSwg5LiN6KKrIGNvcmUg5Y+N5ZCR5L6d6LWW44CCCiIiIgoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKZnJvbSB0eXBpbmcgaW1wb3J0IFByb3RvY29sLCBydW50aW1lX2NoZWNrYWJsZQoKaW1wb3J0IG51bXB5IGFzIG5wCgoKQHJ1bnRpbWVfY2hlY2thYmxlCmNsYXNzIFNlbWlTdXBlcnZpc2VkTW9kZWwoUHJvdG9jb2wpOgogICAgIiIi5Y2K55uR552j5YiG57G75Zmo57uf5LiA5o6l5Y+j44CCIiIiCgogICAgbmFtZTogc3RyCgogICAgZGVmIGZpdChzZWxmLCBYOiBucC5uZGFycmF5LCB5X2xhYmVsZWQ6IG5wLm5kYXJyYXkpIC0+IFNlbWlTdXBlcnZpc2VkTW9kZWw6CiAgICAgICAgIiIi55SoIChYLCB5X2xhYmVsZWQpIOiuree7g+OAgnlfbGFiZWxlZCDkuK0gLTEg6KGo56S65peg5qCH5rOo44CCIiIiCiAgICAgICAgLi4uCgogICAgZGVmIHByZWRpY3Qoc2VsZiwgWDogbnAubmRhcnJheSkgLT4gbnAubmRhcnJheToKICAgICAgICAiIiLov5Tlm57nsbvliKvpooTmtYsgKG5fc2FtcGxlcywp44CCIiIiCiAgICAgICAgLi4uCgogICAgZGVmIHByZWRpY3RfcHJvYmEoc2VsZiwgWDogbnAubmRhcnJheSkgLT4gbnAubmRhcnJheToKICAgICAgICAiIiLov5Tlm57nsbvliKvmpoLnjocgKG5fc2FtcGxlcywgbl9jbGFzc2VzKeOAgiIiIgogICAgICAgIC4uLgoKICAgIGRlZiBzY29yZShzZWxmLCBYOiBucC5uZGFycmF5LCB5X3RydWU6IG5wLm5kYXJyYXkpIC0+IGZsb2F0OgogICAgICAgICIiIui/lOWbniBhY2N1cmFjeSAoeV90cnVlIOS4uuWujOaVtOecn+agh+etvinjgIIiIiIKICAgICAgICAuLi4K
+"""SemiForge 接口契约 (Protocol)。
+
+作者: 晨星 (CJX0712)
+
+所有半监督模型实现统一语义:
+  - fit(X, y_labeled): y_labeled 中 -1 表示无标注
+  - predict(X): 返回类别
+  - score(X, y): 返回 accuracy (y 为完整真标签)
+  - 分数语义: 越大越好 (accuracy)
+单向无环: 领域模块依赖 core, 不被 core 反向依赖。
+"""
+
+from __future__ import annotations
+
+from typing import Protocol, runtime_checkable
+
+import numpy as np
+
+
+@runtime_checkable
+class SemiSupervisedModel(Protocol):
+    """半监督分类器统一接口。"""
+
+    name: str
+
+    def fit(self, X: np.ndarray, y_labeled: np.ndarray) -> SemiSupervisedModel:
+        """用 (X, y_labeled) 训练。y_labeled 中 -1 表示无标注。"""
+        ...
+
+    def predict(self, X: np.ndarray) -> np.ndarray:
+        """返回类别预测 (n_samples,)。"""
+        ...
+
+    def predict_proba(self, X: np.ndarray) -> np.ndarray:
+        """返回类别概率 (n_samples, n_classes)。"""
+        ...
+
+    def score(self, X: np.ndarray, y_true: np.ndarray) -> float:
+        """返回 accuracy (y_true 为完整真标签)。"""
+        ...

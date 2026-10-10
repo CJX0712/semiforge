@@ -1,1 +1,34 @@
-IiIiU2VtaUZvcmdlIOivhOa1i+aMh+agh+OAggoK5L2c6ICFOiDmmajmmJ8gKENKWDA3MTIpCgrmj5DkvpvmiYvlhpkgYWNjdXJhY3kgKOS4jiBza2xlYXJuIOS6pOWPiemqjOivgeS4gOiHtOaApykg5LiO6IGa5ZCI5bel5YW344CCCuaOpeWPo+ivreS5iee7n+S4gDogc2NvcmUg6LaK5aSn6LaK5aW9IChhY2N1cmFjeSnjgIIKIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgbnVtcHkgYXMgbnAKZnJvbSBza2xlYXJuLm1ldHJpY3MgaW1wb3J0IGFjY3VyYWN5X3Njb3JlIGFzIF9za19hY2MKCgpkZWYgYWNjdXJhY3lfc2NvcmUoeV90cnVlOiBucC5uZGFycmF5LCB5X3ByZWQ6IG5wLm5kYXJyYXkpIC0+IGZsb2F0OgogICAgIiIi5omL5YaZIGFjY3VyYWN5ICjkuI4gc2tsZWFybi5tZXRyaWNzLmFjY3VyYWN5X3Njb3JlIOetieS7tynjgIIiIiIKICAgIHlfdHJ1ZSA9IG5wLmFzYXJyYXkoeV90cnVlKQogICAgeV9wcmVkID0gbnAuYXNhcnJheSh5X3ByZWQpCiAgICBpZiB5X3RydWUuc2hhcGVbMF0gPT0gMDoKICAgICAgICByZXR1cm4gMC4wCiAgICByZXR1cm4gZmxvYXQobnAubWVhbih5X3RydWUgPT0geV9wcmVkKSkKCgpkZWYgbWF0Y2hlc19za2xlYXJuKHlfdHJ1ZTogbnAubmRhcnJheSwgeV9wcmVkOiBucC5uZGFycmF5LCB0b2w6IGZsb2F0ID0gMWUtMTIpIC0+IGJvb2w6CiAgICAiIiLpqozor4HmiYvlhpkgYWNjdXJhY3kg5LiOIHNrbGVhcm4g5a6e546w5LiA6Ie0ICjljZXlhYPmtYvor5XnlKgp44CCIiIiCiAgICByZXR1cm4gYWJzKGFjY3VyYWN5X3Njb3JlKHlfdHJ1ZSwgeV9wcmVkKSAtIGZsb2F0KF9za19hY2MoeV90cnVlLCB5X3ByZWQpKSkgPD0gdG9sCgoKZGVmIG1lYW5fc3RkKHZhbHVlczogbGlzdFtmbG9hdF0pIC0+IHR1cGxlW2Zsb2F0LCBmbG9hdF06CiAgICAiIiLov5Tlm54gKG1lYW4sIHN0ZCnjgIIiIiIKICAgIGFyciA9IG5wLmFzYXJyYXkodmFsdWVzLCBkdHlwZT1mbG9hdCkKICAgIGlmIGFyci5zaXplID09IDA6CiAgICAgICAgcmV0dXJuIDAuMCwgMC4wCiAgICByZXR1cm4gZmxvYXQoYXJyLm1lYW4oKSksIGZsb2F0KGFyci5zdGQoZGRvZj0wKSkK
+"""SemiForge 评测指标。
+
+作者: 晨星 (CJX0712)
+
+提供手写 accuracy (与 sklearn 交叉验证一致性) 与聚合工具。
+接口语义统一: score 越大越好 (accuracy)。
+"""
+
+from __future__ import annotations
+
+import numpy as np
+from sklearn.metrics import accuracy_score as _sk_acc
+
+
+def accuracy_score(y_true: np.ndarray, y_pred: np.ndarray) -> float:
+    """手写 accuracy (与 sklearn.metrics.accuracy_score 等价)。"""
+    y_true = np.asarray(y_true)
+    y_pred = np.asarray(y_pred)
+    if y_true.shape[0] == 0:
+        return 0.0
+    return float(np.mean(y_true == y_pred))
+
+
+def matches_sklearn(y_true: np.ndarray, y_pred: np.ndarray, tol: float = 1e-12) -> bool:
+    """验证手写 accuracy 与 sklearn 实现一致 (单元测试用)。"""
+    return abs(accuracy_score(y_true, y_pred) - float(_sk_acc(y_true, y_pred))) <= tol
+
+
+def mean_std(values: list[float]) -> tuple[float, float]:
+    """返回 (mean, std)。"""
+    arr = np.asarray(values, dtype=float)
+    if arr.size == 0:
+        return 0.0, 0.0
+    return float(arr.mean()), float(arr.std(ddof=0))

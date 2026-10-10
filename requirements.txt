@@ -1,1 +1,6 @@
-IyBTZW1pRm9yZ2Ug6L+Q6KGM5pe25L6d6LWWICjkvZzogIU6IOaZqOaYnykKIyDlronoo4U6IHBpcCBpbnN0YWxsIC1yIHJlcXVpcmVtZW50cy50eHQKbnVtcHk+PTIuMApzY2lweT49MS4xMApzY2lraXQtbGVhcm4+PTEuNS4wCnhnYm9vc3Q+PTIuMAo=
+# SemiForge 运行时依赖 (作者: 晨星)
+# 安装: pip install -r requirements.txt
+numpy>=2.0
+scipy>=1.10
+scikit-learn>=1.5.0
+xgboost>=2.0

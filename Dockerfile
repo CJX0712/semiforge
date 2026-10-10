@@ -1,1 +1,14 @@
-IyBTZW1pRm9yZ2Ug6L+Q6KGM5pe26ZWc5YOPICjkvZzogIU6IOaZqOaYnykKRlJPTSBweXRob246My4xMy1zbGltCgpXT1JLRElSIC9hcHAKCiMg5a6J6KOF6L+Q6KGM5pe25L6d6LWWCkNPUFkgcmVxdWlyZW1lbnRzLnR4dCAuClJVTiBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHMudHh0CgojIOaLt+i0nea6kOeggQpDT1BZIC4gLgoKIyDov5DooYznq6/liLDnq6/ln7rlh4YgKOiQveebmCBiZW5jaG1hcmsuanNvbikKQ01EIFsicHl0aG9uIiwgImNsaS5weSIsICJkZW1vIl0K
+# SemiForge 运行时镜像 (作者: 晨星)
+FROM python:3.13-slim
+
+WORKDIR /app
+
+# 安装运行时依赖
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# 拷贝源码
+COPY . .
+
+# 运行端到端基准 (落盘 benchmark.json)
+CMD ["python", "cli.py", "demo"]

@@ -1,1 +1,30 @@
-IyBTZW1pRm9yZ2UgLmdpdGlnbm9yZSAo5L2c6ICFOiDmmajmmJ8pCl9fcHljYWNoZV9fLwoqLnB5W2NvZF0KKi5lZ2ctaW5mby8KLmVnZ3MvCmJ1aWxkLwpkaXN0LwoKIyDomZrmi5/njq/looMKLnZlbnYvCnZlbnYvCmVudi8KCiMg5rWL6K+VIC8gbGludCDnvJPlrZgKLnB5dGVzdF9jYWNoZS8KLnJ1ZmZfY2FjaGUvCi5jb3ZlcmFnZQpodG1sY292LwoKIyDnvJbovpHlmaggLyBPUwoudnNjb2RlLwouaWRlYS8KKi5zd3AKVGh1bWJzLmRiCi5EU19TdG9yZQoKIyDmnKzlnLDkuLTml7YKKi50bXAKZGVidWdfKi5weQpxdWlja19jaGVjay5weQo=
+# SemiForge .gitignore (作者: 晨星)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 测试 / lint 缓存
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# 编辑器 / OS
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+.DS_Store
+
+# 本地临时
+*.tmp
+debug_*.py
+quick_check.py

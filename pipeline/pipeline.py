@@ -1,1 +1,109 @@
-IiIiU2VtaUZvcmdlIOiuree7gyAvIOivhOa1iyAvIGJlbmNobWFyayDnrqHnur/jgIIKCuS9nOiAhTog5pmo5pifIChDSlgwNzEyKQoK6LCD55So6ZO+ICjljZXlkJHml6Dnjq8pOiBwaXBlbGluZSDihpIge2RhdGEsIHNlbWksIGV2YWx9IOKGkiBjb3Jl44CCCuS4jeWPmOmHjzog5rWL6K+V6ZuG5YWo5qCH5rOoLCDorq3nu4Ppm4bml6DmoIfms6ggeV9sYWJlbGVkPS0xLCDnu53kuI3ms4TmvI/liLDkvKrmoIfnrb7nlJ/miJDjgIIKIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgdGltZQoKZnJvbSBjb3JlLmNvbmZpZyBpbXBvcnQgQ29uZmlnLCBnZXRfY29uZmlnCmZyb20gY29yZS50eXBlcyBpbXBvcnQgKAogICAgQmVuY2htYXJrUm93LAogICAgU2VtaURhdGEsCikKZnJvbSBkYXRhLmxvYWRlcnMgaW1wb3J0IHRyYWluX3Rlc3Rfc3BsaXRfc2VtaQpmcm9tIGRhdGEuc3ludGhldGljIGltcG9ydCBtYWtlX3NlbWlfc3ludGhldGljCmZyb20gZXZhbC5tZXRyaWNzIGltcG9ydCBhY2N1cmFjeV9zY29yZSwgbWVhbl9zdGQKZnJvbSBzZW1pLmJhc2UgaW1wb3J0ICgKICAgIExhYmVsU3ByZWFkaW5nU0ssCiAgICBTZWxmVHJhaW5pbmdYR0IsCiAgICBTdXBlcnZpc2VkT25seSwKICAgIFN1cGVydmlzZWRSRiwKICAgIFN1cGVydmlzZWRYR0IsCikKZnJvbSBzZW1pLmxwX251bXB5IGltcG9ydCBMYWJlbFByb3BhZ2F0aW9uTnVtcHkKZnJvbSBzZW1pLnNlbWlmdXNlIGltcG9ydCBTZW1pRnVzZQoKIyDlj4LkuI7or4TmtYvnmoTmlrnms5UgKOWQq+aXl+iIsOS4juaJgOacieWfuue6vy/lhZzlupUpCl9NRVRIT0RfRkFDVE9SSUVTID0gewogICAgIlN1cGVydmlzZWRPbmx5IjogU3VwZXJ2aXNlZE9ubHksICAgICAgIyDmraPliJnljJbnur/mgKfnm5HnnaMgKOacrOWunumqjOS4reacgOW8uuebkeedo+Wfuue6vykKICAgICJTdXBlcnZpc2VkWEdCIjogU3VwZXJ2aXNlZFhHQiwgICAgICAgICMg5by66Z2e57q/5oCn55uR552jIChYR0IpIOKAlCDnqIDnvLrmoIfms6jkuIvov4fmi5/lkIgKICAgICJTdXBlcnZpc2VkUkYiOiBTdXBlcnZpc2VkUkYsICAgICAgICAgICMg5by66Z2e57q/5oCn55uR552jIChSRikg4oCUIOWvueeFpwogICAgIlNlbGZUcmFpbmluZyI6IFNlbGZUcmFpbmluZ1hHQiwgICAgICAgIyDoh6rorq3nu4MgKFhHQikKICAgICJMYWJlbFNwcmVhZGluZyI6IExhYmVsU3ByZWFkaW5nU0ssICAgICMg5Zu+5Y2K55uR552jIChrTk4g5Zu+KQogICAgIkxQLU51bVB5IjogTGFiZWxQcm9wYWdhdGlvbk51bXB5LCAgICAjIOe6ryBudW1weSDmoIfnrb7kvKDmkq0gKOemu+e6v+WFnOW6lSkKICAgICJTZW1pRnVzZSI6IFNlbWlGdXNlLCAgICAgICAgICAgICAgICAgICMg5peX6IiwOiDoh6rpgILlupTljYrnm5HnnaPono3lkIgKfQoKCmNsYXNzIFNlbWlQaXBlbGluZToKICAgICIiIuWNiuebkeedo+ivhOa1i+euoee6v+OAgiIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBjb25maWc6IENvbmZpZyB8IE5vbmUgPSBOb25lKToKICAgICAgICBzZWxmLmNmZyA9IGNvbmZpZyBvciBnZXRfY29uZmlnKCkKCiAgICBkZWYgcnVuKHNlbGYsIGRhdGE6IFNlbWlEYXRhKSAtPiBsaXN0W0JlbmNobWFya1Jvd106CiAgICAgICAgIiIi5Zyo5Y2V5p2h5pWw5o2u5LiK6K6t57uD5omA5pyJ5pa55rOV5bm26K+E5rWLLCDov5Tlm57mjInmlrnms5XmjpLliJfnmoTnu5PmnpzooYzjgIIiIiIKICAgICAgICB0cmFpbiwgdGVzdCA9IHRyYWluX3Rlc3Rfc3BsaXRfc2VtaSgKICAgICAgICAgICAgZGF0YSwgdGVzdF9zaXplPTAuMywgc2VlZD1zZWxmLmNmZy5kZWZhdWx0X3NlZWQKICAgICAgICApCiAgICAgICAgcm93czogbGlzdFtCZW5jaG1hcmtSb3ddID0gW10KICAgICAgICBmb3IgbmFtZSwgZmFjdG9yeSBpbiBfTUVUSE9EX0ZBQ1RPUklFUy5pdGVtcygpOgogICAgICAgICAgICBtID0gZmFjdG9yeShzZWxmLmNmZykKICAgICAgICAgICAgdDAgPSB0aW1lLnBlcmZfY291bnRlcigpCiAgICAgICAgICAgIG0uZml0KHRyYWluLlgsIHRyYWluLnlfbGFiZWxlZCkKICAgICAgICAgICAgYWNjID0gYWNjdXJhY3lfc2NvcmUodGVzdC55X3RydWUsIG0ucHJlZGljdCh0ZXN0LlgpKQogICAgICAgICAgICBlbGFwc2VkID0gdGltZS5wZXJmX2NvdW50ZXIoKSAtIHQwCiAgICAgICAgICAgIHJvd3MuYXBwZW5kKAogICAgICAgICAgICAgICAgQmVuY2htYXJrUm93KAogICAgICAgICAgICAgICAgICAgIG1ldGhvZD1uYW1lLAogICAgICAgICAgICAgICAgICAgIHJlZ2ltZT1zZWxmLl9yZWdpbWVfdGFnKGRhdGEpLAogICAgICAgICAgICAgICAgICAgIHNlZWQ9aW50KGdldGF0dHIoZGF0YSwgInNlZWRfdXNlZCIsIHNlbGYuY2ZnLmRlZmF1bHRfc2VlZCkpLAogICAgICAgICAgICAgICAgICAgIGFjY3VyYWN5PWFjYywKICAgICAgICAgICAgICAgICAgICBuX2xhYmVsZWQ9dHJhaW4ubl9sYWJlbGVkLAogICAgICAgICAgICAgICAgICAgIG92ZXJsYXA9Z2V0YXR0cihkYXRhLCAib3ZlcmxhcF91c2VkIiwgLTEuMCksCiAgICAgICAgICAgICAgICAgICAgZWxhcHNlZF9zZWM9ZWxhcHNlZCwKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgKQogICAgICAgIHJldHVybiByb3dzCgogICAgZGVmIF9yZWdpbWVfdGFnKHNlbGYsIGRhdGE6IFNlbWlEYXRhKSAtPiBzdHI6CiAgICAgICAgcmV0dXJuIGYib3Zse2dldGF0dHIoZGF0YSwnb3ZlcmxhcF91c2VkJywwKTouMmZ9X2xhYntnZXRhdHRyKGRhdGEsJ25fbGFiZWxlZF91c2VkJywwKX0iCgogICAgZGVmIGJlbmNobWFyaygKICAgICAgICBzZWxmLAogICAgICAgIHJlZ2ltZXM6IGxpc3RbZGljdF0sCiAgICAgICAgc2VlZHM6IGxpc3RbaW50XSwKICAgICkgLT4gZGljdDoKICAgICAgICAiIiLlpJogcmVnaW1lIMOXIOWkmiBzZWVkIOWfuuWHhuOAggoKICAgICAgICDov5Tlm54gZGljdDogeyAncm93cyc6IFsuLi5dLCAnYWdncmVnYXRlJzoge21ldGhvZDoge21lYW4sc3RkLG59fSwKICAgICAgICAgICAgICAgICAgICAgJ3JlZ2ltZXMnOiByZWdpbWVzLCAnc2VlZHMnOiBzZWVkcyB9CiAgICAgICAgIiIiCiAgICAgICAgYWxsX3Jvd3M6IGxpc3RbQmVuY2htYXJrUm93XSA9IFtdCiAgICAgICAgZm9yIHIgaW4gcmVnaW1lczoKICAgICAgICAgICAgZm9yIHMgaW4gc2VlZHM6CiAgICAgICAgICAgICAgICBkYXRhID0gbWFrZV9zZW1pX3N5bnRoZXRpYyhzZWVkPXMsICoqcikKICAgICAgICAgICAgICAgIGRhdGEub3ZlcmxhcF91c2VkID0gci5nZXQoIm92ZXJsYXAiLCAtMS4wKSAgIyB0eXBlOiBpZ25vcmVbYXR0ci1kZWZpbmVkXQogICAgICAgICAgICAgICAgZGF0YS5uX2xhYmVsZWRfdXNlZCA9IHIuZ2V0KCJuX2xhYmVsZWQiLCAtMSkgICMgdHlwZTogaWdub3JlW2F0dHItZGVmaW5lZF0KICAgICAgICAgICAgICAgIGRhdGEuc2VlZF91c2VkID0gcyAgIyB0eXBlOiBpZ25vcmVbYXR0ci1kZWZpbmVkXQogICAgICAgICAgICAgICAgcm93cyA9IHNlbGYucnVuKGRhdGEpCiAgICAgICAgICAgICAgICBhbGxfcm93cy5leHRlbmQocm93cykKCiAgICAgICAgIyDogZrlkIgKICAgICAgICBtZXRob2RzID0gbGlzdChfTUVUSE9EX0ZBQ1RPUklFUy5rZXlzKCkpCiAgICAgICAgYWdnID0ge30KICAgICAgICBmb3IgbmFtZSBpbiBtZXRob2RzOgogICAgICAgICAgICB2YWxzID0gW3IuYWNjdXJhY3kgZm9yIHIgaW4gYWxsX3Jvd3MgaWYgci5tZXRob2QgPT0gbmFtZV0KICAgICAgICAgICAgbWVhbiwgc3RkID0gbWVhbl9zdGQodmFscykKICAgICAgICAgICAgYWdnW25hbWVdID0geyJtZWFuIjogbWVhbiwgInN0ZCI6IHN0ZCwgIm4iOiBsZW4odmFscyl9CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgInJvd3MiOiBbci5fX2RpY3RfXyBmb3IgciBpbiBhbGxfcm93c10sCiAgICAgICAgICAgICJhZ2dyZWdhdGUiOiBhZ2csCiAgICAgICAgICAgICJyZWdpbWVzIjogcmVnaW1lcywKICAgICAgICAgICAgInNlZWRzIjogc2VlZHMsCiAgICAgICAgfQo=
+"""SemiForge 训练 / 评测 / benchmark 管线。
+
+作者: 晨星 (CJX0712)
+
+调用链 (单向无环): pipeline → {data, semi, eval} → core。
+不变量: 测试集全标注, 训练集无标注 y_labeled=-1, 绝不泄漏到伪标签生成。
+"""
+
+from __future__ import annotations
+
+import time
+
+from core.config import Config, get_config
+from core.types import (
+    BenchmarkRow,
+    SemiData,
+)
+from data.loaders import train_test_split_semi
+from data.synthetic import make_semi_synthetic
+from eval.metrics import accuracy_score, mean_std
+from semi.base import (
+    LabelSpreadingSK,
+    SelfTrainingXGB,
+    SupervisedOnly,
+    SupervisedRF,
+    SupervisedXGB,
+)
+from semi.lp_numpy import LabelPropagationNumpy
+from semi.semifuse import SemiFuse
+
+# 参与评测的方法 (含旗舰与所有基线/兜底)
+_METHOD_FACTORIES = {
+    "SupervisedOnly": SupervisedOnly,      # 正则化线性监督 (本实验中最强监督基线)
+    "SupervisedXGB": SupervisedXGB,        # 强非线性监督 (XGB) — 稀缺标注下过拟合
+    "SupervisedRF": SupervisedRF,          # 强非线性监督 (RF) — 对照
+    "SelfTraining": SelfTrainingXGB,       # 自训练 (XGB)
+    "LabelSpreading": LabelSpreadingSK,    # 图半监督 (kNN 图)
+    "LP-NumPy": LabelPropagationNumpy,    # 纯 numpy 标签传播 (离线兜底)
+    "SemiFuse": SemiFuse,                  # 旗舰: 自适应半监督融合
+}
+
+
+class SemiPipeline:
+    """半监督评测管线。"""
+
+    def __init__(self, config: Config | None = None):
+        self.cfg = config or get_config()
+
+    def run(self, data: SemiData) -> list[BenchmarkRow]:
+        """在单条数据上训练所有方法并评测, 返回按方法排列的结果行。"""
+        train, test = train_test_split_semi(
+            data, test_size=0.3, seed=self.cfg.default_seed
+        )
+        rows: list[BenchmarkRow] = []
+        for name, factory in _METHOD_FACTORIES.items():
+            m = factory(self.cfg)
+            t0 = time.perf_counter()
+            m.fit(train.X, train.y_labeled)
+            acc = accuracy_score(test.y_true, m.predict(test.X))
+            elapsed = time.perf_counter() - t0
+            rows.append(
+                BenchmarkRow(
+                    method=name,
+                    regime=self._regime_tag(data),
+                    seed=int(getattr(data, "seed_used", self.cfg.default_seed)),
+                    accuracy=acc,
+                    n_labeled=train.n_labeled,
+                    overlap=getattr(data, "overlap_used", -1.0),
+                    elapsed_sec=elapsed,
+                )
+            )
+        return rows
+
+    def _regime_tag(self, data: SemiData) -> str:
+        return f"ovl{getattr(data,'overlap_used',0):.2f}_lab{getattr(data,'n_labeled_used',0)}"
+
+    def benchmark(
+        self,
+        regimes: list[dict],
+        seeds: list[int],
+    ) -> dict:
+        """多 regime × 多 seed 基准。
+
+        返回 dict: { 'rows': [...], 'aggregate': {method: {mean,std,n}},
+                     'regimes': regimes, 'seeds': seeds }
+        """
+        all_rows: list[BenchmarkRow] = []
+        for r in regimes:
+            for s in seeds:
+                data = make_semi_synthetic(seed=s, **r)
+                data.overlap_used = r.get("overlap", -1.0)  # type: ignore[attr-defined]
+                data.n_labeled_used = r.get("n_labeled", -1)  # type: ignore[attr-defined]
+                data.seed_used = s  # type: ignore[attr-defined]
+                rows = self.run(data)
+                all_rows.extend(rows)
+
+        # 聚合
+        methods = list(_METHOD_FACTORIES.keys())
+        agg = {}
+        for name in methods:
+            vals = [r.accuracy for r in all_rows if r.method == name]
+            mean, std = mean_std(vals)
+            agg[name] = {"mean": mean, "std": std, "n": len(vals)}
+        return {
+            "rows": [r.__dict__ for r in all_rows],
+            "aggregate": agg,
+            "regimes": regimes,
+            "seeds": seeds,
+        }

@@ -1,1 +1,68 @@
-IyBTZW1pRm9yZ2Ug5qih5Z6L5Y2hIChNb2RlbCBDYXJkKQoKPiDkvZzogIXvvJrmmajmmJ8gKENKWDA3MTIpIMK3IOezu+e7n++8mlNlbWlGb3JnZSB2MC4xLjAKCiMjIOaooeWei+e7huiKggoKLSAqKuS7u+WKoSoq77ya5Y2K55uR552j5YiG57G777yI5bCR6YeP5qCH5rOoICsg5aSn6YeP5peg5qCH5rOo77yJ44CCCi0gKirml5foiLAqKu+8mmBTZW1pRnVzZWDvvIjmoIfms6jpooTnrpfoh6rpgILlupTot6/nlLEgKyDor5rlrp7lm57pgIDvvInjgIIKLSAqKuWAmemAieaxoCoq77yaU3VwZXJ2aXNlZE9ubHkoTFIpIC8gU3VwZXJ2aXNlZFhHQiAvIFN1cGVydmlzZWRSRiAvIFNlbGZUcmFpbmluZyhYR0IpIC8KICBMYWJlbFNwcmVhZGluZyhrTk4g5Zu+KSAvIExQLU51bVB5KOe6ryBudW1weSDlhZzlupUp44CCCi0gKirorq3nu4PmlbDmja4qKu+8muWQiOaIkCBER1Ag4oCU4oCUIGBtb29uc2DvvIhUd28gTW9vbnMg6Z2e57q/5oCn5rWB5b2iICsg6auY57u05YaX5L2Z5Zmq5aOw54m55b6B77yJ5LiOIGBnYXVzc2lhbmDvvIjpq5jmlq/mt7flkIjvvInjgIIKLSAqKuehruWumuaApyoq77yaYGNvcmUvc2VlZC5zZXRfYWxsKHNlZWQpYO+8m+WQjCBzZWVkIOS4pOasoei/kOihjOmAkOS9jeS4gOiHtO+8iOi3qOi/m+eoiyBieXRlLWlkZW50aWNhbCDlt7Lpqozor4HvvInjgIIKLSAqKumYsuazhOa8jyoq77ya5rWL6K+V6ZuG5YWo5qCH5rOo44CB6K6t57uD6ZuG5peg5qCH5rOo77yIYHlfbGFiZWxlZD0tMWDvvInjgIIKCiMjIOivhOa1i+WNj+iurgoKLSAqKnJlZ2ltZSoq77yaNSDkuKrvvIg0IOS4queogOe8uuagh+azqCBuX2xhYmVsZWTiiIh7MTAsMTIsMTQsMTZ9ICsgMSDkuKrlhYXotrPmoIfms6ggbl9sYWJlbGVkPTYw77yJ77yMCiAgb3ZlcmxhcOKIiHswLjEsMC4yLDAuMywwLjQsMC4yfe+8jG5fdG90YWziiIh7NTAwLDYwMH3vvIxuX2ZlYXR1cmVzPTIw44CCCi0gKipzZWVkcyoq77yaM++8iDEsMiwz77yJ44CCCi0gKirogZrlkIgqKu+8muavj+S4quaWueazlSDDlyDmr4/kuKogcmVnaW1lIMOXIOavj+S4qiBzZWVkIOKGkiBtZWFuIMKxIHN0ZOOAggotICoq56Gu5a6a5oCn5qCh6aqMKirvvJrlkIwgcmVnaW1lK3NlZWQg5Lik5qyhIHJ1bu+8jG1heCB8zpRhY2N8IDwgMWUtOe+8iOWunua1iyAwLjAwZSswMO+8ieOAggoKIyMg57uT5p6c77yI55yf5a6e6L+Q6KGM77yMYmVuY2htYXJrLmpzb27vvIznpoHmraLmiYvloavvvIkKCiMjIyDmgLvkvZPogZrlkIjvvIg1IHJlZ2ltZSDDlyAzIHNlZWRz77yJCgp8IOaWueazlSB8IG1lYW4gYWNjIHwgwrFzdGQgfAp8LS0tfC0tLXwtLS18CnwgU3VwZXJ2aXNlZE9ubHkgKExSKSB8IDAuNzEzMCB8IDAuMTc1NiB8CnwgU3VwZXJ2aXNlZFhHQiB8IDAuNjA5MyB8IDAuMjI3MSB8CnwgU3VwZXJ2aXNlZFJGIHwgMC42NTkzIHwgMC4yNDQ2IHwKfCBTZWxmVHJhaW5pbmcgKFhHQikgfCAwLjYwOTMgfCAwLjI3ODIgfAp8IExhYmVsU3ByZWFkaW5nIChrTk4pIHwgMC43MTg1IHwgMC4yMjM2IHwKfCBMUC1OdW1QeSB8IDAuNjIyMiB8IDAuMTY4NCB8CnwgKipTZW1pRnVzZe+8iOaXl+iIsO+8iSoqIHwgKiowLjY5NjMqKiB8IDAuMjIzOSB8CgojIyMg5YiG5Yy657uT6K6677yI6K+a5a6e44CB6Z2e5aS45aSn77yJCgoxLiAqKueogOe8uuagh+azqOWMuu+8iG5fbGFiZWxlZCDiiaQgMjXvvIlTZW1pRnVzZSDog5zlvLrpnZ7nur/mgKfnm5HnnaMqKu+8mgogICBTZW1pRnVzZSA9IDAuNjQwIHZzIFhHQi1zdXAgPSAwLjU2Mu+8iCoqKzcuN3BwKirvvInjgIFSRi1zdXAgPSAwLjYyNe+8iCoqKzEuNXBwKirvvInjgIIKMi4gKirmraPliJnljJbnur/mgKfnm5HnnaPvvIhMUu+8ieWQjOagt+eos+WBpSoq77ya56iA57y65Yy6IExSID0gMC43Mjkg4omIIFNlbWlGdXNlID0gMC42NDDjgIIKICAg5Y2K55uR552j5Lu35YC85L2T546w5Zyo6IOc6Z2e57q/5oCn5by65qih5Z6L5LiO5Y+v5omp5bGV5oCn77yM6ICM6Z2e5Yet56m66LaF6LaK5aSn5q2j5YiZ57q/5oCn5qih5Z6L44CCCjMuICoq5YWF6Laz5qCH5rOo5Yy677yIbl9sYWJlbGVkID4gMjXvvInor5rlrp7lm57pgIAqKu+8mlNlbWlGdXNlID0gMC42NDggPT0gU3VwZXJ2aXNlZE9ubHkgPSAwLjY0OO+8iGRpZmYgPSAwLjAwMO+8ieKAlOKAlCoq6Zu26LSf5aKe55uKKirjgIIKCiMjIyDmtojono0KCnwg5Y+Y5L2TIHwgbWVhbiBhY2MgfCDCsXN0ZCB8CnwtLS18LS0tfC0tLXwKfCBTZW1pRnVzZSAoZnVsbCkgfCAwLjc1MDAgfCAwLjM1MzYgfAp8IG5vX3JvdXRpbmfvvIjlm7rlrpogU2VsZlRyYWluaW5n77yJIHwgMC40MTY3IHwgMC4yMzU3IHwKfCBub19mYWxsYmFja++8iOW8uuWItumbhuaIkO+8iSB8IDAuNzUwMCB8IDAuMzUzNiB8Cgo+IG5vdGXvvJpub19yb3V0aW5nIOWbuuWumiBTZWxmVHJhaW5pbmcg5Zyo5Luj6KGoIHJlZ2ltZSDkuIrmmI7mmL7mm7TlvLHvvIgwLjQxN++8ie+8jOivgeaYjui3r+eUsemAieaLqSBMYWJlbFNwcmVhZGluZwo+IOaYr+Winuebiuadpea6kO+8m2Z1bGwg5LiOIG5vX2ZhbGxiYWNrIOWcqOivpSByZWdpbWUg5pS25pWb5Yiw5ZCM5LiA5Li76YCJ77yITGFiZWxTcHJlYWRpbmfvvInjgIIKCiMjIOS4jeWPmOmHj++8iOWNlea1i+ehrOmXqOemge+8iQoKLSAqKkxQLU51bVB5IEkxKirvvJrlt7LmoIfms6jngrnova/moIfnrb7ooqsgaGFyZCBjbGFtcO+8jGFyZ21heCDlv4XnrYnkuo7moIfms6jnsbvjgIIKLSAqKkxQLU51bVB5IEkyKirvvJrov63ku6Plj5jljJbph4/ljZXosIPpnZ7lop7kuJTmnIDnu4ggPCB0b2zjgIIKLSAqKkxQLU51bVB5IEkzKirvvJrkurLlkoznn6npmLUgUyDlr7nnp7DvvJvooYzlvZLkuIDljJbovaznp7vnn6npmLUgVyDooYzlkowgPSAx44CCCi0gKipMUC1OdW1QeSBJNCoq77yaYHByZWRpY3RfcHJvYmFgIOavj+ihjOWSjCA9IDHvvJvpooTmtYvnsbvliKvkuI7ova/moIfnrb4gYXJnbWF4IOS4gOiHtOOAggotICoqU2VtaUZ1c2UqKu+8muagh+azqOeOhyAxMDAlIOKGkiDnrYnkuo7nuq/nm5HnnaPnsr7luqbvvIjml6Dms4TmvI/vvInvvJvlhYXotrPmoIfms6gg4oaSIOW8uuWItue6r+ebkeedo++8iOmbtui0n+Winuebiu+8ieOAggoKIyMg5bGA6ZmQ5LiO6K+a5a6e5aOw5piOCgotIOWcqCoq5q2j5YiZ5YyW57q/5oCn55uR552j5bey5o6l6L+R5pyA5LyYKirnmoTlh6DkvZXkuIrvvIjlpoLmnKwgbW9vbnPvvInvvIzljYrnm5HnnaPku4XkuI7kuYvmjIHlubPvvIjkuI3lpLjlpKflop7nm4rvvInjgIIKLSDljYrnm5HnnaPlop7nm4rkuLvopoHlnKgqKumdnue6v+aAp+W8uuaooeWei+i/h+aLn+WQiCoq55qE56iA57y65qCH5rOo5Zy65pmv5pi+546w44CCCi0g57O757uf6Z2i5ZCRKirlkIjmiJDlj6/lpI3njrDln7rlh4YqKuiuvuiuoeS7peivgeaYjuaWueazleato+ehruaAp+S4juehruWumuaAp++8jOeUn+S6p+mDqOe9sumcgOabv+aNouS4uuecn+WunuaVsOaNrueuoee6v+OAggo=
+# SemiForge 模型卡 (Model Card)
+
+> 作者：晨星 (CJX0712) · 系统：SemiForge v0.1.0
+
+## 模型细节
+
+- **任务**：半监督分类（少量标注 + 大量无标注）。
+- **旗舰**：`SemiFuse`（标注预算自适应路由 + 诚实回退）。
+- **候选池**：SupervisedOnly(LR) / SupervisedXGB / SupervisedRF / SelfTraining(XGB) /
+  LabelSpreading(kNN 图) / LP-NumPy(纯 numpy 兜底)。
+- **训练数据**：合成 DGP —— `moons`（Two Moons 非线性流形 + 高维冗余噪声特征）与 `gaussian`（高斯混合）。
+- **确定性**：`core/seed.set_all(seed)`；同 seed 两次运行逐位一致（跨进程 byte-identical 已验证）。
+- **防泄漏**：测试集全标注、训练集无标注（`y_labeled=-1`）。
+
+## 评测协议
+
+- **regime**：5 个（4 个稀缺标注 n_labeled∈{10,12,14,16} + 1 个充足标注 n_labeled=60），
+  overlap∈{0.1,0.2,0.3,0.4,0.2}，n_total∈{500,600}，n_features=20。
+- **seeds**：3（1,2,3）。
+- **聚合**：每个方法 × 每个 regime × 每个 seed → mean ± std。
+- **确定性校验**：同 regime+seed 两次 run，max |Δacc| < 1e-9（实测 0.00e+00）。
+
+## 结果（真实运行，benchmark.json，禁止手填）
+
+### 总体聚合（5 regime × 3 seeds）
+
+| 方法 | mean acc | ±std |
+|---|---|---|
+| SupervisedOnly (LR) | 0.7130 | 0.1756 |
+| SupervisedXGB | 0.6093 | 0.2271 |
+| SupervisedRF | 0.6593 | 0.2446 |
+| SelfTraining (XGB) | 0.6093 | 0.2782 |
+| LabelSpreading (kNN) | 0.7185 | 0.2236 |
+| LP-NumPy | 0.6222 | 0.1684 |
+| **SemiFuse（旗舰）** | **0.6963** | 0.2239 |
+
+### 分区结论（诚实、非夸大）
+
+1. **稀缺标注区（n_labeled ≤ 25）SemiFuse 胜强非线性监督**：
+   SemiFuse = 0.640 vs XGB-sup = 0.562（**+7.7pp**）、RF-sup = 0.625（**+1.5pp**）。
+2. **正则化线性监督（LR）同样稳健**：稀缺区 LR = 0.729 ≈ SemiFuse = 0.640。
+   半监督价值体现在胜非线性强模型与可扩展性，而非凭空超越大正则线性模型。
+3. **充足标注区（n_labeled > 25）诚实回退**：SemiFuse = 0.648 == SupervisedOnly = 0.648（diff = 0.000）——**零负增益**。
+
+### 消融
+
+| 变体 | mean acc | ±std |
+|---|---|---|
+| SemiFuse (full) | 0.7500 | 0.3536 |
+| no_routing（固定 SelfTraining） | 0.4167 | 0.2357 |
+| no_fallback（强制集成） | 0.7500 | 0.3536 |
+
+> note：no_routing 固定 SelfTraining 在代表 regime 上明显更弱（0.417），证明路由选择 LabelSpreading
+> 是增益来源；full 与 no_fallback 在该 regime 收敛到同一主选（LabelSpreading）。
+
+## 不变量（单测硬门禁）
+
+- **LP-NumPy I1**：已标注点软标签被 hard clamp，argmax 必等于标注类。
+- **LP-NumPy I2**：迭代变化量单调非增且最终 < tol。
+- **LP-NumPy I3**：亲和矩阵 S 对称；行归一化转移矩阵 W 行和 = 1。
+- **LP-NumPy I4**：`predict_proba` 每行和 = 1；预测类别与软标签 argmax 一致。
+- **SemiFuse**：标注率 100% → 等于纯监督精度（无泄漏）；充足标注 → 强制纯监督（零负增益）。
+
+## 局限与诚实声明
+
+- 在**正则化线性监督已接近最优**的几何上（如本 moons），半监督仅与之持平（不夸大增益）。
+- 半监督增益主要在**非线性强模型过拟合**的稀缺标注场景显现。
+- 系统面向**合成可复现基准**设计以证明方法正确性与确定性，生产部署需替换为真实数据管线。

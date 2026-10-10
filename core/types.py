@@ -1,1 +1,81 @@
-IiIiU2VtaUZvcmdlIOaguOW/g+aVsOaNrue7k+aehCAoZGF0YWNsYXNzKeOAggoK5L2c6ICFOiDmmajmmJ8gKENKWDA3MTIpCiIiIgoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzLCBmaWVsZAoKaW1wb3J0IG51bXB5IGFzIG5wCgoKQGRhdGFjbGFzcwpjbGFzcyBTZW1pRGF0YToKICAgICIiIuWNiuebkeedo+aVsOaNrumbhuOAggoKICAgIC0gWDog5YWo6YOo5qC35pys54m55b6BIChuX3NhbXBsZXMsIG5fZmVhdHVyZXMpCiAgICAtIHlfbGFiZWxlZDog5qCH5rOo5qCH562+LCDmnKrmoIfms6jkvY3nva7kuLogLTEgKG5fc2FtcGxlcywpCiAgICAtIHlfdHJ1ZTog5YWo6YOo5qC35pys55yf5a6e5qCH562+IChuX3NhbXBsZXMsKSDigJTigJQg5LuF55So5LqO6K+E5rWLLCDmsLjkuI3ov5vlhaXorq3nu4MKICAgIC0g5LiN5Y+Y6YePOiBucC5zdW0oeV9sYWJlbGVkID09IC0xKSA9PSBuX3VubGFiZWxlZDsg5q+P5Liq57G76Iez5bCR5pyJIG1pbl9wZXJfY2xhc3Mg5Liq5qCH5rOoCiAgICAiIiIKCiAgICBYOiBucC5uZGFycmF5CiAgICB5X2xhYmVsZWQ6IG5wLm5kYXJyYXkKICAgIHlfdHJ1ZTogbnAubmRhcnJheQogICAgbl9jbGFzc2VzOiBpbnQgPSAyCgogICAgQHByb3BlcnR5CiAgICBkZWYgbl9zYW1wbGVzKHNlbGYpIC0+IGludDoKICAgICAgICByZXR1cm4gaW50KHNlbGYuWC5zaGFwZVswXSkKCiAgICBAcHJvcGVydHkKICAgIGRlZiBuX2ZlYXR1cmVzKHNlbGYpIC0+IGludDoKICAgICAgICByZXR1cm4gaW50KHNlbGYuWC5zaGFwZVsxXSkKCiAgICBAcHJvcGVydHkKICAgIGRlZiBsYWJlbGVkX21hc2soc2VsZikgLT4gbnAubmRhcnJheToKICAgICAgICByZXR1cm4gc2VsZi55X2xhYmVsZWQgIT0gLTEKCiAgICBAcHJvcGVydHkKICAgIGRlZiBuX2xhYmVsZWQoc2VsZikgLT4gaW50OgogICAgICAgIHJldHVybiBpbnQobnAuc3VtKHNlbGYubGFiZWxlZF9tYXNrKSkKCiAgICBAcHJvcGVydHkKICAgIGRlZiBuX3VubGFiZWxlZChzZWxmKSAtPiBpbnQ6CiAgICAgICAgcmV0dXJuIGludChzZWxmLm5fc2FtcGxlcyAtIHNlbGYubl9sYWJlbGVkKQoKCkBkYXRhY2xhc3MKY2xhc3MgQmVuY2htYXJrUm93OgogICAgIiIi5Y2V5p2hIGJlbmNobWFyayDorrDlvZXjgIIiIiIKCiAgICBtZXRob2Q6IHN0cgogICAgcmVnaW1lOiBzdHIKICAgIHNlZWQ6IGludAogICAgYWNjdXJhY3k6IGZsb2F0CiAgICBuX2xhYmVsZWQ6IGludAogICAgb3ZlcmxhcDogZmxvYXQKICAgIGVsYXBzZWRfc2VjOiBmbG9hdAoKCkBkYXRhY2xhc3MKY2xhc3MgQmVuY2htYXJrUmVzdWx0OgogICAgIiIiYmVuY2htYXJrIOiBmuWQiOe7k+aenOOAgiIiIgoKICAgIG1ldGhvZDogc3RyCiAgICBtZWFuX2FjYzogZmxvYXQKICAgIHN0ZF9hY2M6IGZsb2F0CiAgICBuX3J1bnM6IGludAogICAgcm93czogbGlzdCA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1saXN0KQoKCkBkYXRhY2xhc3MKY2xhc3MgQWJsYXRpb25SZXN1bHQ6CiAgICAiIiLmtojono3lr7nnhafnu5PmnpzjgIIiIiIKCiAgICBuYW1lOiBzdHIKICAgIHZhcmlhbnRfb246IGZsb2F0ICAjIOW8gOWQr+e7hOS7tueahCBtZWFuIGFjYwogICAgdmFyaWFudF9vZmY6IGZsb2F0ICAjIOWFs+mXree7hOS7tueahCBtZWFuIGFjYwogICAgZGVsdGE6IGZsb2F0ICAjIG9uIC0gb2ZmCiAgICBpbnRlcnByZXRhdGlvbjogc3RyID0gIiIK
+"""SemiForge 核心数据结构 (dataclass)。
+
+作者: 晨星 (CJX0712)
+"""
+
+from __future__ import annotations
+
+from dataclasses import dataclass, field
+
+import numpy as np
+
+
+@dataclass
+class SemiData:
+    """半监督数据集。
+
+    - X: 全部样本特征 (n_samples, n_features)
+    - y_labeled: 标注标签, 未标注位置为 -1 (n_samples,)
+    - y_true: 全部样本真实标签 (n_samples,) —— 仅用于评测, 永不进入训练
+    - 不变量: np.sum(y_labeled == -1) == n_unlabeled; 每个类至少有 min_per_class 个标注
+    """
+
+    X: np.ndarray
+    y_labeled: np.ndarray
+    y_true: np.ndarray
+    n_classes: int = 2
+
+    @property
+    def n_samples(self) -> int:
+        return int(self.X.shape[0])
+
+    @property
+    def n_features(self) -> int:
+        return int(self.X.shape[1])
+
+    @property
+    def labeled_mask(self) -> np.ndarray:
+        return self.y_labeled != -1
+
+    @property
+    def n_labeled(self) -> int:
+        return int(np.sum(self.labeled_mask))
+
+    @property
+    def n_unlabeled(self) -> int:
+        return int(self.n_samples - self.n_labeled)
+
+
+@dataclass
+class BenchmarkRow:
+    """单条 benchmark 记录。"""
+
+    method: str
+    regime: str
+    seed: int
+    accuracy: float
+    n_labeled: int
+    overlap: float
+    elapsed_sec: float
+
+
+@dataclass
+class BenchmarkResult:
+    """benchmark 聚合结果。"""
+
+    method: str
+    mean_acc: float
+    std_acc: float
+    n_runs: int
+    rows: list = field(default_factory=list)
+
+
+@dataclass
+class AblationResult:
+    """消融对照结果。"""
+
+    name: str
+    variant_on: float  # 开启组件的 mean acc
+    variant_off: float  # 关闭组件的 mean acc
+    delta: float  # on - off
+    interpretation: str = ""

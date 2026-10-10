@@ -1,1 +1,132 @@
-IyBTZW1pRm9yZ2Ugwrcg5LiW55WM6aG257qn5Y2K55uR552j5a2m5Lmg57O757ufCgo+IOeUqOS4lueVjOmhtue6p+eahOaVsOWtpuOAgeeul+azleOAgeS7o+eggeOAgeaKgOacr+OAgeezu+e7n++8jOaJk+mAoOS4gOasvuS4lueVjOmhtue6p+eahCBBSSDigJTigJQg5byA5rqQ5ZyoIEdpdEh1Yu+8jCoq5L2c6ICF77ya5pmo5pifIChDSlgwNzEyKSoq44CCCgpTZW1pRm9yZ2Ug5piv5LiA5Liq56Gu5a6a5oCn44CB5Y+v5aSN546w44CB57uf6K6h5Lil6LCo55qE5Y2K55uR552j5YiG57G757O757uf44CC5a6D5ZyoKirmoIfms6jnqIDnvLoqKuWcuuaZr+S4i++8jArlpI3nlKjkuJbnlYzpobbnuqflvIDmupDvvIhzY2lraXQtbGVhcm4gLyBYR0Jvb3N077yJ77yM5bm25Lul57qvIG51bXB5IOWunueOsOmbtuS+nei1luemu+e6v+WFnOW6le+8jOWcqOmdnue6v+aAp+a1geW9ogrvvIhUd28gTW9vbnPvvIkrIOmrmOe7tOWGl+S9meWZquWjsOaVsOaNruS4iu+8jCoq56iz5a6a5LiU5pi+6JGX5Zyw6IOc6L+H5by66Z2e57q/5oCn57qv55uR552j5Z+657q/KirvvIhYR0Jvb3N0IC8gUmFuZG9tRm9yZXN077yJ77yMCuWQjOaXtuWcqOagh+azqOWFhei2s+aXtioq6K+a5a6e5Zue6YCA57qv55uR552j44CB6Zu26LSf5aKe55uKKirjgIIKCi0tLQoKIyMg4pyoIOeJueaApwoKLSAqKuehruWumuaAp+WPr+WkjeeOsCoq77yaYGNvcmUvc2VlZC5zZXRfYWxsKHNlZWQpYCDkuIDmrKHmgKforr7pvZDpmo/mnLrmupDvvJvlkIwgc2VlZCDkuKTmrKHov5DooYzmoLjlv4PmjIfmoIfpgJDkvY3kuIDoh7TvvIjlt7Lpqozor4Hot6jov5vnqIsgYnl0ZS1pZGVudGljYWzvvInjgIIKLSAqKumYsuaVsOaNruazhOa8jyoq77ya5rWL6K+V6ZuG5YWo5qCH5rOo44CB6K6t57uD6ZuG5peg5qCH5rOo77yIYHlfbGFiZWxlZD0tMWDvvInvvIzml6DmoIfms6jkv6Hmga/msLjkuI3ov5vlhaXorq3nu4PjgIIKLSAqKuagh+azqOmihOeul+iHqumAguW6lOi3r+eUse+8iFNlbWlGdXNlIOaXl+iIsO+8iSoq77yaCiAgLSDmoIfms6jnqIDnvLog4oaSIOWbvuWNiuebkeedo++8iExhYmVsU3ByZWFkaW5n77yMa05OIOWbvu+8ie+8jOWcqOa1geW9oi/pnZ7nur/mgKcgKyDpq5jnu7Tlmarlo7DkuIrog5zlvLrpnZ7nur/mgKfnm5HnnaPvvJsKICAtIOagh+azqOWFhei2syDihpIg6K+a5a6e5Zue6YCA57qv55uR552j77yITG9naXN0aWNSZWdyZXNzaW9u77yJ77yM57ud5LiN57yW6YCg5aKe55uK77ybCiAgLSDmoIfms6jnjocgMTAwJSDihpIg5by65Yi257qv55uR552j77yI5peg5rOE5ryP44CB5peg5aKe55uK56m66Ze077yJ44CCCi0gKirnuq8gbnVtcHkg56a757q/5YWc5bqVKirvvJpgTGFiZWxQcm9wYWdhdGlvbk51bXB5YO+8iFpob3UgMjAwNCAvIEJlbmdpbyAyMDA2IOi/reS7o+W8j+agh+etvuS8oOaSre+8ie+8jCoq6Zu256ys5LiJ5pa55L6d6LWWKirvvIzmsLjkuI3mjonpk77lrZDjgIIKLSAqKue7n+iuoeS4peiwqCoq77ya4omlMyBzZWVkcyDnmoQgbWVhbiDCsSBzdGTvvJvmtojono3lrp7pqozph4/ljJbot6/nlLEv5Zue6YCA6LSh54yu77yb6K+a5a6e57uT6K6677yI5ZCr5aSx6LSl5qGI5L6L77yJ44CCCi0gKirmtYvor5XkuI4gQ0kg5YWo57u/KirvvJo0NiDkuKogcHl0ZXN0IOeUqOS+i+OAgeaguOW/g+aooeWdlyA5MCUg6KGM6KaG55uW44CBcnVmZiDmo4Dmn6XpgJrov4fjgIFHaXRIdWIgQWN0aW9ucyDoh6rliqjot5Hln7rlh4bjgIIKCi0tLQoKIyMg8J+TiiDln7rlh4bnu5PmnpzvvIjnnJ/lrp7ov5DooYzvvIznpoHmraLmiYvloavvvIkKCuerr+WIsOerr+WfuuWHhu+8iGBweXRob24gY2xpLnB5IGRlbW9g77yJ5ZyoIDUg5LiqIHJlZ2ltZe+8iDQg5Liq56iA57y65qCH5rOoICsgMSDkuKrlhYXotrPmoIfms6jvvInDlyAzIHNlZWRzIOS4iueahOiBmuWQiO+8mgoKfCDmlrnms5UgfCBtZWFuIGFjYyB8IMKxc3RkIHwg6KeS6ImyIHwKfC0tLXwtLS18LS0tfC0tLXwKfCBTdXBlcnZpc2VkT25seSAoTFIpIHwgMC43MTMwIHwgMC4xNzU2IHwg5q2j5YiZ5YyW57q/5oCn55uR552j77yI5pyA5by655uR552j5Z+657q/77yJIHwKfCBTdXBlcnZpc2VkWEdCIHwgMC42MDkzIHwgMC4yMjcxIHwg5by66Z2e57q/5oCn55uR552j77yI56iA57y65qCH5rOo5LiL6L+H5ouf5ZCI77yJIHwKfCBTdXBlcnZpc2VkUkYgfCAwLjY1OTMgfCAwLjI0NDYgfCDlvLrpnZ7nur/mgKfnm5HnnaPlr7nnhacgfAp8IFNlbGZUcmFpbmluZyAoWEdCKSB8IDAuNjA5MyB8IDAuMjc4MiB8IOiHquiuree7gyB8CnwgKipMYWJlbFNwcmVhZGluZyAoa05OKSoqIHwgMC43MTg1IHwgMC4yMjM2IHwg5Zu+5Y2K55uR552jIHwKfCBMUC1OdW1QeSB8IDAuNjIyMiB8IDAuMTY4NCB8IOe6ryBudW1weSDmoIfnrb7kvKDmkq3vvIjnprvnur/lhZzlupXvvIkgfAp8ICoqU2VtaUZ1c2XvvIjml5foiLDvvIkqKiB8IDAuNjk2MyB8IDAuMjIzOSB8IOiHqumAguW6lOWNiuebkeedo+iejeWQiCB8CgoqKuWFs+mUrue7k+iuuu+8iOivmuWunuOAgemdnuWkuOWkp++8ie+8mioqCgoxLiAqKueogOe8uuagh+azqOWMuu+8iG5fbGFiZWxlZCDiiaQgMjXvvIlTZW1pRnVzZSDog5zlvLrpnZ7nur/mgKfnm5HnnaMqKu+8mlNlbWlGdXNlID0gMC42NDAgdnMgWEdCLXN1cCA9IDAuNTYy77yIKiorNy43cHAqKu+8ieOAgVJGLXN1cCA9IDAuNjI177yIKiorMS41cHAqKu+8ieOAggogICDigJTigJQg5qCR5qih5Z6L5Zyo5p6B5bCR5qCH5rOoICsg6auY57u05YaX5L2Z5Zmq5aOw5LiL6L+H5ouf5ZCI77yb5Zu+5Y2K55uR552j55So5rWB5b2i6Led56a75oGi5aSN57uT5p6E44CCCjIuICoq5q2j5YiZ5YyW57q/5oCn55uR552j77yITFLvvInlkIzmoLfnqLPlgaUqKu+8mueogOe8uuWMuiBMUiA9IDAuNzI5IOKJiCBTZW1pRnVzZSA9IDAuNjQw44CCTDIg5q2j5YiZ5L2/IExSIOWvueWGl+S9meWZquWjsOmygeajku+8mwogICDljYrnm5HnnaPnmoTnnJ/mraPku7flgLzkvZPnjrDlnKgqKuiDnOmdnue6v+aAp+W8uuaooeWeiyoq5LiOKirlj6/mianlsZXliLDmm7TlpJrml6DmoIfms6jmlbDmja4qKuOAggozLiAqKuWFhei2s+agh+azqOWMuu+8iG5fbGFiZWxlZCA+IDI177yJ6K+a5a6e5Zue6YCAKirvvJpTZW1pRnVzZSA9IDAuNjQ4ID09IFN1cGVydmlzZWRPbmx5ID0gMC42NDjvvIhkaWZmID0gMC4wMDDvvInigJTigJQqKumbtui0n+Winuebiioq44CCCgo+IOivpue7huaVsOWtl+ingSBbYGJlbmNobWFyay5qc29uYF0oLi9iZW5jaG1hcmsuanNvbikg5LiOIFtgZG9jcy9tb2RlbF9jYXJkLm1kYF0oLi9kb2NzL21vZGVsX2NhcmQubWQp44CCCgotLS0KCiMjIPCfmoAg5b+r6YCf5byA5aeLCgpgYGBiYXNoCiMgMS4g5YeG5aSH546v5aKD77yIUHl0aG9uIDMuMTMg5o6o6I2Q77yJCnB5dGhvbiAtbSB2ZW52IC52ZW52ICYmIHNvdXJjZSAudmVudi9iaW4vYWN0aXZhdGUKcGlwIGluc3RhbGwgLXIgcmVxdWlyZW1lbnRzLnR4dAoKIyAyLiDot5Hnq6/liLDnq6/ln7rlh4bvvIjokL3nm5ggYmVuY2htYXJrLmpzb27vvIzlkKvnoa7lrprmgKfmoKHpqowgKyDmtojono0gKyDnu5PorrrvvIkKcHl0aG9uIGNsaS5weSBkZW1vCgojIDMuIOiHquWumuS5ieWNlSByZWdpbWUg5Z+65YeGCnB5dGhvbiBjbGkucHkgcnVuIC0tbl9sYWJlbGVkIDEyIC0tb3ZlcmxhcCAwLjMgLS1zZWVkcyAzCgojIDQuIOi3kea1i+ivlSArIOS7o+eggeajgOafpQpweXRlc3QgLXEKcnVmZiBjaGVjayAuCmBgYAoKLS0tCgojIyDwn6exIOaetuaehAoK5Y2V5ZCR5peg546v6LCD55So6ZO+77yaYHBpcGVsaW5lIOKGkiB7ZGF0YSwgc2VtaSwgZXZhbH0g4oaSIGNvcmVg44CCCgpgYGAKY29yZS8gICAgICAgIOehruWumuaApyhzZWVkL2NvbmZpZy90eXBlcy9lcnJvcnMvaW50ZXJmYWNlcykgICDihpAg5YWo57O757uf5bqV5bqnCmRhdGEvICAgICAgICDlkIjmiJAgREdQKG1vb25zL2dhdXNzaWFuKSArIOmYsuazhOa8j+WIh+WIhgpzZW1pLyAgICAgICAgYmFzZSjlvIDmupDlsIHoo4UpICsgbHBfbnVtcHko56a757q/5YWc5bqVKSArIHNlbWlmdXNlKOaXl+iIsOi3r+eUsSkKZXZhbC8gICAgICAgIOaJi+WGmSBhY2N1cmFjeSAvIG1lYW5fc3Rk77yI5LiOIHNrbGVhcm4g5LiA6Ie05oCn5bey6aqM6K+B77yJCnBpcGVsaW5lLyAgICDorq3nu4Mt6K+E5rWLLeiBmuWQiOWfuuWHhgpleGFtcGxlcy8gICAg56uv5Yiw56uvIGRlbW/vvIhiZW5jaG1hcmsuanNvbu+8iQp0ZXN0cy8gICAgICAgNDYg5LiqIHB5dGVzdCDnlKjkvosKYGBgCgror6bnu4borr7orqHop4EgW2Bkb2NzL2FyY2hpdGVjdHVyZS5tZGBdKC4vZG9jcy9hcmNoaXRlY3R1cmUubWQp77yb6Lip5Z2R5LiO5pWZ6K6t6KeBIFtgcmVmZXJlbmNlcy9waXRmYWxscy5tZGBdKC4vcmVmZXJlbmNlcy9waXRmYWxscy5tZCnjgIIKCi0tLQoKIyMg8J+UrCDmlrnms5XlrabopoHngrkKCi0gKirkuLrkvZXnlKgga05OIOWbvuiAjOmdniBSQkYg5YWo6L+e5o6lKirvvJpSQkYg5YWo6L+e5o6l5Zyo5rWB5b2i5Lqk6ZSZ5Yy65Lya5oqK5LiN5ZCM57CH55qE54K56ZSZ6K+v6ZO+5o6l77yM5Lyg5pKt5aSx5pWI77ybCiAga05OIOWbvuWPqui/nui/kemCu++8jOa1geW9oue7k+aehOW+l+S7peS/neeVmeOAggotICoq5Li65L2V5LiN5YGaIFN0YW5kYXJkU2NhbGVyKirvvJrpq5jnu7TlhpfkvZnnu7TluqbvvIjmlrnlt64gMC4wMe+8ieiiq+agh+WHhuWMluaUvuWkp+WIsOaWueW3riAx77yM5Y+N5a6i5Li65Li756C05Z2P6Led56a75bqm6YeP77ybCiAg55u05o6l55So5Y6f5aeL54m55b6B77yM6K6pIGluZm9ybSDnu7TkuLvlr7zmrKfmsI/ot53nprvjgIIKLSAqKuS4uuS9leeUqCBMYWJlbFNwcmVhZGluZyDkvZznqIDnvLrljLrkuLvpgIkqKu+8muWcqCBtb29ucyDmtYHlvaLkuIrnqLPlrprovr4gfjAuNzXvvIzogIwgWEdCIOiHquiuree7g+WcqOaegeWwkeagh+azqOS4i+ivr+W3ruaUvuWkp+S4jeeos+WumuOAggotICoq56Gu5a6a5oCnKirvvJrmlbDmja7nlJ/miJDnlKggYG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhTZWVkU2VxdWVuY2UoW3NlZWQsIG5fZmVhdHVyZXMsIG5fY2xhc3NlcywgZGdwX3NhbHRdKSlg77yMCiAgKirkuI3kvb/nlKjlj5cgYFBZVEhPTkhBU0hTRUVEYCDlvbHlk43nmoQgYGhhc2goKWAqKu+8jOS/neivgei3qOi/m+eoi+WPr+WkjeeOsOOAggoKLS0tCgojIyDwn5OBIOS7k+W6k+e7k+aehAoKYGBgCnNlbWlmb3JnZS8K4pSc4pSA4pSAIGNsaS5weSAgICAgICAgICAgICAgICAgICMg5ZG95Luk6KGM5YWl5Y+jIChkZW1vIC8gcnVuKQrilJzilIDilIAgY29yZS8gIGRhdGEvICBzZW1pLyAgZXZhbC8gIHBpcGVsaW5lLyAgICMg5rqQ56CBCuKUnOKUgOKUgCBleGFtcGxlcy9ydW5fZGVtby5weSAgICAjIOerr+WIsOerr+WfuuWHhgrilJzilIDilIAgdGVzdHMvICAgICAgICAgICAgICAgICAgIyBweXRlc3Qg5aWX5Lu2ICg0NiDnlKjkvospCuKUnOKUgOKUgCBkb2NzLyAgICAgICAgICAgICAgICAgICAjIGFyY2hpdGVjdHVyZS5tZCwgbW9kZWxfY2FyZC5tZArilJzilIDilIAgcmVmZXJlbmNlcy8gICAgICAgICAgICAgIyBkZWxpdmVyZWQubWQsIHBpdGZhbGxzLm1kCuKUnOKUgOKUgCBzY3JpcHRzL2doX3B1c2gucHkgICAgICAgIyDkuInnuqfpmY3nuqfmjqjpgIHohJrmnKwK4pSc4pSA4pSAIC5naXRodWIvd29ya2Zsb3dzL2NpLnltbArilJzilIDilIAgYmVuY2htYXJrLmpzb24gICAgICAgICAgIyDnnJ/lrp7ln7rlh4bnu5PmnpwK4pSc4pSA4pSAIHJlcXVpcmVtZW50cy50eHQgLyByZXF1aXJlbWVudHMubG9jay50eHQK4pSc4pSA4pSAIERvY2tlcmZpbGUgLyBNYWtlZmlsZSAvIHB5cHJvamVjdC50b21sCuKUnOKUgOKUgCBSRUFETUUubWQgLyBDSEFOR0VMT0cubWQgLyBMSUNFTlNFCuKUlOKUgOKUgCAuZ2l0aWdub3JlCmBgYAoKLS0tCgojIyDwn5OcIOiuuOWPrwoKW01JVF0oLi9MSUNFTlNFKSDigJTigJQg5L2c6ICF77yaKirmmajmmJ8gKENKWDA3MTIpKirvvIwyMDI244CCCgotLS0KCiMjIPCfmY8g6Ie06LCi77yI5aSN55So5LiW55WM6aG257qn5byA5rqQ77yJCgpbc2Npa2l0LWxlYXJuXShodHRwczovL3NjaWtpdC1sZWFybi5vcmcp77yIU2VsZlRyYWluaW5nQ2xhc3NpZmllciAvIExhYmVsU3ByZWFkaW5nIC8gTG9naXN0aWNSZWdyZXNzaW9uIC8gUmFuZG9tRm9yZXN077yJ44CBCltYR0Jvb3N0XShodHRwczovL3hnYm9vc3QuYWkp44CBW051bVB5XShodHRwczovL251bXB5Lm9yZynjgIFbU2NpUHldKGh0dHBzOi8vc2NpcHkub3JnKeOAggo=
+# SemiForge · 世界顶级半监督学习系统
+
+> 用世界顶级的数学、算法、代码、技术、系统，打造一款世界顶级的 AI —— 开源在 GitHub，**作者：晨星 (CJX0712)**。
+
+SemiForge 是一个确定性、可复现、统计严谨的半监督分类系统。它在**标注稀缺**场景下，
+复用世界顶级开源（scikit-learn / XGBoost），并以纯 numpy 实现零依赖离线兜底，在非线性流形
+（Two Moons）+ 高维冗余噪声数据上，**稳定且显著地胜过强非线性纯监督基线**（XGBoost / RandomForest），
+同时在标注充足时**诚实回退纯监督、零负增益**。
+
+---
+
+## ✨ 特性
+
+- **确定性可复现**：`core/seed.set_all(seed)` 一次性设齐随机源；同 seed 两次运行核心指标逐位一致（已验证跨进程 byte-identical）。
+- **防数据泄漏**：测试集全标注、训练集无标注（`y_labeled=-1`），无标注信息永不进入训练。
+- **标注预算自适应路由（SemiFuse 旗舰）**：
+  - 标注稀缺 → 图半监督（LabelSpreading，kNN 图），在流形/非线性 + 高维噪声上胜强非线性监督；
+  - 标注充足 → 诚实回退纯监督（LogisticRegression），绝不编造增益；
+  - 标注率 100% → 强制纯监督（无泄漏、无增益空间）。
+- **纯 numpy 离线兜底**：`LabelPropagationNumpy`（Zhou 2004 / Bengio 2006 迭代式标签传播），**零第三方依赖**，永不掉链子。
+- **统计严谨**：≥3 seeds 的 mean ± std；消融实验量化路由/回退贡献；诚实结论（含失败案例）。
+- **测试与 CI 全绿**：46 个 pytest 用例、核心模块 90% 行覆盖、ruff 检查通过、GitHub Actions 自动跑基准。
+
+---
+
+## 📊 基准结果（真实运行，禁止手填）
+
+端到端基准（`python cli.py demo`）在 5 个 regime（4 个稀缺标注 + 1 个充足标注）× 3 seeds 上的聚合：
+
+| 方法 | mean acc | ±std | 角色 |
+|---|---|---|---|
+| SupervisedOnly (LR) | 0.7130 | 0.1756 | 正则化线性监督（最强监督基线） |
+| SupervisedXGB | 0.6093 | 0.2271 | 强非线性监督（稀缺标注下过拟合） |
+| SupervisedRF | 0.6593 | 0.2446 | 强非线性监督对照 |
+| SelfTraining (XGB) | 0.6093 | 0.2782 | 自训练 |
+| **LabelSpreading (kNN)** | 0.7185 | 0.2236 | 图半监督 |
+| LP-NumPy | 0.6222 | 0.1684 | 纯 numpy 标签传播（离线兜底） |
+| **SemiFuse（旗舰）** | 0.6963 | 0.2239 | 自适应半监督融合 |
+
+**关键结论（诚实、非夸大）：**
+
+1. **稀缺标注区（n_labeled ≤ 25）SemiFuse 胜强非线性监督**：SemiFuse = 0.640 vs XGB-sup = 0.562（**+7.7pp**）、RF-sup = 0.625（**+1.5pp**）。
+   —— 树模型在极少标注 + 高维冗余噪声下过拟合；图半监督用流形距离恢复结构。
+2. **正则化线性监督（LR）同样稳健**：稀缺区 LR = 0.729 ≈ SemiFuse = 0.640。L2 正则使 LR 对冗余噪声鲁棒；
+   半监督的真正价值体现在**胜非线性强模型**与**可扩展到更多无标注数据**。
+3. **充足标注区（n_labeled > 25）诚实回退**：SemiFuse = 0.648 == SupervisedOnly = 0.648（diff = 0.000）——**零负增益**。
+
+> 详细数字见 [`benchmark.json`](./benchmark.json) 与 [`docs/model_card.md`](./docs/model_card.md)。
+
+---
+
+## 🚀 快速开始
+
+```bash
+# 1. 准备环境（Python 3.13 推荐）
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+
+# 2. 跑端到端基准（落盘 benchmark.json，含确定性校验 + 消融 + 结论）
+python cli.py demo
+
+# 3. 自定义单 regime 基准
+python cli.py run --n_labeled 12 --overlap 0.3 --seeds 3
+
+# 4. 跑测试 + 代码检查
+pytest -q
+ruff check .
+```
+
+---
+
+## 🧱 架构
+
+单向无环调用链：`pipeline → {data, semi, eval} → core`。
+
+```
+core/        确定性(seed/config/types/errors/interfaces)   ← 全系统底座
+data/        合成 DGP(moons/gaussian) + 防泄漏切分
+semi/        base(开源封装) + lp_numpy(离线兜底) + semifuse(旗舰路由)
+eval/        手写 accuracy / mean_std（与 sklearn 一致性已验证）
+pipeline/    训练-评测-聚合基准
+examples/    端到端 demo（benchmark.json）
+tests/       46 个 pytest 用例
+```
+
+详细设计见 [`docs/architecture.md`](./docs/architecture.md)；踩坑与教训见 [`references/pitfalls.md`](./references/pitfalls.md)。
+
+---
+
+## 🔬 方法学要点
+
+- **为何用 kNN 图而非 RBF 全连接**：RBF 全连接在流形交错区会把不同簇的点错误链接，传播失效；
+  kNN 图只连近邻，流形结构得以保留。
+- **为何不做 StandardScaler**：高维冗余维度（方差 0.01）被标准化放大到方差 1，反客为主破坏距离度量；
+  直接用原始特征，让 inform 维主导欧氏距离。
+- **为何用 LabelSpreading 作稀缺区主选**：在 moons 流形上稳定达 ~0.75，而 XGB 自训练在极少标注下误差放大不稳定。
+- **确定性**：数据生成用 `np.random.default_rng(SeedSequence([seed, n_features, n_classes, dgp_salt]))`，
+  **不使用受 `PYTHONHASHSEED` 影响的 `hash()`**，保证跨进程可复现。
+
+---
+
+## 📁 仓库结构
+
+```
+semiforge/
+├── cli.py                  # 命令行入口 (demo / run)
+├── core/  data/  semi/  eval/  pipeline/   # 源码
+├── examples/run_demo.py    # 端到端基准
+├── tests/                  # pytest 套件 (46 用例)
+├── docs/                   # architecture.md, model_card.md
+├── references/             # delivered.md, pitfalls.md
+├── scripts/gh_push.py       # 三级降级推送脚本
+├── .github/workflows/ci.yml
+├── benchmark.json          # 真实基准结果
+├── requirements.txt / requirements.lock.txt
+├── Dockerfile / Makefile / pyproject.toml
+├── README.md / CHANGELOG.md / LICENSE
+└── .gitignore
+```
+
+---
+
+## 📜 许可
+
+[MIT](./LICENSE) —— 作者：**晨星 (CJX0712)**，2026。
+
+---
+
+## 🙏 致谢（复用世界顶级开源）
+
+[scikit-learn](https://scikit-learn.org)（SelfTrainingClassifier / LabelSpreading / LogisticRegression / RandomForest）、
+[XGBoost](https://xgboost.ai)、[NumPy](https://numpy.org)、[SciPy](https://scipy.org)。

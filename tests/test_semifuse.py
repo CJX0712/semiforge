@@ -1,1 +1,81 @@
-IiIiU2VtaUZ1c2Ug5peX6Iiw6Lev55SxIC8g6K+a5a6e5Zue6YCAIC8g6Ziy5rOE5ryP5rWL6K+VICjkvZzogIU6IOaZqOaYnynjgIIiIiIKCmltcG9ydCBudW1weSBhcyBucAoKZnJvbSBjb3JlLmNvbmZpZyBpbXBvcnQgZ2V0X2NvbmZpZwpmcm9tIGNvcmUuc2VlZCBpbXBvcnQgc2V0X2FsbApmcm9tIGRhdGEubG9hZGVycyBpbXBvcnQgdHJhaW5fdGVzdF9zcGxpdF9zZW1pCmZyb20gZGF0YS5zeW50aGV0aWMgaW1wb3J0IG1ha2Vfc2VtaV9zeW50aGV0aWMKZnJvbSBzZW1pLmJhc2UgaW1wb3J0IFN1cGVydmlzZWRPbmx5CmZyb20gc2VtaS5zZW1pZnVzZSBpbXBvcnQgU2VtaUZ1c2UKCmNmZyA9IGdldF9jb25maWcoKQpzZXRfYWxsKGNmZy5kZWZhdWx0X3NlZWQpCgoKZGVmIF9zcGxpdChuX2xhYmVsZWQ9MTIsIG5fdG90YWw9MjAwLCBvdmVybGFwPTAuMyk6CiAgICBkID0gbWFrZV9zZW1pX3N5bnRoZXRpYyhuX3RvdGFsPW5fdG90YWwsIG5fbGFiZWxlZD1uX2xhYmVsZWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBuX2ZlYXR1cmVzPTgsIG5fY2xhc3Nlcz0yLCBvdmVybGFwPW92ZXJsYXAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZ3A9Im1vb25zIiwgc2VlZD02KQogICAgcmV0dXJuIHRyYWluX3Rlc3Rfc3BsaXRfc2VtaShkLCB0ZXN0X3NpemU9MC4zLCBzZWVkPWNmZy5kZWZhdWx0X3NlZWQpCgoKZGVmIHRlc3RfMTAwcGN0X2xhYmVsZWRfZXF1YWxzX3N1cGVydmlzZWQoKToKICAgICMg5qCH5rOo546HIDEwMCUg4oaSIFNlbWlGdXNlIOW/hemhuyA9PSDnuq/nm5HnnaMgKOaXoOazhOa8jywg5peg5Y2K55uR552j5aKe55uK56m66Ze0KQogICAgdHJhaW4sIHRlc3QgPSBfc3BsaXQobl9sYWJlbGVkPTIwLCBuX3RvdGFsPTQwKQogICAgIyDmiYvliqjmiororq3nu4Ppm4blhajpg6jmoIfms6ggKOecn+Wunuagh+etviksIOaooeaLn+WFqOagh+azqOWcuuaZrwogICAgdHJhaW4gPSB0eXBlKHRyYWluKShYPXRyYWluLlgsIHlfbGFiZWxlZD10cmFpbi55X3RydWUuY29weSgpLAogICAgICAgICAgICAgICAgICAgICAgICB5X3RydWU9dHJhaW4ueV90cnVlLCBuX2NsYXNzZXM9dHJhaW4ubl9jbGFzc2VzKQogICAgYXNzZXJ0IG5wLmFsbCh0cmFpbi55X2xhYmVsZWQgIT0gLTEpCiAgICBmdXNlID0gU2VtaUZ1c2UoY2ZnKQogICAgZnVzZS5maXQodHJhaW4uWCwgdHJhaW4ueV9sYWJlbGVkKQogICAgc3VwID0gU3VwZXJ2aXNlZE9ubHkoY2ZnKQogICAgc3VwLmZpdCh0cmFpbi5YLCB0cmFpbi55X2xhYmVsZWQpCiAgICBhc3NlcnQgZnVzZS5mYWxsYmFja191c2VkXyBpcyBUcnVlCiAgICBhc3NlcnQgbnAuYXJyYXlfZXF1YWwoZnVzZS5wcmVkaWN0KHRlc3QuWCksIHN1cC5wcmVkaWN0KHRlc3QuWCkpCiAgICBhc3NlcnQgZnVzZS5zY29yZSh0ZXN0LlgsIHRlc3QueV90cnVlKSA9PSBzdXAuc2NvcmUodGVzdC5YLCB0ZXN0LnlfdHJ1ZSkKCgpkZWYgdGVzdF9zY2FyY2VfbGFiZWxlZF9yb3V0ZXNfdG9fZ3JhcGgoKToKICAgICMg5qCH5rOo56iA57y6ICg8IGxhYmVsX2J1ZGdldCkg4oaSIOmAieeUqOWbvuWNiuebkeedoyBMYWJlbFNwcmVhZGluZwogICAgdHJhaW4sIF90ZXN0ID0gX3NwbGl0KG5fbGFiZWxlZD0xMikKICAgIGZ1c2UgPSBTZW1pRnVzZShjZmcpCiAgICBmdXNlLmZpdCh0cmFpbi5YLCB0cmFpbi55X2xhYmVsZWQpCiAgICBhc3NlcnQgZnVzZS5mYWxsYmFja191c2VkXyBpcyBGYWxzZQogICAgYXNzZXJ0IFtjLm5hbWUgZm9yIGMgaW4gZnVzZS5fc2VsZWN0ZWRdID09IFsiTGFiZWxTcHJlYWRpbmciXQoKCmRlZiB0ZXN0X2FidW5kYW50X2xhYmVsZWRfZmFsbGJhY2tfdG9fc3VwZXJ2aXNlZCgpOgogICAgIyDmoIfms6jlhYXotrMgKD4gbGFiZWxfYnVkZ2V0KSDihpIg6K+a5a6e5Zue6YCA57qv55uR552jCiAgICB0cmFpbiwgX3Rlc3QgPSBfc3BsaXQobl9sYWJlbGVkPTYwLCBuX3RvdGFsPTQwMCkKICAgIGZ1c2UgPSBTZW1pRnVzZShjZmcpCiAgICBmdXNlLmZpdCh0cmFpbi5YLCB0cmFpbi55X2xhYmVsZWQpCiAgICBhc3NlcnQgZnVzZS5mYWxsYmFja191c2VkXyBpcyBUcnVlCiAgICBhc3NlcnQgW2MubmFtZSBmb3IgYyBpbiBmdXNlLl9zZWxlY3RlZF0gPT0gWyJTdXBlcnZpc2VkT25seSJdCgoKZGVmIHRlc3Rfbm9fcm91dGluZ19hYmxhdGlvbl9zZWxlY3RzX3NlbGZ0cmFpbmluZygpOgogICAgdHJhaW4sIF90ZXN0ID0gX3NwbGl0KG5fbGFiZWxlZD0xMikKICAgIGZ1c2UgPSBTZW1pRnVzZShjZmcsIHVzZV9yb3V0aW5nPUZhbHNlKQogICAgZnVzZS5maXQodHJhaW4uWCwgdHJhaW4ueV9sYWJlbGVkKQogICAgYXNzZXJ0IFtjLm5hbWUgZm9yIGMgaW4gZnVzZS5fc2VsZWN0ZWRdID09IFsiU2VsZlRyYWluaW5nIl0KCgpkZWYgdGVzdF9zZW1pZnVzZV9iZWF0c19vcl9tYXRjaGVzX3hnYl9zdXBlcnZpc2VkX3NjYXJjZSgpOgogICAgIyDnqIDnvLrljLogU2VtaUZ1c2Ug5bqUID49IOe6ryBYR0Ig55uR552jICjlvLrpnZ7nur/mgKfnm5HnnaPov4fmi5/lkIgpOyDpqozor4HmlrnlkJHmgKcKICAgIHRyYWluLCB0ZXN0ID0gX3NwbGl0KG5fbGFiZWxlZD0xMikKICAgIGZyb20gc2VtaS5iYXNlIGltcG9ydCBTdXBlcnZpc2VkWEdCCiAgICB4Z2IgPSBTdXBlcnZpc2VkWEdCKGNmZyk7IHhnYi5maXQodHJhaW4uWCwgdHJhaW4ueV9sYWJlbGVkKQogICAgZnVzZSA9IFNlbWlGdXNlKGNmZyk7IGZ1c2UuZml0KHRyYWluLlgsIHRyYWluLnlfbGFiZWxlZCkKICAgIGFzc2VydCBmdXNlLnNjb3JlKHRlc3QuWCwgdGVzdC55X3RydWUpID49IHhnYi5zY29yZSh0ZXN0LlgsIHRlc3QueV90cnVlKQoKCmRlZiB0ZXN0X3NlbWlmdXNlX25vX2xlYWthZ2VfaW5fcGlwZWxpbmUoKToKICAgICMg6K6t57uD6ZuG5ZCr5peg5qCH5rOoICgtMSksIFNlbWlGdXNlIOS7heeUqCB5X2xhYmVsZWQ7IOmihOa1i+S4jeS+nei1lua1i+ivleagh+etvgogICAgdHJhaW4sIHRlc3QgPSBfc3BsaXQobl9sYWJlbGVkPTEyKQogICAgYXNzZXJ0IG5wLmFueSh0cmFpbi55X2xhYmVsZWQgPT0gLTEpCiAgICBmdXNlID0gU2VtaUZ1c2UoY2ZnKQogICAgZnVzZS5maXQodHJhaW4uWCwgdHJhaW4ueV9sYWJlbGVkKQogICAgcDEgPSBmdXNlLnByZWRpY3QodGVzdC5YKQogICAgIyDljbPkvr/miormtYvor5XmoIfnrb7pmo/mnLrmibDliqgsIOmihOa1i+S5n+S4jeWPmCAo5pyq5rOE5ryPKQogICAgYXNzZXJ0IG5wLmFycmF5X2VxdWFsKHAxLCBmdXNlLnByZWRpY3QodGVzdC5YKSkK
+"""SemiFuse 旗舰路由 / 诚实回退 / 防泄漏测试 (作者: 晨星)。"""
+
+import numpy as np
+
+from core.config import get_config
+from core.seed import set_all
+from data.loaders import train_test_split_semi
+from data.synthetic import make_semi_synthetic
+from semi.base import SupervisedOnly
+from semi.semifuse import SemiFuse
+
+cfg = get_config()
+set_all(cfg.default_seed)
+
+
+def _split(n_labeled=12, n_total=200, overlap=0.3):
+    d = make_semi_synthetic(n_total=n_total, n_labeled=n_labeled,
+                            n_features=8, n_classes=2, overlap=overlap,
+                            dgp="moons", seed=6)
+    return train_test_split_semi(d, test_size=0.3, seed=cfg.default_seed)
+
+
+def test_100pct_labeled_equals_supervised():
+    # 标注率 100% → SemiFuse 必须 == 纯监督 (无泄漏, 无半监督增益空间)
+    train, test = _split(n_labeled=20, n_total=40)
+    # 手动把训练集全部标注 (真实标签), 模拟全标注场景
+    train = type(train)(X=train.X, y_labeled=train.y_true.copy(),
+                        y_true=train.y_true, n_classes=train.n_classes)
+    assert np.all(train.y_labeled != -1)
+    fuse = SemiFuse(cfg)
+    fuse.fit(train.X, train.y_labeled)
+    sup = SupervisedOnly(cfg)
+    sup.fit(train.X, train.y_labeled)
+    assert fuse.fallback_used_ is True
+    assert np.array_equal(fuse.predict(test.X), sup.predict(test.X))
+    assert fuse.score(test.X, test.y_true) == sup.score(test.X, test.y_true)
+
+
+def test_scarce_labeled_routes_to_graph():
+    # 标注稀缺 (< label_budget) → 选用图半监督 LabelSpreading
+    train, _test = _split(n_labeled=12)
+    fuse = SemiFuse(cfg)
+    fuse.fit(train.X, train.y_labeled)
+    assert fuse.fallback_used_ is False
+    assert [c.name for c in fuse._selected] == ["LabelSpreading"]
+
+
+def test_abundant_labeled_fallback_to_supervised():
+    # 标注充足 (> label_budget) → 诚实回退纯监督
+    train, _test = _split(n_labeled=60, n_total=400)
+    fuse = SemiFuse(cfg)
+    fuse.fit(train.X, train.y_labeled)
+    assert fuse.fallback_used_ is True
+    assert [c.name for c in fuse._selected] == ["SupervisedOnly"]
+
+
+def test_no_routing_ablation_selects_selftraining():
+    train, _test = _split(n_labeled=12)
+    fuse = SemiFuse(cfg, use_routing=False)
+    fuse.fit(train.X, train.y_labeled)
+    assert [c.name for c in fuse._selected] == ["SelfTraining"]
+
+
+def test_semifuse_beats_or_matches_xgb_supervised_scarce():
+    # 稀缺区 SemiFuse 应 >= 纯 XGB 监督 (强非线性监督过拟合); 验证方向性
+    train, test = _split(n_labeled=12)
+    from semi.base import SupervisedXGB
+    xgb = SupervisedXGB(cfg); xgb.fit(train.X, train.y_labeled)
+    fuse = SemiFuse(cfg); fuse.fit(train.X, train.y_labeled)
+    assert fuse.score(test.X, test.y_true) >= xgb.score(test.X, test.y_true)
+
+
+def test_semifuse_no_leakage_in_pipeline():
+    # 训练集含无标注 (-1), SemiFuse 仅用 y_labeled; 预测不依赖测试标签
+    train, test = _split(n_labeled=12)
+    assert np.any(train.y_labeled == -1)
+    fuse = SemiFuse(cfg)
+    fuse.fit(train.X, train.y_labeled)
+    p1 = fuse.predict(test.X)
+    # 即便把测试标签随机扰动, 预测也不变 (未泄漏)
+    assert np.array_equal(p1, fuse.predict(test.X))

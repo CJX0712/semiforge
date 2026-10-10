@@ -1,1 +1,11 @@
-IyBTZW1pRm9yZ2Ug5L6d6LWW6ZSB5a6aICjmiYvlhpkgbmFtZT09dmVyc2lvbiwg5p2l6Ieq6ZqU56a7IHZlbnYsIOS9nOiAhTog5pmo5pifKQojIOWuieijhTogcGlwIGluc3RhbGwgLXIgcmVxdWlyZW1lbnRzLmxvY2sudHh0Cm51bXB5PT0yLjUuMwpzY2lweT09MS4xOC4xCnNjaWtpdC1sZWFybj09MS45LjEKeGdib29zdD09My40LjEKCiMgLS0tIOW8gOWPkS9DSSDlt6XlhbcgKOWPr+mAiSkgLS0tCnB5dGVzdD09OS4xLjEKcHl0ZXN0LWNvdj09Ny4xLjAKcnVmZj09MC4xNy4wCg==
+# SemiForge 依赖锁定 (手写 name==version, 来自隔离 venv, 作者: 晨星)
+# 安装: pip install -r requirements.lock.txt
+numpy==2.5.3
+scipy==1.18.1
+scikit-learn==1.9.1
+xgboost==3.4.1
+
+# --- 开发/CI 工具 (可选) ---
+pytest==9.1.1
+pytest-cov==7.1.0
+ruff==0.17.0

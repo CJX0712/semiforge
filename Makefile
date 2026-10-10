@@ -1,1 +1,21 @@
-IyBTZW1pRm9yZ2UgTWFrZWZpbGUgKOS9nOiAhTog5pmo5pifKQouUEhPTlk6IGluc3RhbGwgdGVzdCBsaW50IGRlbW8gY2kgY2xlYW4KCmluc3RhbGw6CglwaXAgaW5zdGFsbCAtciByZXF1aXJlbWVudHMudHh0CglwaXAgaW5zdGFsbCBweXRlc3QgcHl0ZXN0LWNvdiBydWZmCgp0ZXN0OgoJcHl0ZXN0IC1xCgpsaW50OgoJcnVmZiBjaGVjayAuCgpkZW1vOgoJcHl0aG9uIGNsaS5weSBkZW1vCgpjaTogbGludCB0ZXN0IGRlbW8KCmNsZWFuOgoJZmluZCAuIC10eXBlIGQgLW5hbWUgX19weWNhY2hlX18gLWV4ZWMgcm0gLXJmIHt9ICsgMj4vZGV2L251bGwgfHwgdHJ1ZQoJcm0gLXJmIC5weXRlc3RfY2FjaGUgLnJ1ZmZfY2FjaGUgYmVuY2htYXJrLmpzb24K
+# SemiForge Makefile (作者: 晨星)
+.PHONY: install test lint demo ci clean
+
+install:
+	pip install -r requirements.txt
+	pip install pytest pytest-cov ruff
+
+test:
+	pytest -q
+
+lint:
+	ruff check .
+
+demo:
+	python cli.py demo
+
+ci: lint test demo
+
+clean:
+	find . -type d -name __pycache__ -exec rm -rf {} + 2>/dev/null || true
+	rm -rf .pytest_cache .ruff_cache benchmark.json

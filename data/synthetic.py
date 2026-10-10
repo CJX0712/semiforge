@@ -1,1 +1,149 @@
-IiIiU2VtaUZvcmdlIOWQiOaIkOaVsOaNrueUn+aIkOOAggoK5L2c6ICFOiDmmajmmJ8gKENKWDA3MTIpCgrkuKTnp40gREdQICjmlbDmja7nlJ/miJDov4fnqIspLCDlm7rlrpogc2VlZCDlj6/lpI3njrA6CgogIGRncD0iZ2F1c3NpYW4iOiDpq5jmlq/mt7flkIgsIG92ZXJsYXAg5o6n5Yi257G76Ze05Y+v5YiG5bqmICjnur/mgKflj6/liIbnqIvluqbnlLHph43lj6DlhrPlrpop44CCCiAgZGdwPSJtb29ucyI6ICAgIFR3byBNb29ucyAo5Y+M5pyI6Z2e57q/5oCn5rWB5b2iKSArIOmrmOe7tOWGl+S9meWZquWjsOeJueW+geOAggogICAgICAgICAgICAgICAgICBvdmVybGFwIOWtl+auteWkjeeUqOS4uui+ueeVjOWZquWjsOawtOW5syAobm9pc2U9b3ZlcmxhcCnjgIIKICAgICAgICAgICAgICAgICAg4oCU4oCUIOi/meaYr+WNiuebkeedo+aWueazleeos+WumuS8mOS6juW8uuebkeedo+eahOWcuuaZrzog5qCH5rOo5p6B5bCR5pe2IFhHQiDlnKgKICAgICAgICAgICAgICAgICAgICAg5YaX5L2Z6auY57u054m55b6B5LiK6L+H5ouf5ZCI5bSp5rqDLCDogIzlm77mlrnms5XnmoTot53nprvluqbph4/ku43nlLEgaW5mb3JtIOe7tOS4u+WvvOOAggoK6Zq+5bqm5peL6ZKuOiBvdmVybGFwIC8gbGFiZWxfbm9pc2UgLyBuX2xhYmVsZWQgLyBuX2ZlYXR1cmVz44CCCgrkuI3lj5jph48gKOWNlea1i+ehrOmXqOemgSk6CiAgMS4gbnAuc3VtKHlfbGFiZWxlZCA9PSAtMSkgPT0gbl90b3RhbCAtIG5fbGFiZWxlZAogIDIuIOavj+S4quexu+iHs+WwkeaciSBtaW5fcGVyX2NsYXNzIOS4quagh+azqAogIDMuIHlfdHJ1ZSDopobnm5bmiYDmnInnsbssIOexu+WFiOmqjOi/keS8vOWdh+ihoQoiIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBudW1weSBhcyBucAoKZnJvbSBjb3JlLmVycm9ycyBpbXBvcnQgRGF0YUVycm9yCmZyb20gY29yZS50eXBlcyBpbXBvcnQgU2VtaURhdGEKCgpkZWYgX3JhZGl1c19mcm9tX292ZXJsYXAob3ZlcmxhcDogZmxvYXQpIC0+IGZsb2F0OgogICAgciA9IDIuNSAqICgxLjAgLSBvdmVybGFwKSArIDAuMgogICAgcmV0dXJuIGZsb2F0KG5wLmNsaXAociwgMC4yLCAzLjApKQoKCmRlZiBfc2FtcGxlX2xhYmVscyh5X3RydWUsIG5fbGFiZWxlZCwgbl9jbGFzc2VzLCBtaW5fcGVyX2NsYXNzLCByZyk6CiAgICBuX3RvdGFsID0gbGVuKHlfdHJ1ZSkKICAgIHlfbGFiZWxlZCA9IG5wLmZ1bGwobl90b3RhbCwgLTEsIGR0eXBlPWludCkKICAgIHBlcl9jbGFzcyA9IG1heChtaW5fcGVyX2NsYXNzLCBuX2xhYmVsZWQgLy8gbl9jbGFzc2VzKQogICAgY2hvc2VuID0gW10KICAgIGZvciBjIGluIHJhbmdlKG5fY2xhc3Nlcyk6CiAgICAgICAgaWR4X2MgPSBucC53aGVyZSh5X3RydWUgPT0gYylbMF0KICAgICAgICBpZiBsZW4oaWR4X2MpIDwgcGVyX2NsYXNzOgogICAgICAgICAgICB0YWtlID0gbGlzdChpZHhfYykKICAgICAgICBlbHNlOgogICAgICAgICAgICB0YWtlID0gbGlzdChyZy5jaG9pY2UoaWR4X2MsIHNpemU9cGVyX2NsYXNzLCByZXBsYWNlPUZhbHNlKSkKICAgICAgICBjaG9zZW4uZXh0ZW5kKHRha2UpCiAgICBjaG9zZW4gPSBsaXN0KG5wLmFycmF5KGNob3NlbiwgZHR5cGU9aW50KSkKICAgIHJlbWFpbmluZyA9IG5fbGFiZWxlZCAtIGxlbihjaG9zZW4pCiAgICBpZiByZW1haW5pbmcgPiAwOgogICAgICAgIHBvb2wgPSBucC5zZXRkaWZmMWQobnAuYXJhbmdlKG5fdG90YWwpLCBucC5hcnJheShjaG9zZW4pKQogICAgICAgIGlmIGxlbihwb29sKSA8IHJlbWFpbmluZzoKICAgICAgICAgICAgcmFpc2UgRGF0YUVycm9yKCLmoLfmnKzmlbDkuI3otrPku6Xmu6HotrPmoIfms6jpnIDmsYIiKQogICAgICAgIGNob3Nlbi5leHRlbmQobGlzdChyZy5jaG9pY2UocG9vbCwgc2l6ZT1yZW1haW5pbmcsIHJlcGxhY2U9RmFsc2UpKSkKICAgIHlfbGFiZWxlZFtjaG9zZW5dID0geV90cnVlW2Nob3Nlbl0KICAgIHJldHVybiB5X2xhYmVsZWQsIGNob3NlbgoKCmRlZiBfbWFrZV9nYXVzc2lhbihyZywgbl90b3RhbCwgbl9mZWF0dXJlcywgbl9jbGFzc2VzLCBvdmVybGFwLCBjbHVzdGVyX3N0ZCk6CiAgICBpZiBuX2NsYXNzZXMgPT0gMjoKICAgICAgICBkID0gcmcuc3RhbmRhcmRfbm9ybWFsKG5fZmVhdHVyZXMpCiAgICAgICAgZCAvPSBucC5saW5hbGcubm9ybShkKQogICAgICAgIGNlbnRlcnMgPSBucC5zdGFjayhbZCwgLWRdLCBheGlzPTApICogX3JhZGl1c19mcm9tX292ZXJsYXAob3ZlcmxhcCkKICAgIGVsc2U6CiAgICAgICAgY2VudGVycyA9IHJnLnN0YW5kYXJkX25vcm1hbCgobl9jbGFzc2VzLCBuX2ZlYXR1cmVzKSkKICAgICAgICBjZW50ZXJzIC89IG5wLmxpbmFsZy5ub3JtKGNlbnRlcnMsIGF4aXM9MSwga2VlcGRpbXM9VHJ1ZSkKICAgICAgICBjZW50ZXJzICo9IF9yYWRpdXNfZnJvbV9vdmVybGFwKG92ZXJsYXApCiAgICB5X3RydWUgPSByZy5pbnRlZ2VycygwLCBuX2NsYXNzZXMsIHNpemU9bl90b3RhbCkKICAgIFggPSBjZW50ZXJzW3lfdHJ1ZV0gKyByZy5zdGFuZGFyZF9ub3JtYWwoKG5fdG90YWwsIG5fZmVhdHVyZXMpKSAqIGNsdXN0ZXJfc3RkCiAgICByZXR1cm4gWCwgeV90cnVlCgoKZGVmIF9tYWtlX21vb25zKHJnLCBuX3RvdGFsLCBuX2ZlYXR1cmVzLCBub2lzZSk6CiAgICAiIiJUd28gTW9vbnM6IDJEIOS6pOmUmeaWsOaciCArIChuX2ZlYXR1cmVzLTIpIOe7tOaegeWwj+aWueW3ruWGl+S9meeJueW+geOAgiIiIgogICAgbl9oYWxmID0gbl90b3RhbCAvLyAyCiAgICBhMCA9IHJnLnVuaWZvcm0oMCwgbnAucGksIG5faGFsZikKICAgIGlubmVyID0gbnAuY29sdW1uX3N0YWNrKAogICAgICAgIFtucC5jb3MoYTApICsgcmcubm9ybWFsKDAsIG5vaXNlLCBuX2hhbGYpLCBucC5zaW4oYTApICsgcmcubm9ybWFsKDAsIG5vaXNlLCBuX2hhbGYpXQogICAgKQogICAgbl9yZXN0ID0gbl90b3RhbCAtIG5faGFsZgogICAgYTEgPSByZy51bmlmb3JtKDAsIG5wLnBpLCBuX3Jlc3QpCiAgICBvdXRlciA9IG5wLmNvbHVtbl9zdGFjaygKICAgICAgICBbMS4wIC0gbnAuY29zKGExKSArIHJnLm5vcm1hbCgwLCBub2lzZSwgbl9yZXN0KSwKICAgICAgICAgMS4wIC0gbnAuc2luKGExKSArIHJnLm5vcm1hbCgwLCBub2lzZSwgbl9yZXN0KV0KICAgICkKICAgIFgyID0gbnAudnN0YWNrKFtpbm5lciwgb3V0ZXJdKQogICAgeV90cnVlID0gbnAuY29uY2F0ZW5hdGUoW25wLnplcm9zKG5faGFsZiksIG5wLm9uZXMobl9yZXN0KV0pLmFzdHlwZShpbnQpCiAgICBpZiBuX2ZlYXR1cmVzID4gMjoKICAgICAgICAjIOWGl+S9mee7tOW6pjog5LiO57G75Yir5peg5YWzLCDmlrnlt67mnoHlsI8gLT4g5LiN56C05Z2P5Zu+6Led56a7LCDkvYbor7Hkvb/moJHmqKHlnovov4fmi5/lkIgKICAgICAgICBYciA9IHJnLm5vcm1hbCgwLCAwLjAxLCAobl90b3RhbCwgbl9mZWF0dXJlcyAtIDIpKQogICAgICAgIFggPSBucC5oc3RhY2soW1gyLCBYcl0pCiAgICBlbHNlOgogICAgICAgIFggPSBYMgogICAgcmV0dXJuIFgsIHlfdHJ1ZQoKCmRlZiBtYWtlX3NlbWlfc3ludGhldGljKAogICAgbl90b3RhbDogaW50ID0gNjAwLAogICAgbl9sYWJlbGVkOiBpbnQgPSAzMCwKICAgIG5fZmVhdHVyZXM6IGludCA9IDIwLAogICAgbl9jbGFzc2VzOiBpbnQgPSAyLAogICAgb3ZlcmxhcDogZmxvYXQgPSAwLjUsCiAgICBsYWJlbF9ub2lzZTogZmxvYXQgPSAwLjAsCiAgICBzZWVkOiBpbnQgPSAwLAogICAgbWluX3Blcl9jbGFzczogaW50ID0gMywKICAgIGNsdXN0ZXJfc3RkOiBmbG9hdCA9IDEuMCwKICAgIGRncDogc3RyID0gImdhdXNzaWFuIiwKKSAtPiBTZW1pRGF0YToKICAgICIiIueUn+aIkOWNiuebkeedo+WQiOaIkOaVsOaNrumbhuOAgiIiIgogICAgaWYgZGdwIG5vdCBpbiAoImdhdXNzaWFuIiwgIm1vb25zIik6CiAgICAgICAgcmFpc2UgRGF0YUVycm9yKGYi5pyq55+lIGRncDoge2RncH0iKQogICAgaWYgbm90ICgwLjAgPD0gb3ZlcmxhcCA8PSAxLjApOgogICAgICAgIHJhaXNlIERhdGFFcnJvcigib3ZlcmxhcCDlv4Xpobsg4oiIIFswLDFdIikKICAgIGlmIG5vdCAoMC4wIDw9IGxhYmVsX25vaXNlIDw9IDEuMCk6CiAgICAgICAgcmFpc2UgRGF0YUVycm9yKCJsYWJlbF9ub2lzZSDlv4Xpobsg4oiIIFswLDFdIikKICAgIGlmIG5fbGFiZWxlZCA+PSBuX3RvdGFsOgogICAgICAgIHJhaXNlIERhdGFFcnJvcigibl9sYWJlbGVkIOW/hemhu+Wwj+S6jiBuX3RvdGFsIikKICAgIGlmIG5fbGFiZWxlZCA8IG5fY2xhc3NlcyAqIG1pbl9wZXJfY2xhc3M6CiAgICAgICAgcmFpc2UgRGF0YUVycm9yKAogICAgICAgICAgICBmIm5fbGFiZWxlZCh7bl9sYWJlbGVkfSkg5LiN6Laz5Lul5q+P57G76Iez5bCRIHttaW5fcGVyX2NsYXNzfSDkuKrmoIfms6giCiAgICAgICAgKQoKICAgICMg56iz5a6a55uQOiDpgb/lhY3lhoXnva4gaGFzaCgpIOWPlyBQWVRIT05IQVNIU0VFRCDlvbHlk43lr7zoh7Tot6jov5vnqIvkuI3lj6/lpI3njrDjgIIKICAgIF9kZ3Bfc2FsdCA9IGludC5mcm9tX2J5dGVzKGRncC5lbmNvZGUoInV0Zi04IiksICJsaXR0bGUiLCBzaWduZWQ9RmFsc2UpCiAgICByZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZygKICAgICAgICBucC5yYW5kb20uU2VlZFNlcXVlbmNlKFtzZWVkLCBuX2ZlYXR1cmVzLCBuX2NsYXNzZXMsIF9kZ3Bfc2FsdF0pCiAgICApCgogICAgaWYgZGdwID09ICJtb29ucyI6CiAgICAgICAgWCwgeV90cnVlID0gX21ha2VfbW9vbnMocmcsIG5fdG90YWwsIG5fZmVhdHVyZXMsIG5vaXNlPW92ZXJsYXApCiAgICBlbHNlOgogICAgICAgIFgsIHlfdHJ1ZSA9IF9tYWtlX2dhdXNzaWFuKHJnLCBuX3RvdGFsLCBuX2ZlYXR1cmVzLCBuX2NsYXNzZXMsIG92ZXJsYXAsIGNsdXN0ZXJfc3RkKQoKICAgIHlfbGFiZWxlZCwgY2hvc2VuID0gX3NhbXBsZV9sYWJlbHMoeV90cnVlLCBuX2xhYmVsZWQsIG5fY2xhc3NlcywgbWluX3Blcl9jbGFzcywgcmcpCgogICAgIyDmoIfms6jlmarlo7A6IOe/u+i9rAogICAgaWYgbGFiZWxfbm9pc2UgPiAwLjA6CiAgICAgICAgbm9pc3kgPSByZy5yYW5kb20obGVuKGNob3NlbikpIDwgbGFiZWxfbm9pc2UKICAgICAgICB5X2xhYmVsZWRbY2hvc2VuXSA9IG5wLndoZXJlKAogICAgICAgICAgICBub2lzeSwgKHlfbGFiZWxlZFtjaG9zZW5dICsgMSkgJSBuX2NsYXNzZXMsIHlfbGFiZWxlZFtjaG9zZW5dCiAgICAgICAgKQoKICAgIGRhdGEgPSBTZW1pRGF0YShYPVgsIHlfbGFiZWxlZD15X2xhYmVsZWQsIHlfdHJ1ZT15X3RydWUsIG5fY2xhc3Nlcz1uX2NsYXNzZXMpCgogICAgIyDkuI3lj5jph4/moKHpqowKICAgIGFzc2VydCBucC5zdW0oeV9sYWJlbGVkID09IC0xKSA9PSAobl90b3RhbCAtIG5fbGFiZWxlZCksICLkuI3lj5jph48x5aSx6LSlIgogICAgZm9yIGMgaW4gcmFuZ2Uobl9jbGFzc2VzKToKICAgICAgICBhc3NlcnQgbnAuc3VtKHlfbGFiZWxlZFtjaG9zZW5dID09IGMpID49IG1pbl9wZXJfY2xhc3Mgb3IgbnAuc3VtKAogICAgICAgICAgICB5X2xhYmVsZWQgPT0gYwogICAgICAgICkgPj0gbWluX3Blcl9jbGFzcywgZiLnsbsge2N9IOagh+azqOS4jei2syIKICAgIHJldHVybiBkYXRhCg==
+"""SemiForge 合成数据生成。
+
+作者: 晨星 (CJX0712)
+
+两种 DGP (数据生成过程), 固定 seed 可复现:
+
+  dgp="gaussian": 高斯混合, overlap 控制类间可分度 (线性可分程度由重叠决定)。
+  dgp="moons":    Two Moons (双月非线性流形) + 高维冗余噪声特征。
+                  overlap 字段复用为边界噪声水平 (noise=overlap)。
+                  —— 这是半监督方法稳定优于强监督的场景: 标注极少时 XGB 在
+                     冗余高维特征上过拟合崩溃, 而图方法的距离度量仍由 inform 维主导。
+
+难度旋钮: overlap / label_noise / n_labeled / n_features。
+
+不变量 (单测硬门禁):
+  1. np.sum(y_labeled == -1) == n_total - n_labeled
+  2. 每个类至少有 min_per_class 个标注
+  3. y_true 覆盖所有类, 类先验近似均衡
+"""
+
+from __future__ import annotations
+
+import numpy as np
+
+from core.errors import DataError
+from core.types import SemiData
+
+
+def _radius_from_overlap(overlap: float) -> float:
+    r = 2.5 * (1.0 - overlap) + 0.2
+    return float(np.clip(r, 0.2, 3.0))
+
+
+def _sample_labels(y_true, n_labeled, n_classes, min_per_class, rg):
+    n_total = len(y_true)
+    y_labeled = np.full(n_total, -1, dtype=int)
+    per_class = max(min_per_class, n_labeled // n_classes)
+    chosen = []
+    for c in range(n_classes):
+        idx_c = np.where(y_true == c)[0]
+        if len(idx_c) < per_class:
+            take = list(idx_c)
+        else:
+            take = list(rg.choice(idx_c, size=per_class, replace=False))
+        chosen.extend(take)
+    chosen = list(np.array(chosen, dtype=int))
+    remaining = n_labeled - len(chosen)
+    if remaining > 0:
+        pool = np.setdiff1d(np.arange(n_total), np.array(chosen))
+        if len(pool) < remaining:
+            raise DataError("样本数不足以满足标注需求")
+        chosen.extend(list(rg.choice(pool, size=remaining, replace=False)))
+    y_labeled[chosen] = y_true[chosen]
+    return y_labeled, chosen
+
+
+def _make_gaussian(rg, n_total, n_features, n_classes, overlap, cluster_std):
+    if n_classes == 2:
+        d = rg.standard_normal(n_features)
+        d /= np.linalg.norm(d)
+        centers = np.stack([d, -d], axis=0) * _radius_from_overlap(overlap)
+    else:
+        centers = rg.standard_normal((n_classes, n_features))
+        centers /= np.linalg.norm(centers, axis=1, keepdims=True)
+        centers *= _radius_from_overlap(overlap)
+    y_true = rg.integers(0, n_classes, size=n_total)
+    X = centers[y_true] + rg.standard_normal((n_total, n_features)) * cluster_std
+    return X, y_true
+
+
+def _make_moons(rg, n_total, n_features, noise):
+    """Two Moons: 2D 交错新月 + (n_features-2) 维极小方差冗余特征。"""
+    n_half = n_total // 2
+    a0 = rg.uniform(0, np.pi, n_half)
+    inner = np.column_stack(
+        [np.cos(a0) + rg.normal(0, noise, n_half), np.sin(a0) + rg.normal(0, noise, n_half)]
+    )
+    n_rest = n_total - n_half
+    a1 = rg.uniform(0, np.pi, n_rest)
+    outer = np.column_stack(
+        [1.0 - np.cos(a1) + rg.normal(0, noise, n_rest),
+         1.0 - np.sin(a1) + rg.normal(0, noise, n_rest)]
+    )
+    X2 = np.vstack([inner, outer])
+    y_true = np.concatenate([np.zeros(n_half), np.ones(n_rest)]).astype(int)
+    if n_features > 2:
+        # 冗余维度: 与类别无关, 方差极小 -> 不破坏图距离, 但诱使树模型过拟合
+        Xr = rg.normal(0, 0.01, (n_total, n_features - 2))
+        X = np.hstack([X2, Xr])
+    else:
+        X = X2
+    return X, y_true
+
+
+def make_semi_synthetic(
+    n_total: int = 600,
+    n_labeled: int = 30,
+    n_features: int = 20,
+    n_classes: int = 2,
+    overlap: float = 0.5,
+    label_noise: float = 0.0,
+    seed: int = 0,
+    min_per_class: int = 3,
+    cluster_std: float = 1.0,
+    dgp: str = "gaussian",
+) -> SemiData:
+    """生成半监督合成数据集。"""
+    if dgp not in ("gaussian", "moons"):
+        raise DataError(f"未知 dgp: {dgp}")
+    if not (0.0 <= overlap <= 1.0):
+        raise DataError("overlap 必须 ∈ [0,1]")
+    if not (0.0 <= label_noise <= 1.0):
+        raise DataError("label_noise 必须 ∈ [0,1]")
+    if n_labeled >= n_total:
+        raise DataError("n_labeled 必须小于 n_total")
+    if n_labeled < n_classes * min_per_class:
+        raise DataError(
+            f"n_labeled({n_labeled}) 不足以每类至少 {min_per_class} 个标注"
+        )
+
+    # 稳定盐: 避免内置 hash() 受 PYTHONHASHSEED 影响导致跨进程不可复现。
+    _dgp_salt = int.from_bytes(dgp.encode("utf-8"), "little", signed=False)
+    rg = np.random.default_rng(
+        np.random.SeedSequence([seed, n_features, n_classes, _dgp_salt])
+    )
+
+    if dgp == "moons":
+        X, y_true = _make_moons(rg, n_total, n_features, noise=overlap)
+    else:
+        X, y_true = _make_gaussian(rg, n_total, n_features, n_classes, overlap, cluster_std)
+
+    y_labeled, chosen = _sample_labels(y_true, n_labeled, n_classes, min_per_class, rg)
+
+    # 标注噪声: 翻转
+    if label_noise > 0.0:
+        noisy = rg.random(len(chosen)) < label_noise
+        y_labeled[chosen] = np.where(
+            noisy, (y_labeled[chosen] + 1) % n_classes, y_labeled[chosen]
+        )
+
+    data = SemiData(X=X, y_labeled=y_labeled, y_true=y_true, n_classes=n_classes)
+
+    # 不变量校验
+    assert np.sum(y_labeled == -1) == (n_total - n_labeled), "不变量1失败"
+    for c in range(n_classes):
+        assert np.sum(y_labeled[chosen] == c) >= min_per_class or np.sum(
+            y_labeled == c
+        ) >= min_per_class, f"类 {c} 标注不足"
+    return data

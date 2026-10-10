@@ -1,1 +1,7 @@
-W3Rvb2wucHl0ZXN0LmluaV9vcHRpb25zXQpweXRob25wYXRoID0gWyIuIl0KdGVzdHBhdGhzID0gWyJ0ZXN0cyJdCmZpbHRlcndhcm5pbmdzID0gWwogICAgImlnbm9yZTo6UnVudGltZVdhcm5pbmciLApdCmFkZG9wdHMgPSAiLXEiCg==
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+filterwarnings = [
+    "ignore::RuntimeWarning",
+]
+addopts = "-q"

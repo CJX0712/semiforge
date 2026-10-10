@@ -1,1 +1,72 @@
-IiIiU2VtaUZvcmdlIOaVsOaNrui9veWFpSAo5pys5Zyw5paH5Lu2KeOAggoK5L2c6ICFOiDmmajmmJ8gKENKWDA3MTIpCgrmlK/mjIEgLm5weiAo5ZCrIFgsIHlfbGFiZWxlZCwgeV90cnVlKSDkuI7orq3nu4Mv5rWL6K+V5YiG5Z2X6L295YWl44CCCuaJgOacieaWh+S7tuivu+WGmeaYvuW8jyBlbmNvZGluZz0idXRmLTgi44CCCiIiIgoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IG51bXB5IGFzIG5wCgpmcm9tIGNvcmUuZXJyb3JzIGltcG9ydCBEYXRhRXJyb3IKZnJvbSBjb3JlLnR5cGVzIGltcG9ydCBTZW1pRGF0YQoKCmRlZiBsb2FkX3NlbWlfbnB6KHBhdGg6IHN0cikgLT4gU2VtaURhdGE6CiAgICAiIiLku44gbnB6IOi9veWFpeWNiuebkeedo+aVsOaNruOAgiIiIgogICAgdHJ5OgogICAgICAgIHdpdGggbnAubG9hZChwYXRoLCBhbGxvd19waWNrbGU9RmFsc2UpIGFzIGY6CiAgICAgICAgICAgIFggPSBucC5hc2FycmF5KGZbIlgiXSwgZHR5cGU9ZmxvYXQpCiAgICAgICAgICAgIHlfbGFiZWxlZCA9IG5wLmFzYXJyYXkoZlsieV9sYWJlbGVkIl0sIGR0eXBlPWludCkKICAgICAgICAgICAgeV90cnVlID0gbnAuYXNhcnJheShmWyJ5X3RydWUiXSwgZHR5cGU9aW50KQogICAgZXhjZXB0IChPU0Vycm9yLCBLZXlFcnJvcikgYXMgZToKICAgICAgICByYWlzZSBEYXRhRXJyb3IoZiLovb3lhaUge3BhdGh9IOWksei0pToge2V9IikgZnJvbSBlCgogICAgbl9jbGFzc2VzID0gbGVuKG5wLnVuaXF1ZSh5X3RydWUpKQogICAgcmV0dXJuIFNlbWlEYXRhKFg9WCwgeV9sYWJlbGVkPXlfbGFiZWxlZCwgeV90cnVlPXlfdHJ1ZSwgbl9jbGFzc2VzPW5fY2xhc3NlcykKCgpkZWYgc2F2ZV9zZW1pX25weihkYXRhOiBTZW1pRGF0YSwgcGF0aDogc3RyKSAtPiBOb25lOgogICAgIiIi5L+d5a2Y5Y2K55uR552j5pWw5o2u5YiwIG5weuOAgiIiIgogICAgbnAuc2F2ZXooCiAgICAgICAgcGF0aCwKICAgICAgICBYPW5wLmFzYXJyYXkoZGF0YS5YLCBkdHlwZT1mbG9hdCksCiAgICAgICAgeV9sYWJlbGVkPW5wLmFzYXJyYXkoZGF0YS55X2xhYmVsZWQsIGR0eXBlPWludCksCiAgICAgICAgeV90cnVlPW5wLmFzYXJyYXkoZGF0YS55X3RydWUsIGR0eXBlPWludCksCiAgICApCgoKZGVmIHRyYWluX3Rlc3Rfc3BsaXRfc2VtaSgKICAgIGRhdGE6IFNlbWlEYXRhLCB0ZXN0X3NpemU6IGZsb2F0ID0gMC4zLCBzZWVkOiBpbnQgPSAwCikgLT4gdHVwbGVbU2VtaURhdGEsIFNlbWlEYXRhXToKICAgICIiIuaMieS4jeWPmOmHj+WIh+WIhjog6K6t57uD6ZuG5YyF5ZCr5YWo6YOo5peg5qCH5rOoICsg6YOo5YiG5qCH5rOoLCDmtYvor5Xpm4blhajmoIfms6jjgIIKCiAgICAtIOa1i+ivlembhuagt+acrOWFqOmDqOS/neeVmeWujOaVtOecn+agh+etviAoeV9sYWJlbGVkIOiuvuS4uuecn+agh+etviwg55So5LqO6K+E5rWLKeOAggogICAgLSDorq3nu4Ppm4bml6DmoIfms6jmoLfmnKwgeV9sYWJlbGVkPS0xICjmsLjkuI3ms4TmvI/liLDmtYvor5Up44CCCiAgICAtIOagh+azqOagt+acrOaMieexu+WIhuWxguaKveagt+WIsOiuree7gy/mtYvor5XjgIIKICAgICIiIgogICAgcmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcobnAucmFuZG9tLlNlZWRTZXF1ZW5jZShbc2VlZCwgN10pKQogICAgbiA9IGRhdGEubl9zYW1wbGVzCiAgICB0ZXN0X2lkeCA9IFtdCiAgICBmb3IgYyBpbiByYW5nZShkYXRhLm5fY2xhc3Nlcyk6CiAgICAgICAgaWR4X2MgPSBucC53aGVyZShkYXRhLnlfbGFiZWxlZCAhPSAtMSlbMF0KICAgICAgICBpZHhfYyA9IGlkeF9jW2RhdGEueV90cnVlW2lkeF9jXSA9PSBjXQogICAgICAgIGsgPSByb3VuZChsZW4oaWR4X2MpICogdGVzdF9zaXplKQogICAgICAgIGlmIGsgPD0gMDoKICAgICAgICAgICAgayA9IDEKICAgICAgICB0ZXN0X2lkeC5leHRlbmQobGlzdChyZy5jaG9pY2UoaWR4X2MsIHNpemU9aywgcmVwbGFjZT1GYWxzZSkpKQogICAgdGVzdF9pZHggPSBucC5hcnJheShzb3J0ZWQodGVzdF9pZHgpLCBkdHlwZT1pbnQpCiAgICB0cmFpbl9pZHggPSBucC5zZXRkaWZmMWQobnAuYXJhbmdlKG4pLCB0ZXN0X2lkeCkKCiAgICBkZWYgc3ViKGlkeHM6IG5wLm5kYXJyYXkpIC0+IFNlbWlEYXRhOgogICAgICAgIGlzX3Rlc3QgPSBucC5pc2luKGlkeHMsIHRlc3RfaWR4KQogICAgICAgIFggPSBkYXRhLlhbaWR4c10KICAgICAgICB5X3RydWUgPSBkYXRhLnlfdHJ1ZVtpZHhzXQogICAgICAgICMg6K6t57uD6ZuGOiDmsr/nlKjljp8geV9sYWJlbGVkOyDmtYvor5Xpm4Y6IOWFqOagh+azqCAo6K+E5rWL55SoKQogICAgICAgIHlfbGFiZWxlZCA9IGRhdGEueV9sYWJlbGVkW2lkeHNdLmNvcHkoKQogICAgICAgIHlfbGFiZWxlZFtpc190ZXN0XSA9IHlfdHJ1ZVtpc190ZXN0XQogICAgICAgIHJldHVybiBTZW1pRGF0YShYPVgsIHlfbGFiZWxlZD15X2xhYmVsZWQsIHlfdHJ1ZT15X3RydWUsIG5fY2xhc3Nlcz1kYXRhLm5fY2xhc3NlcykKCiAgICByZXR1cm4gc3ViKHRyYWluX2lkeCksIHN1Yih0ZXN0X2lkeCkK
+"""SemiForge 数据载入 (本地文件)。
+
+作者: 晨星 (CJX0712)
+
+支持 .npz (含 X, y_labeled, y_true) 与训练/测试分块载入。
+所有文件读写显式 encoding="utf-8"。
+"""
+
+from __future__ import annotations
+
+import numpy as np
+
+from core.errors import DataError
+from core.types import SemiData
+
+
+def load_semi_npz(path: str) -> SemiData:
+    """从 npz 载入半监督数据。"""
+    try:
+        with np.load(path, allow_pickle=False) as f:
+            X = np.asarray(f["X"], dtype=float)
+            y_labeled = np.asarray(f["y_labeled"], dtype=int)
+            y_true = np.asarray(f["y_true"], dtype=int)
+    except (OSError, KeyError) as e:
+        raise DataError(f"载入 {path} 失败: {e}") from e
+
+    n_classes = len(np.unique(y_true))
+    return SemiData(X=X, y_labeled=y_labeled, y_true=y_true, n_classes=n_classes)
+
+
+def save_semi_npz(data: SemiData, path: str) -> None:
+    """保存半监督数据到 npz。"""
+    np.savez(
+        path,
+        X=np.asarray(data.X, dtype=float),
+        y_labeled=np.asarray(data.y_labeled, dtype=int),
+        y_true=np.asarray(data.y_true, dtype=int),
+    )
+
+
+def train_test_split_semi(
+    data: SemiData, test_size: float = 0.3, seed: int = 0
+) -> tuple[SemiData, SemiData]:
+    """按不变量切分: 训练集包含全部无标注 + 部分标注, 测试集全标注。
+
+    - 测试集样本全部保留完整真标签 (y_labeled 设为真标签, 用于评测)。
+    - 训练集无标注样本 y_labeled=-1 (永不泄漏到测试)。
+    - 标注样本按类分层抽样到训练/测试。
+    """
+    rg = np.random.default_rng(np.random.SeedSequence([seed, 7]))
+    n = data.n_samples
+    test_idx = []
+    for c in range(data.n_classes):
+        idx_c = np.where(data.y_labeled != -1)[0]
+        idx_c = idx_c[data.y_true[idx_c] == c]
+        k = round(len(idx_c) * test_size)
+        if k <= 0:
+            k = 1
+        test_idx.extend(list(rg.choice(idx_c, size=k, replace=False)))
+    test_idx = np.array(sorted(test_idx), dtype=int)
+    train_idx = np.setdiff1d(np.arange(n), test_idx)
+
+    def sub(idxs: np.ndarray) -> SemiData:
+        is_test = np.isin(idxs, test_idx)
+        X = data.X[idxs]
+        y_true = data.y_true[idxs]
+        # 训练集: 沿用原 y_labeled; 测试集: 全标注 (评测用)
+        y_labeled = data.y_labeled[idxs].copy()
+        y_labeled[is_test] = y_true[is_test]
+        return SemiData(X=X, y_labeled=y_labeled, y_true=y_true, n_classes=data.n_classes)
+
+    return sub(train_idx), sub(test_idx)

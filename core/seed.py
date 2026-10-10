@@ -1,1 +1,41 @@
-IiIiU2VtaUZvcmdlIOWFqOWxgOehruWumuaAp+aOp+WItuOAggoK5L2c6ICFOiDmmajmmJ8gKENKWDA3MTIpCgrllK/kuIDlhaXlj6MgY29yZS5zZWVkLnNldF9hbGwoc2VlZCkg5LiA5qyh5oCn6K6+6b2QIG51bXB5IC8gcmFuZG9tIC8g5pys5ZywIFJORywK5L+d6K+BIGRlbW8g5Lik5qyh6L+Q6KGM5qC45b+D5oyH5qCH6YCQ5L2N5LiA6Ie044CCCiIiIgoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IHJhbmRvbSBhcyBfcmFuZG9tCgppbXBvcnQgbnVtcHkgYXMgbnAKCl9TRUVEOiBpbnQgfCBOb25lID0gTm9uZQoKCmRlZiBzZXRfYWxsKHNlZWQ6IGludCkgLT4gaW50OgogICAgIiIi5LiA5qyh5oCn6K6+6b2Q5omA5pyJ6ZqP5py65rqQ44CC6L+U5Zue5a6e6ZmF55Sf5pWI55qEIHNlZWQgKOS+m+iusOW9lSnjgIIKCiAgICDopobnm5Y6IG51bXB5IChkZWZhdWx0X3JuZyArIOaXpyBSYW5kb21TdGF0ZSDlhZzlupUpIC8g5qCH5YeG5bqTIHJhbmRvbSAvCiAgICDmnKzmqKHlnZfnu7TmiqTnmoTni6znq4sgR2VuZXJhdG9y44CC5LiN6Kem56Kw5Y+v6IO95LiN5a2Y5Zyo55qEIHRvcmNoIOetieOAggogICAgIiIiCiAgICBnbG9iYWwgX1NFRUQKICAgIF9TRUVEID0gaW50KHNlZWQpCiAgICBfcmFuZG9tLnNlZWQoX1NFRUQpCiAgICBucC5yYW5kb20uc2VlZChfU0VFRCkKICAgIHJldHVybiBfU0VFRAoKCmRlZiBnZXRfc2VlZCgpIC0+IGludCB8IE5vbmU6CiAgICByZXR1cm4gX1NFRUQKCgpkZWYgcm5nKCkgLT4gbnAucmFuZG9tLkdlbmVyYXRvcjoKICAgICIiIui/lOWbnuS4gOS4queUseW9k+WJjeWFqOWxgCBzZWVkIOa0vueUn+eahOehruWumuaAp+eUn+aIkOWZqOOAggoKICAgIOazqOaEjzog5Li66YG/5YWN5aSa5qyh6LCD55So5Lqn55Sf55u45YWz5rWBLCDosIPnlKjmlrnlupTmjIHmnInov5Tlm57nmoQgR2VuZXJhdG9yIOWunuS+i+OAggogICAgIiIiCiAgICBiYXNlID0gX1NFRUQgaWYgX1NFRUQgaXMgbm90IE5vbmUgZWxzZSAwCiAgICByZXR1cm4gbnAucmFuZG9tLmRlZmF1bHRfcm5nKG5wLnJhbmRvbS5TZWVkU2VxdWVuY2UoW2Jhc2VdKSkK
+"""SemiForge 全局确定性控制。
+
+作者: 晨星 (CJX0712)
+
+唯一入口 core.seed.set_all(seed) 一次性设齐 numpy / random / 本地 RNG,
+保证 demo 两次运行核心指标逐位一致。
+"""
+
+from __future__ import annotations
+
+import random as _random
+
+import numpy as np
+
+_SEED: int | None = None
+
+
+def set_all(seed: int) -> int:
+    """一次性设齐所有随机源。返回实际生效的 seed (供记录)。
+
+    覆盖: numpy (default_rng + 旧 RandomState 兜底) / 标准库 random /
+    本模块维护的独立 Generator。不触碰可能不存在的 torch 等。
+    """
+    global _SEED
+    _SEED = int(seed)
+    _random.seed(_SEED)
+    np.random.seed(_SEED)
+    return _SEED
+
+
+def get_seed() -> int | None:
+    return _SEED
+
+
+def rng() -> np.random.Generator:
+    """返回一个由当前全局 seed 派生的确定性生成器。
+
+    注意: 为避免多次调用产生相关流, 调用方应持有返回的 Generator 实例。
+    """
+    base = _SEED if _SEED is not None else 0
+    return np.random.default_rng(np.random.SeedSequence([base]))

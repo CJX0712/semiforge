@@ -1,1 +1,14 @@
-IiIiU2VtaUZvcmdlIOWNiuebkeedo+mihuWfn+WxguOAgiIiIgoKZnJvbSAuYmFzZSBpbXBvcnQgTGFiZWxTcHJlYWRpbmdTSywgU2VsZlRyYWluaW5nWEdCLCBTdXBlcnZpc2VkT25seSwgYXZhaWxhYmxlX3hnYm9vc3QKZnJvbSAubHBfbnVtcHkgaW1wb3J0IExhYmVsUHJvcGFnYXRpb25OdW1weQpmcm9tIC5zZW1pZnVzZSBpbXBvcnQgU2VtaUZ1c2UKCl9fYWxsX18gPSBbCiAgICAiTGFiZWxQcm9wYWdhdGlvbk51bXB5IiwKICAgICJMYWJlbFNwcmVhZGluZ1NLIiwKICAgICJTZWxmVHJhaW5pbmdYR0IiLAogICAgIlNlbWlGdXNlIiwKICAgICJTdXBlcnZpc2VkT25seSIsCiAgICAiYXZhaWxhYmxlX3hnYm9vc3QiLApdCg==
+"""SemiForge 半监督领域层。"""
+
+from .base import LabelSpreadingSK, SelfTrainingXGB, SupervisedOnly, available_xgboost
+from .lp_numpy import LabelPropagationNumpy
+from .semifuse import SemiFuse
+
+__all__ = [
+    "LabelPropagationNumpy",
+    "LabelSpreadingSK",
+    "SelfTrainingXGB",
+    "SemiFuse",
+    "SupervisedOnly",
+    "available_xgboost",
+]

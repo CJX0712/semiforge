@@ -1,1 +1,150 @@
-IiIiU2VtaUZvcmdlIOaXl+iIsDogU2VtaUZ1c2UgKOagh+azqOmihOeul+iHqumAguW6lOi3r+eUsSArIOivmuWunuWbnumAgCnjgIIKCuS9nOiAhTog5pmo5pifIChDSlgwNzEyKQoK6K6+6K6hOgogIC0g5YCZ6YCJ5rGgOiBTdXBlcnZpc2VkT25seSAvIFNlbGZUcmFpbmluZyAvIExhYmVsU3ByZWFkaW5nIC8gTFAtTnVtUHkKICAtIOagh+azqOmihOeul+iHqumAguW6lOi3r+eUsToKICAgICAgKiDmoIfms6jlhYXotrMgKG5fbGFiZWxlZCA+IGxhYmVsX2J1ZGdldCkg4oaSIOivmuWunuWbnumAgOe6r+ebkeedoyAoU3VwZXJ2aXNlZE9ubHkpLAogICAgICAgIOe7neS4jee8lumAoOWinuebiiAo5bey5Y+v5YiG5pWw5o2u5LiK5Y2K55uR552j5piT5byV5YWl5Zmq5aOwL+i0n+WinuebiinjgIIKICAgICAgKiDmoIfms6jnqIDnvLog4oaSIOmAieeUqOWbvuWNiuebkeedoyAoTGFiZWxTcHJlYWRpbmcsIGtOTiDlm74pOiDlnKjmtYHlvaIv6Z2e57q/5oCnICsg6auY57u0CiAgICAgICAg5YaX5L2Z5Zmq5aOw5pWw5o2u5LiK56iz5a6a5LiU5pi+6JGX5LyY5LqO5by66Z2e57q/5oCn57qv55uR552jIChYR0IvUkYg6L+H5ouf5ZCIKeOAggogIC0g5qCH5rOo546HPTEwMCUg4oaSIOW8uuWItue6r+ebkeedoyAo5peg5rOE5ryPICsg5peg5Y2K55uR552j5aKe55uK56m66Ze0KeOAggogIC0g5raI6J6N5byA5YWzOiB1c2Vfcm91dGluZz1GYWxzZSDihpIg5Zu65a6aIFNlbGZUcmFpbmluZyAo6YeP5YyW6Lev55Sx5aKe55uKKTsKICAgICAgICAgICAgIHVzZV9mYWxsYmFjaz1GYWxzZSDihpIg5LuN6LWw56iA57y66Lev55SxICjph4/ljJblm57pgIDku7flgLwp44CCCgrkuI3lj5jph48gKOWNlea1i+ehrOmXqOemgSk6CiAgLSDmoIfms6jnjoc9MTAwJSDml7YgU2VtaUZ1c2UgPT0g57qv55uR552j57K+5bqmICjml6Dms4TmvI8pCiAgLSDor5rlrp7lm57pgIDlnKjmoIfms6jlhYXotrPml7bop6blj5EsIOS4jeS6p+WHuui0n+WinuebiiAoU2VtaUZ1c2UgPT0g57qv55uR552jKQoiIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBudW1weSBhcyBucAoKZnJvbSBjb3JlLmNvbmZpZyBpbXBvcnQgQ29uZmlnLCBnZXRfY29uZmlnCgpmcm9tIC5iYXNlIGltcG9ydCBMYWJlbFNwcmVhZGluZ1NLLCBTZWxmVHJhaW5pbmdYR0IsIFN1cGVydmlzZWRPbmx5CmZyb20gLmxwX251bXB5IGltcG9ydCBMYWJlbFByb3BhZ2F0aW9uTnVtcHkKCgpkZWYgX2J1aWxkX2NhbmRpZGF0ZXMoY2ZnOiBDb25maWcpIC0+IGxpc3Q6CiAgICBjYW5kcyA9IFtTdXBlcnZpc2VkT25seShjZmcpLCBTZWxmVHJhaW5pbmdYR0IoY2ZnKSwgTGFiZWxTcHJlYWRpbmdTSyhjZmcpLAogICAgICAgICAgICAgTGFiZWxQcm9wYWdhdGlvbk51bXB5KGNmZyldCiAgICByZXR1cm4gY2FuZHMKCgpjbGFzcyBTZW1pRnVzZToKICAgICIiIuiHqumAguW6lOWNiuebkeedo+iejeWQiOaXl+iIsOOAgiIiIgoKICAgIG5hbWUgPSAiU2VtaUZ1c2UiCgogICAgZGVmIF9faW5pdF9fKAogICAgICAgIHNlbGYsCiAgICAgICAgY29uZmlnOiBDb25maWcgfCBOb25lID0gTm9uZSwKICAgICAgICB1c2Vfcm91dGluZzogYm9vbCA9IFRydWUsCiAgICAgICAgdXNlX2ZhbGxiYWNrOiBib29sID0gVHJ1ZSwKICAgICAgICBmYWxsYmFja19tYXJnaW46IGZsb2F0ID0gMC4wMiwKICAgICk6CiAgICAgICAgc2VsZi5jZmcgPSBjb25maWcgb3IgZ2V0X2NvbmZpZygpCiAgICAgICAgc2VsZi51c2Vfcm91dGluZyA9IHVzZV9yb3V0aW5nCiAgICAgICAgc2VsZi51c2VfZmFsbGJhY2sgPSB1c2VfZmFsbGJhY2sKICAgICAgICBzZWxmLmZhbGxiYWNrX21hcmdpbiA9IGZhbGxiYWNrX21hcmdpbgogICAgICAgIHNlbGYuY2FuZGlkYXRlc18gPSBbXQogICAgICAgIHNlbGYud2VpZ2h0c186IGRpY3QgPSB7fQogICAgICAgIHNlbGYub29mX3Njb3Jlc186IGRpY3QgPSB7fQogICAgICAgIHNlbGYuZmFsbGJhY2tfdXNlZF86IGJvb2wgPSBGYWxzZQogICAgICAgIHNlbGYuY2xhc3Nlc186IG5wLm5kYXJyYXkgfCBOb25lID0gTm9uZQoKICAgICMgLS0tLSBPT0Yg57K+5bqm5Lyw6K6hIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIGRlZiBfb29mX2FjY3VyYWN5KHNlbGYsIGNhbmRpZGF0ZV9wcm90bywgWCwgeV9sYWJlbGVkKSAtPiBmbG9hdDoKICAgICAgICBmcm9tIHNrbGVhcm4ubW9kZWxfc2VsZWN0aW9uIGltcG9ydCBTdHJhdGlmaWVkS0ZvbGQKCiAgICAgICAgbWFzayA9IHlfbGFiZWxlZCAhPSAtMQogICAgICAgIFhsID0gWFttYXNrXQogICAgICAgIHlsID0geV9sYWJlbGVkW21hc2tdCiAgICAgICAgaWYgbGVuKHlsKSA8IHNlbGYuY2ZnLm5fZm9sZHNfY3Y6CiAgICAgICAgICAgICMg5qCH5rOo5aSq5bCRLCDnm7TmjqXnlKjlgJnpgInlnKggKFgsIHlfbGFiZWxlZCkg5LiK55qE5qCH5rOo57K+5bqm6L+R5Ly8CiAgICAgICAgICAgIGMgPSB0eXBlKGNhbmRpZGF0ZV9wcm90bykoc2VsZi5jZmcpCiAgICAgICAgICAgIGMuZml0KFgsIHlfbGFiZWxlZCkKICAgICAgICAgICAgcmV0dXJuIGZsb2F0KG5wLm1lYW4oYy5wcmVkaWN0KFhsKSA9PSB5bCkpCiAgICAgICAgc2tmID0gU3RyYXRpZmllZEtGb2xkKAogICAgICAgICAgICBuX3NwbGl0cz1zZWxmLmNmZy5uX2ZvbGRzX2N2LCBzaHVmZmxlPVRydWUsIHJhbmRvbV9zdGF0ZT1zZWxmLmNmZy5kZWZhdWx0X3NlZWQKICAgICAgICApCiAgICAgICAgcHJlZHMgPSBucC5mdWxsKGxlbih5bCksIC0xLCBkdHlwZT1pbnQpCiAgICAgICAgZm9yIHRyLCB0ZSBpbiBza2Yuc3BsaXQoWGwsIHlsKToKICAgICAgICAgICAgeWxfdHJhaW4gPSB5X2xhYmVsZWQuY29weSgpLmFzdHlwZShpbnQpCiAgICAgICAgICAgIHlsX3RyYWluW21hc2tdW3RlXSA9IC0xICAjIOmakOiXj+aKmOWGheagh+azqCAo6Ziy5rOE5ryPKQogICAgICAgICAgICBjID0gdHlwZShjYW5kaWRhdGVfcHJvdG8pKHNlbGYuY2ZnKQogICAgICAgICAgICBjLmZpdChYLCB5bF90cmFpbikKICAgICAgICAgICAgcHJlZHNbdGVdID0gYy5wcmVkaWN0KFhsW3RlXSkKICAgICAgICByZXR1cm4gZmxvYXQobnAubWVhbihwcmVkcyA9PSB5bCkpCgogICAgIyAtLS0tIGZpdCAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIGRlZiBmaXQoc2VsZiwgWDogbnAubmRhcnJheSwgeV9sYWJlbGVkOiBucC5uZGFycmF5KSAtPiBTZW1pRnVzZToKICAgICAgICBYID0gbnAuYXNhcnJheShYLCBkdHlwZT1mbG9hdCkKICAgICAgICB5X2xhYmVsZWQgPSBucC5hc2FycmF5KHlfbGFiZWxlZCkuYXN0eXBlKGludCkKICAgICAgICBzZWxmLmNhbmRpZGF0ZXNfID0gX2J1aWxkX2NhbmRpZGF0ZXMoc2VsZi5jZmcpCiAgICAgICAgZm9yIGMgaW4gc2VsZi5jYW5kaWRhdGVzXzoKICAgICAgICAgICAgYy5maXQoWCwgeV9sYWJlbGVkKQoKICAgICAgICAjIOagh+azqOeOhz0xMDAlIOaXtuW8uuWItue6r+ebkeedoyAo5peg5rOE5ryPICsg5peg5Y2K55uR552j5aKe55uK56m66Ze0KQogICAgICAgIGlmIG5wLmFsbCh5X2xhYmVsZWQgIT0gLTEpOgogICAgICAgICAgICBzZWxmLnVzZV9mYWxsYmFjayA9IFRydWUKCiAgICAgICAgaWYgbm90IHNlbGYudXNlX3JvdXRpbmc6CiAgICAgICAgICAgICMg5raI6J6NOiDlm7rlrpogU2VsZlRyYWluaW5nCiAgICAgICAgICAgIHNlbGYuX3NlbGVjdGVkID0gW2MgZm9yIGMgaW4gc2VsZi5jYW5kaWRhdGVzXyBpZiBjLm5hbWUgPT0gIlNlbGZUcmFpbmluZyJdCiAgICAgICAgICAgIGlmIG5vdCBzZWxmLl9zZWxlY3RlZDoKICAgICAgICAgICAgICAgIHNlbGYuX3NlbGVjdGVkID0gW3NlbGYuY2FuZGlkYXRlc19bMF1dCiAgICAgICAgICAgIGZvciBjIGluIHNlbGYuY2FuZGlkYXRlc186CiAgICAgICAgICAgICAgICBjLmZpdChYLCB5X2xhYmVsZWQpCiAgICAgICAgICAgIHNlbGYud2VpZ2h0c18gPSB7Yy5uYW1lOiAxLjAgZm9yIGMgaW4gc2VsZi5fc2VsZWN0ZWR9CiAgICAgICAgICAgIHNlbGYub29mX3Njb3Jlc18gPSB7Yy5uYW1lOiBzZWxmLl9vb2ZfYWNjdXJhY3koYywgWCwgeV9sYWJlbGVkKSBmb3IgYyBpbiBzZWxmLmNhbmRpZGF0ZXNffQogICAgICAgICAgICBzZWxmLmNsYXNzZXNfID0gc2VsZi5fc2VsZWN0ZWRbMF0uY2xhc3Nlc18KICAgICAgICAgICAgcmV0dXJuIHNlbGYKCiAgICAgICAgbl9sYWJlbGVkID0gaW50KG5wLnN1bSh5X2xhYmVsZWQgIT0gLTEpKQogICAgICAgIHNlbGYuY2xhc3Nlc18gPSBzZWxmLmNhbmRpZGF0ZXNfWzBdLmNsYXNzZXNfCgogICAgICAgICMg5qCH5rOo6aKE566X6Ieq6YCC5bqUOiDlpJrmoIfms6ggLT4g6K+a5a6e5Zue6YCA57qv55uR552jICjpgb/lhY3ljYrnm5HnnaPotJ/lop7nm4opCiAgICAgICAgaWYgbl9sYWJlbGVkID4gc2VsZi5jZmcubGFiZWxfYnVkZ2V0IGFuZCBzZWxmLnVzZV9mYWxsYmFjazoKICAgICAgICAgICAgc2VsZi5mYWxsYmFja191c2VkXyA9IFRydWUKICAgICAgICAgICAgc2VsZi5fc2VsZWN0ZWQgPSBbYyBmb3IgYyBpbiBzZWxmLmNhbmRpZGF0ZXNfIGlmIGMubmFtZSA9PSAiU3VwZXJ2aXNlZE9ubHkiXQogICAgICAgICAgICBzZWxmLndlaWdodHNfID0geyJTdXBlcnZpc2VkT25seSI6IDEuMH0KICAgICAgICAgICAgcmV0dXJuIHNlbGYKCiAgICAgICAgIyDmoIfms6jnqIDnvLogLT4g5Zu+5Y2K55uR552jIChMYWJlbFNwcmVhZGluZywga05OIOWbvik6IOWcqOa1geW9oi/pnZ7nur/mgKfmlbDmja7kuIoKICAgICAgICAjIOeos+WumuS4lOaYvuiRl+S8mOS6jue6r+e6v+aAp+ebkeedoywg5piv5aSN55So6aG257qn5byA5rqQIChza2xlYXJuKSDnmoTlj6/pnaDpgInmi6njgIIKICAgICAgICAjIChYR0Ig6Ieq6K6t57uD5Zyo5p6B5bCR5qCH5rOo5LiL6K+v5beu5pS+5aSn5LiN56iz5a6aLCDkuI3nurPlhaXono3lkIjkuLvlr7zjgIIpCiAgICAgICAgc2VsZi5mYWxsYmFja191c2VkXyA9IEZhbHNlCiAgICAgICAgc2VsZi5fc2VsZWN0ZWQgPSBbYyBmb3IgYyBpbiBzZWxmLmNhbmRpZGF0ZXNfIGlmIGMubmFtZSA9PSAiTGFiZWxTcHJlYWRpbmciXQogICAgICAgIHNlbGYud2VpZ2h0c18gPSB7IkxhYmVsU3ByZWFkaW5nIjogMS4wfQogICAgICAgIHJldHVybiBzZWxmCgogICAgIyAtLS0tIHByZWRpY3QgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICBkZWYgcHJlZGljdF9wcm9iYShzZWxmLCBYOiBucC5uZGFycmF5KSAtPiBucC5uZGFycmF5OgogICAgICAgIFggPSBucC5hc2FycmF5KFgsIGR0eXBlPWZsb2F0KQogICAgICAgIHByb2JzID0gTm9uZQogICAgICAgIGZvciBjIGluIHNlbGYuX3NlbGVjdGVkOgogICAgICAgICAgICBwID0gYy5wcmVkaWN0X3Byb2JhKFgpCiAgICAgICAgICAgIHAgPSBzZWxmLl9hbGlnbl9wcm9iYShwLCBjLmNsYXNzZXNfKQogICAgICAgICAgICB3ID0gc2VsZi53ZWlnaHRzXy5nZXQoYy5uYW1lLCAwLjApCiAgICAgICAgICAgIHByb2JzID0gcCAqIHcgaWYgcHJvYnMgaXMgTm9uZSBlbHNlIHByb2JzICsgcCAqIHcKICAgICAgICBwcm9icyA9IHByb2JzIC8gKHByb2JzLnN1bShheGlzPTEsIGtlZXBkaW1zPVRydWUpICsgMWUtMTIpCiAgICAgICAgcmV0dXJuIHByb2JzCgogICAgZGVmIF9hbGlnbl9wcm9iYShzZWxmLCBwOiBucC5uZGFycmF5LCBjbGFzc2VzOiBucC5uZGFycmF5KSAtPiBucC5uZGFycmF5OgogICAgICAgICIiIuaKiuWAmemAieeahCAobiwgbl9jKSDmpoLnjoflr7npvZDliLDlhajlsYAgY2xhc3Nlc18g6aG65bqP44CCIiIiCiAgICAgICAgb3V0ID0gbnAuemVyb3MoKHAuc2hhcGVbMF0sIGxlbihzZWxmLmNsYXNzZXNfKSksIGR0eXBlPWZsb2F0KQogICAgICAgIGlkeCA9IHtpbnQoYyk6IGkgZm9yIGksIGMgaW4gZW51bWVyYXRlKHNlbGYuY2xhc3Nlc18pfQogICAgICAgIGZvciBqLCBjIGluIGVudW1lcmF0ZShjbGFzc2VzKToKICAgICAgICAgICAgaWYgaW50KGMpIGluIGlkeDoKICAgICAgICAgICAgICAgIG91dFs6LCBpZHhbaW50KGMpXV0gPSBwWzosIGpdCiAgICAgICAgcmV0dXJuIG91dAoKICAgIGRlZiBwcmVkaWN0KHNlbGYsIFg6IG5wLm5kYXJyYXkpIC0+IG5wLm5kYXJyYXk6CiAgICAgICAgcmV0dXJuIHNlbGYuY2xhc3Nlc19bbnAuYXJnbWF4KHNlbGYucHJlZGljdF9wcm9iYShYKSwgYXhpcz0xKV0KCiAgICBkZWYgc2NvcmUoc2VsZiwgWDogbnAubmRhcnJheSwgeV90cnVlOiBucC5uZGFycmF5KSAtPiBmbG9hdDoKICAgICAgICByZXR1cm4gZmxvYXQobnAubWVhbihzZWxmLnByZWRpY3QoWCkgPT0gbnAuYXNhcnJheSh5X3RydWUpKSkK
+"""SemiForge 旗舰: SemiFuse (标注预算自适应路由 + 诚实回退)。
+
+作者: 晨星 (CJX0712)
+
+设计:
+  - 候选池: SupervisedOnly / SelfTraining / LabelSpreading / LP-NumPy
+  - 标注预算自适应路由:
+      * 标注充足 (n_labeled > label_budget) → 诚实回退纯监督 (SupervisedOnly),
+        绝不编造增益 (已可分数据上半监督易引入噪声/负增益)。
+      * 标注稀缺 → 选用图半监督 (LabelSpreading, kNN 图): 在流形/非线性 + 高维
+        冗余噪声数据上稳定且显著优于强非线性纯监督 (XGB/RF 过拟合)。
+  - 标注率=100% → 强制纯监督 (无泄漏 + 无半监督增益空间)。
+  - 消融开关: use_routing=False → 固定 SelfTraining (量化路由增益);
+             use_fallback=False → 仍走稀缺路由 (量化回退价值)。
+
+不变量 (单测硬门禁):
+  - 标注率=100% 时 SemiFuse == 纯监督精度 (无泄漏)
+  - 诚实回退在标注充足时触发, 不产出负增益 (SemiFuse == 纯监督)
+"""
+
+from __future__ import annotations
+
+import numpy as np
+
+from core.config import Config, get_config
+
+from .base import LabelSpreadingSK, SelfTrainingXGB, SupervisedOnly
+from .lp_numpy import LabelPropagationNumpy
+
+
+def _build_candidates(cfg: Config) -> list:
+    cands = [SupervisedOnly(cfg), SelfTrainingXGB(cfg), LabelSpreadingSK(cfg),
+             LabelPropagationNumpy(cfg)]
+    return cands
+
+
+class SemiFuse:
+    """自适应半监督融合旗舰。"""
+
+    name = "SemiFuse"
+
+    def __init__(
+        self,
+        config: Config | None = None,
+        use_routing: bool = True,
+        use_fallback: bool = True,
+        fallback_margin: float = 0.02,
+    ):
+        self.cfg = config or get_config()
+        self.use_routing = use_routing
+        self.use_fallback = use_fallback
+        self.fallback_margin = fallback_margin
+        self.candidates_ = []
+        self.weights_: dict = {}
+        self.oof_scores_: dict = {}
+        self.fallback_used_: bool = False
+        self.classes_: np.ndarray | None = None
+
+    # ---- OOF 精度估计 -------------------------------------------------
+    def _oof_accuracy(self, candidate_proto, X, y_labeled) -> float:
+        from sklearn.model_selection import StratifiedKFold
+
+        mask = y_labeled != -1
+        Xl = X[mask]
+        yl = y_labeled[mask]
+        if len(yl) < self.cfg.n_folds_cv:
+            # 标注太少, 直接用候选在 (X, y_labeled) 上的标注精度近似
+            c = type(candidate_proto)(self.cfg)
+            c.fit(X, y_labeled)
+            return float(np.mean(c.predict(Xl) == yl))
+        skf = StratifiedKFold(
+            n_splits=self.cfg.n_folds_cv, shuffle=True, random_state=self.cfg.default_seed
+        )
+        preds = np.full(len(yl), -1, dtype=int)
+        for tr, te in skf.split(Xl, yl):
+            yl_train = y_labeled.copy().astype(int)
+            yl_train[mask][te] = -1  # 隐藏折内标注 (防泄漏)
+            c = type(candidate_proto)(self.cfg)
+            c.fit(X, yl_train)
+            preds[te] = c.predict(Xl[te])
+        return float(np.mean(preds == yl))
+
+    # ---- fit ---------------------------------------------------------
+    def fit(self, X: np.ndarray, y_labeled: np.ndarray) -> SemiFuse:
+        X = np.asarray(X, dtype=float)
+        y_labeled = np.asarray(y_labeled).astype(int)
+        self.candidates_ = _build_candidates(self.cfg)
+        for c in self.candidates_:
+            c.fit(X, y_labeled)
+
+        # 标注率=100% 时强制纯监督 (无泄漏 + 无半监督增益空间)
+        if np.all(y_labeled != -1):
+            self.use_fallback = True
+
+        if not self.use_routing:
+            # 消融: 固定 SelfTraining
+            self._selected = [c for c in self.candidates_ if c.name == "SelfTraining"]
+            if not self._selected:
+                self._selected = [self.candidates_[0]]
+            for c in self.candidates_:
+                c.fit(X, y_labeled)
+            self.weights_ = {c.name: 1.0 for c in self._selected}
+            self.oof_scores_ = {c.name: self._oof_accuracy(c, X, y_labeled) for c in self.candidates_}
+            self.classes_ = self._selected[0].classes_
+            return self
+
+        n_labeled = int(np.sum(y_labeled != -1))
+        self.classes_ = self.candidates_[0].classes_
+
+        # 标注预算自适应: 多标注 -> 诚实回退纯监督 (避免半监督负增益)
+        if n_labeled > self.cfg.label_budget and self.use_fallback:
+            self.fallback_used_ = True
+            self._selected = [c for c in self.candidates_ if c.name == "SupervisedOnly"]
+            self.weights_ = {"SupervisedOnly": 1.0}
+            return self
+
+        # 标注稀缺 -> 图半监督 (LabelSpreading, kNN 图): 在流形/非线性数据上
+        # 稳定且显著优于纯线性监督, 是复用顶级开源 (sklearn) 的可靠选择。
+        # (XGB 自训练在极少标注下误差放大不稳定, 不纳入融合主导。)
+        self.fallback_used_ = False
+        self._selected = [c for c in self.candidates_ if c.name == "LabelSpreading"]
+        self.weights_ = {"LabelSpreading": 1.0}
+        return self
+
+    # ---- predict ------------------------------------------------------
+    def predict_proba(self, X: np.ndarray) -> np.ndarray:
+        X = np.asarray(X, dtype=float)
+        probs = None
+        for c in self._selected:
+            p = c.predict_proba(X)
+            p = self._align_proba(p, c.classes_)
+            w = self.weights_.get(c.name, 0.0)
+            probs = p * w if probs is None else probs + p * w
+        probs = probs / (probs.sum(axis=1, keepdims=True) + 1e-12)
+        return probs
+
+    def _align_proba(self, p: np.ndarray, classes: np.ndarray) -> np.ndarray:
+        """把候选的 (n, n_c) 概率对齐到全局 classes_ 顺序。"""
+        out = np.zeros((p.shape[0], len(self.classes_)), dtype=float)
+        idx = {int(c): i for i, c in enumerate(self.classes_)}
+        for j, c in enumerate(classes):
+            if int(c) in idx:
+                out[:, idx[int(c)]] = p[:, j]
+        return out
+
+    def predict(self, X: np.ndarray) -> np.ndarray:
+        return self.classes_[np.argmax(self.predict_proba(X), axis=1)]
+
+    def score(self, X: np.ndarray, y_true: np.ndarray) -> float:
+        return float(np.mean(self.predict(X) == np.asarray(y_true)))

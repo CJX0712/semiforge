@@ -1,1 +1,69 @@
-IiIi55uR552jIC8g5Y2K55uR552j5qih5Z6L5o6l5Y+j5LiO5Z+65pys5q2j56Gu5oCn5rWL6K+VICjkvZzogIU6IOaZqOaYnynjgIIiIiIKCmltcG9ydCBudW1weSBhcyBucAppbXBvcnQgcHl0ZXN0Cgpmcm9tIGNvcmUuY29uZmlnIGltcG9ydCBnZXRfY29uZmlnCmZyb20gY29yZS5zZWVkIGltcG9ydCBzZXRfYWxsCmZyb20gZGF0YS5sb2FkZXJzIGltcG9ydCB0cmFpbl90ZXN0X3NwbGl0X3NlbWkKZnJvbSBkYXRhLnN5bnRoZXRpYyBpbXBvcnQgbWFrZV9zZW1pX3N5bnRoZXRpYwpmcm9tIHNlbWkuYmFzZSBpbXBvcnQgKAogICAgTGFiZWxTcHJlYWRpbmdTSywKICAgIFNlbGZUcmFpbmluZ1hHQiwKICAgIFN1cGVydmlzZWRPbmx5LAogICAgU3VwZXJ2aXNlZFJGLAogICAgU3VwZXJ2aXNlZFhHQiwKICAgIGF2YWlsYWJsZV94Z2Jvb3N0LAopCmZyb20gc2VtaS5scF9udW1weSBpbXBvcnQgTGFiZWxQcm9wYWdhdGlvbk51bXB5CgpjZmcgPSBnZXRfY29uZmlnKCkKc2V0X2FsbChjZmcuZGVmYXVsdF9zZWVkKQoKCmRlZiBfZGF0YShuX2xhYmVsZWQ9MTIsIG5fdG90YWw9MjAwLCBvdmVybGFwPTAuMyk6CiAgICBkID0gbWFrZV9zZW1pX3N5bnRoZXRpYyhuX3RvdGFsPW5fdG90YWwsIG5fbGFiZWxlZD1uX2xhYmVsZWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBuX2ZlYXR1cmVzPTgsIG5fY2xhc3Nlcz0yLCBvdmVybGFwPW92ZXJsYXAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZ3A9Im1vb25zIiwgc2VlZD00KQogICAgdHJhaW4sIHRlc3QgPSB0cmFpbl90ZXN0X3NwbGl0X3NlbWkoZCwgdGVzdF9zaXplPTAuMywgc2VlZD1jZmcuZGVmYXVsdF9zZWVkKQogICAgcmV0dXJuIHRyYWluLCB0ZXN0CgoKX01PREVMUyA9IFtTdXBlcnZpc2VkT25seSwgU3VwZXJ2aXNlZFhHQiwgU3VwZXJ2aXNlZFJGLCBTZWxmVHJhaW5pbmdYR0IsCiAgICAgICAgICAgTGFiZWxTcHJlYWRpbmdTSywgTGFiZWxQcm9wYWdhdGlvbk51bXB5XQoKCkBweXRlc3QubWFyay5wYXJhbWV0cml6ZSgiZmFjdG9yeSIsIF9NT0RFTFMpCmRlZiB0ZXN0X21vZGVsX2ZpdF9wcmVkaWN0X3Njb3JlKGZhY3RvcnkpOgogICAgdHJhaW4sIHRlc3QgPSBfZGF0YSgpCiAgICBtID0gZmFjdG9yeShjZmcpCiAgICBtLmZpdCh0cmFpbi5YLCB0cmFpbi55X2xhYmVsZWQpCiAgICBwcmVkID0gbS5wcmVkaWN0KHRlc3QuWCkKICAgIGFzc2VydCBwcmVkLnNoYXBlID09ICh0ZXN0Lm5fc2FtcGxlcywpCiAgICBhc3NlcnQgc2V0KG5wLnVuaXF1ZShwcmVkKS50b2xpc3QoKSkuaXNzdWJzZXQoc2V0KG5wLnVuaXF1ZSh0cmFpbi55X3RydWUpLnRvbGlzdCgpKSkKICAgIGFzc2VydCAwLjAgPD0gbS5zY29yZSh0ZXN0LlgsIHRlc3QueV90cnVlKSA8PSAxLjAKICAgICMgY2xhc3Nlc18g5b+F6aG76KKr6K6+572uCiAgICBhc3NlcnQgbS5jbGFzc2VzXyBpcyBub3QgTm9uZSBhbmQgbGVuKG0uY2xhc3Nlc18pID09IDIKCgpAcHl0ZXN0Lm1hcmsucGFyYW1ldHJpemUoImZhY3RvcnkiLCBfTU9ERUxTKQpkZWYgdGVzdF9tb2RlbF9wcmVkaWN0X3Byb2JhKGZhY3RvcnkpOgogICAgdHJhaW4sIHRlc3QgPSBfZGF0YSgpCiAgICBtID0gZmFjdG9yeShjZmcpCiAgICBtLmZpdCh0cmFpbi5YLCB0cmFpbi55X2xhYmVsZWQpCiAgICBwID0gbS5wcmVkaWN0X3Byb2JhKHRlc3QuWCkKICAgIGFzc2VydCBwLnNoYXBlID09ICh0ZXN0Lm5fc2FtcGxlcywgMikKICAgIGFzc2VydCBucC5hbGxjbG9zZShwLnN1bShheGlzPTEpLCAxLjAsIGF0b2w9MWUtNikKCgpkZWYgdGVzdF9sYWJlbGVkX29ubHlfbW9kZWxzX3Jlc3BlY3RfdW5sYWJlbGVkKCk6CiAgICAjIFN1cGVydmlzZWRPbmx5IOWPquWcqOagh+azqOagt+acrOS4iuiuree7gywg6aKE5rWL5LiN5bqU5Zug5peg5qCH5rOo5qC35pys5pS55Y+YCiAgICB0cmFpbiwgdGVzdCA9IF9kYXRhKG5fbGFiZWxlZD0xMCkKICAgIG0gPSBTdXBlcnZpc2VkT25seShjZmcpCiAgICBtLmZpdCh0cmFpbi5YLCB0cmFpbi55X2xhYmVsZWQpCiAgICBwcmVkID0gbS5wcmVkaWN0KHRlc3QuWCkKICAgIGFzc2VydCBwcmVkLnNoYXBlID09ICh0ZXN0Lm5fc2FtcGxlcywpCgoKZGVmIHRlc3RfeGdib29zdF9hdmFpbGFiaWxpdHlfZmxhZygpOgogICAgYXNzZXJ0IGF2YWlsYWJsZV94Z2Jvb3N0KCkgaW4gKFRydWUsIEZhbHNlKQo=
+"""监督 / 半监督模型接口与基本正确性测试 (作者: 晨星)。"""
+
+import numpy as np
+import pytest
+
+from core.config import get_config
+from core.seed import set_all
+from data.loaders import train_test_split_semi
+from data.synthetic import make_semi_synthetic
+from semi.base import (
+    LabelSpreadingSK,
+    SelfTrainingXGB,
+    SupervisedOnly,
+    SupervisedRF,
+    SupervisedXGB,
+    available_xgboost,
+)
+from semi.lp_numpy import LabelPropagationNumpy
+
+cfg = get_config()
+set_all(cfg.default_seed)
+
+
+def _data(n_labeled=12, n_total=200, overlap=0.3):
+    d = make_semi_synthetic(n_total=n_total, n_labeled=n_labeled,
+                            n_features=8, n_classes=2, overlap=overlap,
+                            dgp="moons", seed=4)
+    train, test = train_test_split_semi(d, test_size=0.3, seed=cfg.default_seed)
+    return train, test
+
+
+_MODELS = [SupervisedOnly, SupervisedXGB, SupervisedRF, SelfTrainingXGB,
+           LabelSpreadingSK, LabelPropagationNumpy]
+
+
+@pytest.mark.parametrize("factory", _MODELS)
+def test_model_fit_predict_score(factory):
+    train, test = _data()
+    m = factory(cfg)
+    m.fit(train.X, train.y_labeled)
+    pred = m.predict(test.X)
+    assert pred.shape == (test.n_samples,)
+    assert set(np.unique(pred).tolist()).issubset(set(np.unique(train.y_true).tolist()))
+    assert 0.0 <= m.score(test.X, test.y_true) <= 1.0
+    # classes_ 必须被设置
+    assert m.classes_ is not None and len(m.classes_) == 2
+
+
+@pytest.mark.parametrize("factory", _MODELS)
+def test_model_predict_proba(factory):
+    train, test = _data()
+    m = factory(cfg)
+    m.fit(train.X, train.y_labeled)
+    p = m.predict_proba(test.X)
+    assert p.shape == (test.n_samples, 2)
+    assert np.allclose(p.sum(axis=1), 1.0, atol=1e-6)
+
+
+def test_labeled_only_models_respect_unlabeled():
+    # SupervisedOnly 只在标注样本上训练, 预测不应因无标注样本改变
+    train, test = _data(n_labeled=10)
+    m = SupervisedOnly(cfg)
+    m.fit(train.X, train.y_labeled)
+    pred = m.predict(test.X)
+    assert pred.shape == (test.n_samples,)
+
+
+def test_xgboost_availability_flag():
+    assert available_xgboost() in (True, False)

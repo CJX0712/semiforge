@@ -1,1 +1,47 @@
-IiIiQ0xJIOWGkueDnyArIOeuoee6v+ehruWumuaAp+a1i+ivlSAo5L2c6ICFOiDmmajmmJ8p44CCIiIiCgppbXBvcnQgbnVtcHkgYXMgbnAKCmltcG9ydCBjbGkgYXMgY2xpX21vZApmcm9tIGNvcmUuY29uZmlnIGltcG9ydCBnZXRfY29uZmlnCmZyb20gY29yZS5zZWVkIGltcG9ydCBzZXRfYWxsCmZyb20gcGlwZWxpbmUucGlwZWxpbmUgaW1wb3J0IFNlbWlQaXBlbGluZQoKY2ZnID0gZ2V0X2NvbmZpZygpCnNldF9hbGwoY2ZnLmRlZmF1bHRfc2VlZCkKCgpkZWYgdGVzdF9jbGlfcnVuX3Ntb2tlKGNhcHN5cyk6CiAgICByYyA9IGNsaV9tb2QubWFpbihbInJ1biIsICItLW5fbGFiZWxlZCIsICIxMCIsICItLXNlZWRzIiwgIjIiLAogICAgICAgICAgICAgICAgICAgICAgICItLW92ZXJsYXAiLCAiMC4yIiwgIi0tbl90b3RhbCIsICIxMjAiXSkKICAgIGFzc2VydCByYyA9PSAwCiAgICBvdXQgPSBjYXBzeXMucmVhZG91dGVycigpLm91dAogICAgYXNzZXJ0ICJTZW1pRnVzZSIgaW4gb3V0CiAgICBhc3NlcnQgIkxhYmVsU3ByZWFkaW5nIiBpbiBvdXQKCgpkZWYgdGVzdF9waXBlbGluZV9iZW5jaG1hcmtfZGV0ZXJtaW5pc3RpYygpOgogICAgcGlwZSA9IFNlbWlQaXBlbGluZShjZmcpCiAgICByZWdpbWVzID0gW3siZGdwIjogIm1vb25zIiwgIm92ZXJsYXAiOiAwLjIsICJuX2xhYmVsZWQiOiAxMCwKICAgICAgICAgICAgICAgICJuX3RvdGFsIjogMTUwLCAibl9mZWF0dXJlcyI6IDEwLCAibGFiZWxfbm9pc2UiOiAwLjAsCiAgICAgICAgICAgICAgICAibl9jbGFzc2VzIjogMn1dCiAgICBiMSA9IHBpcGUuYmVuY2htYXJrKHJlZ2ltZXMsIFsxLCAyXSkKICAgIGIyID0gcGlwZS5iZW5jaG1hcmsocmVnaW1lcywgWzEsIDJdKQogICAgYTEgPSBzb3J0ZWQoW3JbImFjY3VyYWN5Il0gZm9yIHIgaW4gYjFbInJvd3MiXV0pCiAgICBhMiA9IHNvcnRlZChbclsiYWNjdXJhY3kiXSBmb3IgciBpbiBiMlsicm93cyJdXSkKICAgIGFzc2VydCBucC5hbGxjbG9zZShhMSwgYTIsIGF0b2w9MC4wKQoKCmRlZiB0ZXN0X2RlbW9fcmVwcm9kdWNpYmxlKHRtcF9wYXRoKToKICAgICMg6LeR5Lik5qyhIGRlbW8g5a2Q5rWB56iLLCDmr5Tlr7kgYWNjdXJhY3kg6KGMICjmjpLpmaTorqHml7Yv5pe26Ze05oizKQogICAgaW1wb3J0IGV4YW1wbGVzLnJ1bl9kZW1vIGFzIGRlbW8KCiAgICBkZWYgcnVuX29uY2UoKToKICAgICAgICByZXAgPSBkZW1vLm1haW4oKQogICAgICAgIHJldHVybiBzb3J0ZWQoW3JbImFjY3VyYWN5Il0gZm9yIHIgaW4gcmVwWyJiZW5jaG1hcmsiXVsicm93cyJdXSkKCiAgICBhID0gcnVuX29uY2UoKQogICAgYiA9IHJ1bl9vbmNlKCkKICAgIGFzc2VydCBucC5hbGxjbG9zZShhLCBiLCBhdG9sPTAuMCkKICAgICMgZGV0ZXJtaW5pc20g5a2X5q615bqUIFRydWUKICAgIGFzc2VydCBkZW1vLmRldGVybWluaXNtX2NoZWNrKFNlbWlQaXBlbGluZShjZmcpLCBkZW1vLlJFR0lNRVNbMF0sIGNmZylbInBhc3NlZCJdCg==
+"""CLI 冒烟 + 管线确定性测试 (作者: 晨星)。"""
+
+import numpy as np
+
+import cli as cli_mod
+from core.config import get_config
+from core.seed import set_all
+from pipeline.pipeline import SemiPipeline
+
+cfg = get_config()
+set_all(cfg.default_seed)
+
+
+def test_cli_run_smoke(capsys):
+    rc = cli_mod.main(["run", "--n_labeled", "10", "--seeds", "2",
+                       "--overlap", "0.2", "--n_total", "120"])
+    assert rc == 0
+    out = capsys.readouterr().out
+    assert "SemiFuse" in out
+    assert "LabelSpreading" in out
+
+
+def test_pipeline_benchmark_deterministic():
+    pipe = SemiPipeline(cfg)
+    regimes = [{"dgp": "moons", "overlap": 0.2, "n_labeled": 10,
+                "n_total": 150, "n_features": 10, "label_noise": 0.0,
+                "n_classes": 2}]
+    b1 = pipe.benchmark(regimes, [1, 2])
+    b2 = pipe.benchmark(regimes, [1, 2])
+    a1 = sorted([r["accuracy"] for r in b1["rows"]])
+    a2 = sorted([r["accuracy"] for r in b2["rows"]])
+    assert np.allclose(a1, a2, atol=0.0)
+
+
+def test_demo_reproducible(tmp_path):
+    # 跑两次 demo 子流程, 比对 accuracy 行 (排除计时/时间戳)
+    import examples.run_demo as demo
+
+    def run_once():
+        rep = demo.main()
+        return sorted([r["accuracy"] for r in rep["benchmark"]["rows"]])
+
+    a = run_once()
+    b = run_once()
+    assert np.allclose(a, b, atol=0.0)
+    # determinism 字段应 True
+    assert demo.determinism_check(SemiPipeline(cfg), demo.REGIMES[0], cfg)["passed"]
