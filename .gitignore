@@ -1,10 +1,1 @@
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-.pytest_cache/
-.ruff_cache/
-*.egg-info/
-dist/
-build/
-.DS_Store
+IyBTZW1pRm9yZ2UgLmdpdGlnbm9yZSAo5L2c6ICFOiDmmajmmJ8pCl9fcHljYWNoZV9fLwoqLnB5W2NvZF0KKi5lZ2ctaW5mby8KLmVnZ3MvCmJ1aWxkLwpkaXN0LwoKIyDomZrmi5/njq/looMKLnZlbnYvCnZlbnYvCmVudi8KCiMg5rWL6K+VIC8gbGludCDnvJPlrZgKLnB5dGVzdF9jYWNoZS8KLnJ1ZmZfY2FjaGUvCi5jb3ZlcmFnZQpodG1sY292LwoKIyDnvJbovpHlmaggLyBPUwoudnNjb2RlLwouaWRlYS8KKi5zd3AKVGh1bWJzLmRiCi5EU19TdG9yZQoKIyDmnKzlnLDkuLTml7YKKi50bXAKZGVidWdfKi5weQpxdWlja19jaGVjay5weQo=

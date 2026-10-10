@@ -1,16 +1,1 @@
-[project]
-name = "semiforge"
-version = "0.1.0"
-description = "SemiForge: modular semi-supervised learning system (graph propagation + class-balanced curriculum pseudo-labeling hybrid)"
-authors = [{ name = "晨星" }]
-requires-python = ">=3.10"
-dependencies = ["numpy>=1.26", "scipy>=1.11", "scikit-learn>=1.4", "optuna>=3.6"]
-
-[tool.pytest.ini_options]
-pythonpath = ["."]
-testpaths = ["tests"]
-addopts = "-q"
-
-[tool.ruff]
-line-length = 96
-target-version = "py310"
+W3Rvb2wucHl0ZXN0LmluaV9vcHRpb25zXQpweXRob25wYXRoID0gWyIuIl0KdGVzdHBhdGhzID0gWyJ0ZXN0cyJdCmZpbHRlcndhcm5pbmdzID0gWwogICAgImlnbm9yZTo6UnVudGltZVdhcm5pbmciLApdCmFkZG9wdHMgPSAiLXEiCg==

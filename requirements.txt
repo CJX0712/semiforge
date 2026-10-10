@@ -1,7 +1,1 @@
-# SemiForge runtime + test deps (pinned)
-numpy>=1.26
-scipy>=1.11
-scikit-learn>=1.5.0
-optuna>=3.6
-pytest>=8.0
-ruff>=0.6
+IyBTZW1pRm9yZ2Ug6L+Q6KGM5pe25L6d6LWWICjkvZzogIU6IOaZqOaYnykKIyDlronoo4U6IHBpcCBpbnN0YWxsIC1yIHJlcXVpcmVtZW50cy50eHQKbnVtcHk+PTIuMApzY2lweT49MS4xMApzY2lraXQtbGVhcm4+PTEuNS4wCnhnYm9vc3Q+PTIuMAo=

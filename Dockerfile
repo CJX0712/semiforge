@@ -1,12 +1,1 @@
-FROM python:3.12-slim
-
-WORKDIR /app
-COPY requirements.txt requirements.lock.txt ./
-RUN pip install --no-cache-dir -r requirements.txt
-
-COPY semiforge ./semiforge
-COPY examples ./examples
-COPY tests ./tests
-COPY pyproject.toml README.md ./
-
-CMD ["python", "examples/run_demo.py"]
+IyBTZW1pRm9yZ2Ug6L+Q6KGM5pe26ZWc5YOPICjkvZzogIU6IOaZqOaYnykKRlJPTSBweXRob246My4xMy1zbGltCgpXT1JLRElSIC9hcHAKCiMg5a6J6KOF6L+Q6KGM5pe25L6d6LWWCkNPUFkgcmVxdWlyZW1lbnRzLnR4dCAuClJVTiBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHMudHh0CgojIOaLt+i0nea6kOeggQpDT1BZIC4gLgoKIyDov5DooYznq6/liLDnq6/ln7rlh4YgKOiQveebmCBiZW5jaG1hcmsuanNvbikKQ01EIFsicHl0aG9uIiwgImNsaS5weSIsICJkZW1vIl0K
